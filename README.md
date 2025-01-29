@@ -1,6 +1,4 @@
-# SGS-GNN
-
-SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks
+# SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks
 
 SGS-GNN is a novel supervised graph sparsification algorithm that learns the sampling probability distribution of edges and samples sparse subgraphs of a user-specified size to reduce the memory required by GNNs for inference tasks on large graphs.
 
@@ -50,5 +48,13 @@ Interpretation:
 
 Some other parameters and settings can be found at `sgs-gnn-batch/parser.py`
 
+# Codes of Related Methods:
+
+- NeuralSparse: https://github.com/flyingdoog/PTDNet
+- SparseGAT: https://github.com/Yangyeeee/SGAT
+- Mixture of graphs (MOG): https://github.com/yanweiyue/MoG
+- GraphSAINT: https://pytorch-geometric.readthedocs.io/en/2.3.1/_modules/torch_geometric/loader/graph_saint.html
+- ClusterGCN: https://pytorch-geometric.readthedocs.io/en/2.3.1/_modules/torch_geometric/loader/cluster.html
+- DropEdge: https://github.com/DropEdge/DropEdge
 
 
