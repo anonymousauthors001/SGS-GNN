@@ -2,9 +2,12 @@
 
 SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks
 
-#Installation:
+SGS-GNN is a novel supervised graph sparsification algorithm that learns the sampling probability distribution of edges and samples sparse subgraphs of a user-specified size to reduce the memory required by GNNs for inference tasks on large graphs.
+
+# Installation:
 
 These are the necessary packages for installation from scratch and other related packages.
+
 ```
 Python version: 3.11
 Pytorch version: 2.0.1
@@ -13,13 +16,14 @@ Cudnn: 8.6
 Pytorch-Geometric: 2.3.1
 ```
 
-For convenience, find conda packages used in `environment.yml`, and PIP packages are in `requirements.txt`
+For direct installation, Conda packages are in `environment.yml`, and PIP packages are in `requirements.txt` and can be imported as,
+
 ```
 conda env create -f environment.yml
 pip install -r requirements.txt
 ```
 
-#Example usage
+# Example usage
 
 In the `sgs-gnn-batch/Scripts` folder, there are bash-scripts that show how our methods can be run. Below are some of the usage examples.
 
@@ -28,6 +32,9 @@ In the `sgs-gnn-batch/Scripts` folder, there are bash-scripts that show how our 
 For a more specific combination,
 
 `python main.py --dataset SmallCora --mode 'learned' --runs 5 --epochs 200 --save_csv True --sample_perc 0.2 --edge_mlp_type GCN --GNN GCN --nhid 128 --sparse_edge_mlp True --conditional True --reg1 True --reg2 True`
+
+
+Interpretation:
 
 - `mode` `learned` is for SGS-GNN. Options are `full, edge, random, learned` for fixed distribution samplers, complete graphs version, or our learned sampler.
 - `runs` How many times we want to execute the progam
