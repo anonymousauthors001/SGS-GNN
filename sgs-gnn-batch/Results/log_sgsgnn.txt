@@ -1,0 +1,2088 @@
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.7436, Train F1: 0.5977, Val F1: 0.5593, Test F1: 0.5946
+Epoch 0, Loss: 1.7436, Train F1: 0.5977, Val F1: 0.5593, Test F1: 0.5946
+*Epoch 1, model saved with Loss: 2.1778, Train F1: 0.6207, Val F1: 0.5932, Test F1: 0.5676
+*Epoch 6, model saved with Loss: 0.9172, Train F1: 0.8046, Val F1: 0.5932, Test F1: 0.5135
+*Epoch 7, model saved with Loss: 0.8572, Train F1: 0.8506, Val F1: 0.6102, Test F1: 0.4865
+*Epoch 8, model saved with Loss: 0.7476, Train F1: 0.8621, Val F1: 0.6271, Test F1: 0.5135
+*Epoch 9, model saved with Loss: 1.4063, Train F1: 0.8851, Val F1: 0.6780, Test F1: 0.4595
+*Epoch 10, model saved with Loss: 1.3149, Train F1: 0.8851, Val F1: 0.6949, Test F1: 0.4595
+*Epoch 19, model saved with Loss: 0.6458, Train F1: 0.9540, Val F1: 0.6949, Test F1: 0.6216
+*Epoch 20, model saved with Loss: 0.5954, Train F1: 0.9540, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 21, model saved with Loss: 0.5937, Train F1: 0.9770, Val F1: 0.7288, Test F1: 0.6757
+*Epoch 22, model saved with Loss: 0.5773, Train F1: 0.9770, Val F1: 0.7288, Test F1: 0.7027
+*Epoch 23, model saved with Loss: 0.5325, Train F1: 0.9885, Val F1: 0.7288, Test F1: 0.7027
+*Epoch 24, model saved with Loss: 0.5363, Train F1: 0.9885, Val F1: 0.7288, Test F1: 0.7027
+*Epoch 25, model saved with Loss: 0.5066, Train F1: 0.9885, Val F1: 0.7288, Test F1: 0.7027
+*Epoch 26, model saved with Loss: 0.4740, Train F1: 0.9885, Val F1: 0.7288, Test F1: 0.7027
+*Epoch 27, model saved with Loss: 0.4459, Train F1: 0.9885, Val F1: 0.7288, Test F1: 0.7027
+*Epoch 28, model saved with Loss: 0.4227, Train F1: 0.9885, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 54, model saved with Loss: 0.2022, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 55, model saved with Loss: 0.1906, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 56, model saved with Loss: 0.1930, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 57, model saved with Loss: 0.1998, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 58, model saved with Loss: 0.1781, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 59, model saved with Loss: 0.2019, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 60, model saved with Loss: 0.2028, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 61, model saved with Loss: 0.1864, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 62, model saved with Loss: 0.1932, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 63, model saved with Loss: 0.1780, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 64, model saved with Loss: 0.1545, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 65, model saved with Loss: 0.1531, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 66, model saved with Loss: 0.1571, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 67, model saved with Loss: 0.1624, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 68, model saved with Loss: 0.1531, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+Epoch 100, Loss: 0.0786, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7568
+*Epoch 125, model saved with Loss: 0.0651, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 126, model saved with Loss: 0.0597, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 127, model saved with Loss: 0.0679, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 128, model saved with Loss: 0.0648, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 158, model saved with Loss: 0.0453, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 187, model saved with Loss: 0.0421, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 188, model saved with Loss: 0.0449, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 189, model saved with Loss: 0.0546, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 190, model saved with Loss: 0.0400, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 191, model saved with Loss: 0.0608, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 192, model saved with Loss: 0.0455, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 193, model saved with Loss: 0.0404, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 194, model saved with Loss: 0.0519, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 195, model saved with Loss: 0.0329, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 196, model saved with Loss: 0.0514, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 197, model saved with Loss: 0.0512, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 198, model saved with Loss: 0.0503, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 199, model saved with Loss: 0.0428, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 200, model saved with Loss: 0.0386, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+Epoch 200, Loss: 0.0386, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 201, model saved with Loss: 0.0412, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 202, model saved with Loss: 0.0408, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 203, model saved with Loss: 0.0471, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 204, model saved with Loss: 0.0616, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 205, model saved with Loss: 0.0496, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 206, model saved with Loss: 0.0474, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 207, model saved with Loss: 0.0882, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 208, model saved with Loss: 0.0636, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7838
+Mean epoch time of run 0.0133
+Iteration:  250
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation at val: 0.7797
+Best Test F1 after loading saved model: 0.7838
+Run: 1
+*Epoch 0, model saved with Loss: 2.4741, Train F1: 0.5632, Val F1: 0.3729, Test F1: 0.3514
+Epoch 0, Loss: 2.4741, Train F1: 0.5632, Val F1: 0.3729, Test F1: 0.3514
+*Epoch 1, model saved with Loss: 2.1389, Train F1: 0.6552, Val F1: 0.5932, Test F1: 0.4324
+*Epoch 2, model saved with Loss: 1.2638, Train F1: 0.6552, Val F1: 0.5932, Test F1: 0.5135
+*Epoch 3, model saved with Loss: 1.8303, Train F1: 0.6782, Val F1: 0.5932, Test F1: 0.5135
+*Epoch 6, model saved with Loss: 1.3914, Train F1: 0.8391, Val F1: 0.5932, Test F1: 0.5135
+*Epoch 7, model saved with Loss: 1.2015, Train F1: 0.8851, Val F1: 0.6271, Test F1: 0.5135
+*Epoch 10, model saved with Loss: 0.9881, Train F1: 0.8851, Val F1: 0.6441, Test F1: 0.5946
+*Epoch 11, model saved with Loss: 0.8315, Train F1: 0.9080, Val F1: 0.6441, Test F1: 0.5946
+*Epoch 12, model saved with Loss: 0.8009, Train F1: 0.9425, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 13, model saved with Loss: 0.7347, Train F1: 0.9425, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 14, model saved with Loss: 0.6976, Train F1: 0.9425, Val F1: 0.6949, Test F1: 0.6486
+*Epoch 17, model saved with Loss: 0.5754, Train F1: 0.9540, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 18, model saved with Loss: 0.5518, Train F1: 0.9655, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 19, model saved with Loss: 0.5383, Train F1: 0.9655, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 21, model saved with Loss: 0.4800, Train F1: 0.9885, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 22, model saved with Loss: 0.4732, Train F1: 0.9885, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 23, model saved with Loss: 0.4265, Train F1: 0.9885, Val F1: 0.6949, Test F1: 0.7297
+*Epoch 24, model saved with Loss: 0.4241, Train F1: 0.9885, Val F1: 0.7119, Test F1: 0.7297
+*Epoch 25, model saved with Loss: 0.4032, Train F1: 0.9885, Val F1: 0.7288, Test F1: 0.7297
+*Epoch 26, model saved with Loss: 0.4036, Train F1: 1.0000, Val F1: 0.7288, Test F1: 0.7297
+*Epoch 27, model saved with Loss: 0.3894, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7297
+*Epoch 28, model saved with Loss: 0.4101, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7297
+*Epoch 29, model saved with Loss: 0.3332, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 34, model saved with Loss: 0.2864, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 35, model saved with Loss: 0.2777, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 36, model saved with Loss: 0.2627, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 85, model saved with Loss: 0.0792, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 86, model saved with Loss: 0.0852, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 87, model saved with Loss: 0.0737, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 88, model saved with Loss: 0.0762, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 89, model saved with Loss: 0.1143, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 90, model saved with Loss: 0.0660, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 91, model saved with Loss: 0.0818, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 92, model saved with Loss: 0.0593, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 93, model saved with Loss: 0.0797, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+Epoch 100, Loss: 0.0561, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+*Epoch 112, model saved with Loss: 0.0505, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 118, model saved with Loss: 0.0633, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 124, model saved with Loss: 0.0470, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 125, model saved with Loss: 0.0509, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 126, model saved with Loss: 0.0505, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 127, model saved with Loss: 0.0548, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 128, model saved with Loss: 0.0700, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 129, model saved with Loss: 0.1223, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 145, model saved with Loss: 0.1026, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 146, model saved with Loss: 0.1478, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 147, model saved with Loss: 0.0935, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 148, model saved with Loss: 0.0650, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 149, model saved with Loss: 0.0811, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+Epoch 200, Loss: 0.0455, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7027
+Mean epoch time of run 0.0122
+Iteration:  250
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.7797
+Best Test F1 after loading saved model: 0.7027
+Run: 2
+*Epoch 0, model saved with Loss: 2.3818, Train F1: 0.5057, Val F1: 0.5424, Test F1: 0.4054
+Epoch 0, Loss: 2.3818, Train F1: 0.5057, Val F1: 0.5424, Test F1: 0.4054
+*Epoch 1, model saved with Loss: 1.3714, Train F1: 0.6437, Val F1: 0.5763, Test F1: 0.4595
+*Epoch 5, model saved with Loss: 1.4172, Train F1: 0.8046, Val F1: 0.6271, Test F1: 0.5135
+*Epoch 11, model saved with Loss: 0.8433, Train F1: 0.9310, Val F1: 0.6610, Test F1: 0.5946
+*Epoch 12, model saved with Loss: 0.7865, Train F1: 0.9310, Val F1: 0.6610, Test F1: 0.6216
+*Epoch 13, model saved with Loss: 0.7121, Train F1: 0.9310, Val F1: 0.7288, Test F1: 0.6216
+*Epoch 32, model saved with Loss: 0.3281, Train F1: 1.0000, Val F1: 0.7288, Test F1: 0.7838
+*Epoch 33, model saved with Loss: 0.2995, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7838
+*Epoch 34, model saved with Loss: 0.2913, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7838
+*Epoch 35, model saved with Loss: 0.2688, Train F1: 0.9770, Val F1: 0.7458, Test F1: 0.7838
+*Epoch 38, model saved with Loss: 0.2358, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.8108
+*Epoch 39, model saved with Loss: 0.2729, Train F1: 0.9885, Val F1: 0.7797, Test F1: 0.8108
+*Epoch 41, model saved with Loss: 0.2066, Train F1: 0.9885, Val F1: 0.7797, Test F1: 0.8108
+*Epoch 42, model saved with Loss: 0.2148, Train F1: 0.9885, Val F1: 0.7966, Test F1: 0.8108
+*Epoch 44, model saved with Loss: 0.2281, Train F1: 1.0000, Val F1: 0.7966, Test F1: 0.8108
+Epoch 100, Loss: 0.0721, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7838
+*Epoch 125, model saved with Loss: 0.0498, Train F1: 1.0000, Val F1: 0.7966, Test F1: 0.7297
+Epoch 200, Loss: 0.0492, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7838
+*Epoch 237, model saved with Loss: 0.0420, Train F1: 1.0000, Val F1: 0.7966, Test F1: 0.7568
+*Epoch 238, model saved with Loss: 0.0407, Train F1: 1.0000, Val F1: 0.7966, Test F1: 0.7568
+*Epoch 239, model saved with Loss: 0.0447, Train F1: 1.0000, Val F1: 0.7966, Test F1: 0.7568
+Mean epoch time of run 0.0120
+Iteration:  250
+Best Test F1 throughout: 0.8108
+Loading best model for final evaluation at val: 0.7966
+Best Test F1 after loading saved model: 0.7568
+Run: 3
+*Epoch 0, model saved with Loss: 2.4006, Train F1: 0.4713, Val F1: 0.2881, Test F1: 0.2703
+Epoch 0, Loss: 2.4006, Train F1: 0.4713, Val F1: 0.2881, Test F1: 0.2703
+*Epoch 1, model saved with Loss: 1.4299, Train F1: 0.6322, Val F1: 0.5254, Test F1: 0.5135
+*Epoch 4, model saved with Loss: 1.0644, Train F1: 0.7586, Val F1: 0.5254, Test F1: 0.4595
+*Epoch 5, model saved with Loss: 1.6018, Train F1: 0.8276, Val F1: 0.5254, Test F1: 0.4595
+*Epoch 6, model saved with Loss: 1.4357, Train F1: 0.8621, Val F1: 0.6102, Test F1: 0.4595
+*Epoch 7, model saved with Loss: 1.2786, Train F1: 0.8736, Val F1: 0.6271, Test F1: 0.4865
+*Epoch 8, model saved with Loss: 1.1868, Train F1: 0.8966, Val F1: 0.6441, Test F1: 0.4595
+*Epoch 10, model saved with Loss: 0.9984, Train F1: 0.9310, Val F1: 0.6441, Test F1: 0.5135
+*Epoch 13, model saved with Loss: 0.7887, Train F1: 0.9425, Val F1: 0.6441, Test F1: 0.5405
+*Epoch 14, model saved with Loss: 0.7109, Train F1: 0.9310, Val F1: 0.6610, Test F1: 0.5676
+*Epoch 15, model saved with Loss: 0.6700, Train F1: 0.9540, Val F1: 0.6610, Test F1: 0.6216
+*Epoch 16, model saved with Loss: 0.6281, Train F1: 0.9540, Val F1: 0.6610, Test F1: 0.6216
+*Epoch 17, model saved with Loss: 0.6144, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.6216
+*Epoch 18, model saved with Loss: 0.5950, Train F1: 0.9655, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 19, model saved with Loss: 0.5413, Train F1: 0.9655, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 20, model saved with Loss: 0.5562, Train F1: 0.9655, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 22, model saved with Loss: 0.4568, Train F1: 0.9885, Val F1: 0.6780, Test F1: 0.6757
+*Epoch 23, model saved with Loss: 0.4891, Train F1: 0.9885, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 24, model saved with Loss: 0.4034, Train F1: 0.9885, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 26, model saved with Loss: 0.4123, Train F1: 0.9885, Val F1: 0.6949, Test F1: 0.6757
+*Epoch 27, model saved with Loss: 0.3912, Train F1: 1.0000, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 31, model saved with Loss: 0.3576, Train F1: 1.0000, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 32, model saved with Loss: 0.3135, Train F1: 1.0000, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 33, model saved with Loss: 0.2960, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7027
+*Epoch 37, model saved with Loss: 0.3001, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7027
+*Epoch 38, model saved with Loss: 0.2991, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7297
+*Epoch 39, model saved with Loss: 0.2658, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7297
+*Epoch 40, model saved with Loss: 0.2722, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7297
+*Epoch 41, model saved with Loss: 0.2377, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7297
+*Epoch 42, model saved with Loss: 0.2687, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7297
+*Epoch 43, model saved with Loss: 0.2361, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 44, model saved with Loss: 0.2298, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 45, model saved with Loss: 0.2156, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 46, model saved with Loss: 0.2330, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 47, model saved with Loss: 0.2070, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 48, model saved with Loss: 0.2056, Train F1: 0.9885, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 67, model saved with Loss: 0.1784, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 68, model saved with Loss: 0.1785, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 69, model saved with Loss: 0.1728, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 70, model saved with Loss: 0.1476, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 73, model saved with Loss: 0.2227, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 74, model saved with Loss: 0.1344, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 75, model saved with Loss: 0.1493, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 76, model saved with Loss: 0.1809, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 91, model saved with Loss: 0.1085, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 92, model saved with Loss: 0.1178, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 93, model saved with Loss: 0.1655, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 94, model saved with Loss: 0.0795, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 95, model saved with Loss: 0.1135, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 96, model saved with Loss: 0.1113, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 97, model saved with Loss: 0.0875, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+Epoch 100, Loss: 0.2121, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7568
+*Epoch 113, model saved with Loss: 0.1072, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 114, model saved with Loss: 0.0748, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 134, model saved with Loss: 0.0561, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7568
+*Epoch 135, model saved with Loss: 0.0518, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 136, model saved with Loss: 0.0612, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 137, model saved with Loss: 0.0639, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 138, model saved with Loss: 0.0627, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 139, model saved with Loss: 0.0570, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 140, model saved with Loss: 0.0675, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+Epoch 200, Loss: 0.0544, Train F1: 1.0000, Val F1: 0.7288, Test F1: 0.7568
+Mean epoch time of run 0.0120
+Iteration:  250
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation at val: 0.7797
+Best Test F1 after loading saved model: 0.7297
+Run: 4
+*Epoch 0, model saved with Loss: 1.6128, Train F1: 0.5172, Val F1: 0.5254, Test F1: 0.4865
+Epoch 0, Loss: 1.6128, Train F1: 0.5172, Val F1: 0.5254, Test F1: 0.4865
+*Epoch 1, model saved with Loss: 1.3591, Train F1: 0.5862, Val F1: 0.5424, Test F1: 0.4595
+*Epoch 3, model saved with Loss: 1.8934, Train F1: 0.6322, Val F1: 0.5424, Test F1: 0.5135
+*Epoch 4, model saved with Loss: 1.7175, Train F1: 0.7241, Val F1: 0.5763, Test F1: 0.5135
+*Epoch 5, model saved with Loss: 0.9238, Train F1: 0.7816, Val F1: 0.5763, Test F1: 0.5135
+*Epoch 6, model saved with Loss: 1.4282, Train F1: 0.8276, Val F1: 0.5763, Test F1: 0.4865
+*Epoch 7, model saved with Loss: 1.3048, Train F1: 0.8621, Val F1: 0.5763, Test F1: 0.5135
+*Epoch 8, model saved with Loss: 1.2321, Train F1: 0.8621, Val F1: 0.5763, Test F1: 0.4865
+*Epoch 9, model saved with Loss: 1.1225, Train F1: 0.8851, Val F1: 0.5763, Test F1: 0.4865
+*Epoch 10, model saved with Loss: 1.0066, Train F1: 0.9310, Val F1: 0.5932, Test F1: 0.4595
+*Epoch 11, model saved with Loss: 0.9053, Train F1: 0.9310, Val F1: 0.6271, Test F1: 0.4595
+*Epoch 12, model saved with Loss: 0.8933, Train F1: 0.9540, Val F1: 0.6271, Test F1: 0.5135
+*Epoch 13, model saved with Loss: 0.7737, Train F1: 0.9540, Val F1: 0.6441, Test F1: 0.5135
+*Epoch 14, model saved with Loss: 0.6781, Train F1: 0.9540, Val F1: 0.6441, Test F1: 0.5405
+*Epoch 15, model saved with Loss: 0.6769, Train F1: 0.9655, Val F1: 0.6441, Test F1: 0.5405
+*Epoch 16, model saved with Loss: 0.6136, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.5405
+*Epoch 21, model saved with Loss: 0.4924, Train F1: 0.9885, Val F1: 0.6610, Test F1: 0.7027
+*Epoch 25, model saved with Loss: 0.4259, Train F1: 1.0000, Val F1: 0.6610, Test F1: 0.7027
+*Epoch 26, model saved with Loss: 0.3647, Train F1: 1.0000, Val F1: 0.6780, Test F1: 0.7027
+*Epoch 27, model saved with Loss: 0.3354, Train F1: 1.0000, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 28, model saved with Loss: 0.3483, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7027
+*Epoch 29, model saved with Loss: 0.3181, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7027
+*Epoch 30, model saved with Loss: 0.3140, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.7027
+*Epoch 31, model saved with Loss: 0.3258, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.6757
+*Epoch 32, model saved with Loss: 0.3257, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.6757
+*Epoch 33, model saved with Loss: 0.2721, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.6757
+*Epoch 34, model saved with Loss: 0.2867, Train F1: 1.0000, Val F1: 0.7119, Test F1: 0.6757
+*Epoch 35, model saved with Loss: 0.2765, Train F1: 1.0000, Val F1: 0.7458, Test F1: 0.7297
+*Epoch 36, model saved with Loss: 0.2720, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 37, model saved with Loss: 0.2561, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 39, model saved with Loss: 0.2858, Train F1: 0.9885, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 40, model saved with Loss: 0.2398, Train F1: 0.9885, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 41, model saved with Loss: 0.2365, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 42, model saved with Loss: 0.2168, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 43, model saved with Loss: 0.2084, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 44, model saved with Loss: 0.2462, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 47, model saved with Loss: 0.2043, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 48, model saved with Loss: 0.1989, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 49, model saved with Loss: 0.1964, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 50, model saved with Loss: 0.1912, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+*Epoch 51, model saved with Loss: 0.1911, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 68, model saved with Loss: 0.1403, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 69, model saved with Loss: 0.1369, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 70, model saved with Loss: 0.1249, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 71, model saved with Loss: 0.1474, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 72, model saved with Loss: 0.1330, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 73, model saved with Loss: 0.1118, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 80, model saved with Loss: 0.1523, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 81, model saved with Loss: 0.1341, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 82, model saved with Loss: 0.1769, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7027
+*Epoch 83, model saved with Loss: 0.0978, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 84, model saved with Loss: 0.1169, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+*Epoch 85, model saved with Loss: 0.1290, Train F1: 1.0000, Val F1: 0.7797, Test F1: 0.7297
+Epoch 100, Loss: 0.0961, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7027
+Epoch 200, Loss: 0.0291, Train F1: 1.0000, Val F1: 0.7627, Test F1: 0.7297
+Mean epoch time of run 0.0107
+Iteration:  250
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.7797
+Best Test F1 after loading saved model: 0.7297
+---------------Stats-----------
+Mean training epoch runtime: 0.0120
+Mean Std of Best Test we could do F1 Score: 0.7622 +/- 0.0315
+Mean Std of Test at best Val F1 Score: 0.7405 +/- 0.0276
+Mean Std of Loaded best Val model Test F1 Score: 0.7405 +/- 0.0276
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.6550, Train F1: 0.5402, Val F1: 0.5932, Test F1: 0.4054
+Epoch 0, Loss: 1.6550, Train F1: 0.5402, Val F1: 0.5932, Test F1: 0.4054
+*Epoch 6, model saved with Loss: 1.1546, Train F1: 0.7356, Val F1: 0.5932, Test F1: 0.4595
+*Epoch 8, model saved with Loss: 1.8682, Train F1: 0.8046, Val F1: 0.5932, Test F1: 0.4324
+*Epoch 11, model saved with Loss: 1.0067, Train F1: 0.8391, Val F1: 0.5932, Test F1: 0.4865
+Epoch 100, Loss: 0.9224, Train F1: 1.0000, Val F1: 0.4576, Test F1: 0.3514
+Epoch 200, Loss: 0.9189, Train F1: 0.9885, Val F1: 0.4068, Test F1: 0.3243
+Mean epoch time of run 0.0104
+Iteration:  250
+Best Test F1 throughout: 0.5405
+Loading best model for final evaluation at val: 0.5932
+Best Test F1 after loading saved model: 0.4865
+Run: 1
+*Epoch 0, model saved with Loss: 2.4105, Train F1: 0.4368, Val F1: 0.5254, Test F1: 0.3784
+Epoch 0, Loss: 2.4105, Train F1: 0.4368, Val F1: 0.5254, Test F1: 0.3784
+*Epoch 1, model saved with Loss: 2.1781, Train F1: 0.5517, Val F1: 0.5254, Test F1: 0.3514
+*Epoch 2, model saved with Loss: 1.3362, Train F1: 0.6322, Val F1: 0.5424, Test F1: 0.4054
+*Epoch 3, model saved with Loss: 1.3303, Train F1: 0.6782, Val F1: 0.5593, Test F1: 0.4595
+Epoch 100, Loss: 1.0706, Train F1: 0.9540, Val F1: 0.4576, Test F1: 0.4054
+Epoch 200, Loss: 1.0490, Train F1: 0.9885, Val F1: 0.4237, Test F1: 0.3514
+Mean epoch time of run 0.0102
+Iteration:  250
+Best Test F1 throughout: 0.5135
+Loading best model for final evaluation at val: 0.5593
+Best Test F1 after loading saved model: 0.4595
+Run: 2
+*Epoch 0, model saved with Loss: 1.6663, Train F1: 0.5287, Val F1: 0.4068, Test F1: 0.2703
+Epoch 0, Loss: 1.6663, Train F1: 0.5287, Val F1: 0.4068, Test F1: 0.2703
+*Epoch 1, model saved with Loss: 2.2898, Train F1: 0.5402, Val F1: 0.5254, Test F1: 0.4324
+*Epoch 2, model saved with Loss: 1.4225, Train F1: 0.5517, Val F1: 0.5424, Test F1: 0.4054
+*Epoch 3, model saved with Loss: 2.0881, Train F1: 0.5862, Val F1: 0.5593, Test F1: 0.4324
+Epoch 100, Loss: 0.8151, Train F1: 0.9885, Val F1: 0.4237, Test F1: 0.2973
+Epoch 200, Loss: 0.8887, Train F1: 1.0000, Val F1: 0.3729, Test F1: 0.2973
+Mean epoch time of run 0.0091
+Iteration:  250
+Best Test F1 throughout: 0.4865
+Loading best model for final evaluation at val: 0.5593
+Best Test F1 after loading saved model: 0.4324
+Run: 3
+*Epoch 0, model saved with Loss: 1.6287, Train F1: 0.4598, Val F1: 0.5085, Test F1: 0.4054
+Epoch 0, Loss: 1.6287, Train F1: 0.4598, Val F1: 0.5085, Test F1: 0.4054
+*Epoch 1, model saved with Loss: 2.2795, Train F1: 0.5517, Val F1: 0.5254, Test F1: 0.4324
+*Epoch 2, model saved with Loss: 1.5130, Train F1: 0.5977, Val F1: 0.5424, Test F1: 0.3784
+*Epoch 4, model saved with Loss: 1.3712, Train F1: 0.6437, Val F1: 0.5424, Test F1: 0.4324
+*Epoch 5, model saved with Loss: 1.1941, Train F1: 0.6437, Val F1: 0.5424, Test F1: 0.4595
+*Epoch 7, model saved with Loss: 1.2002, Train F1: 0.7011, Val F1: 0.5424, Test F1: 0.4054
+*Epoch 8, model saved with Loss: 0.9645, Train F1: 0.7586, Val F1: 0.5424, Test F1: 0.4054
+*Epoch 12, model saved with Loss: 1.1116, Train F1: 0.8161, Val F1: 0.5593, Test F1: 0.4595
+*Epoch 13, model saved with Loss: 1.7683, Train F1: 0.8736, Val F1: 0.5763, Test F1: 0.4865
+*Epoch 14, model saved with Loss: 1.1387, Train F1: 0.8851, Val F1: 0.5932, Test F1: 0.4324
+Epoch 100, Loss: 0.8327, Train F1: 0.9885, Val F1: 0.4237, Test F1: 0.3243
+Epoch 200, Loss: 0.8597, Train F1: 0.9770, Val F1: 0.4407, Test F1: 0.4324
+Mean epoch time of run 0.0089
+Iteration:  250
+Best Test F1 throughout: 0.4865
+Loading best model for final evaluation at val: 0.5932
+Best Test F1 after loading saved model: 0.4324
+Run: 4
+*Epoch 0, model saved with Loss: 1.7545, Train F1: 0.4713, Val F1: 0.4746, Test F1: 0.3514
+Epoch 0, Loss: 1.7545, Train F1: 0.4713, Val F1: 0.4746, Test F1: 0.3514
+*Epoch 1, model saved with Loss: 1.5544, Train F1: 0.5517, Val F1: 0.5085, Test F1: 0.3514
+*Epoch 2, model saved with Loss: 1.4371, Train F1: 0.5747, Val F1: 0.5254, Test F1: 0.3514
+*Epoch 5, model saved with Loss: 1.2314, Train F1: 0.7241, Val F1: 0.5254, Test F1: 0.4324
+*Epoch 8, model saved with Loss: 1.9142, Train F1: 0.7816, Val F1: 0.5254, Test F1: 0.4595
+*Epoch 9, model saved with Loss: 1.7071, Train F1: 0.8161, Val F1: 0.5254, Test F1: 0.4324
+*Epoch 15, model saved with Loss: 1.5544, Train F1: 0.8851, Val F1: 0.5254, Test F1: 0.4054
+*Epoch 18, model saved with Loss: 0.9234, Train F1: 0.9195, Val F1: 0.5424, Test F1: 0.4595
+Epoch 100, Loss: 1.0687, Train F1: 1.0000, Val F1: 0.3898, Test F1: 0.3243
+Epoch 200, Loss: 1.0253, Train F1: 1.0000, Val F1: 0.3729, Test F1: 0.3243
+Mean epoch time of run 0.0091
+Iteration:  250
+Best Test F1 throughout: 0.4865
+Loading best model for final evaluation at val: 0.5424
+Best Test F1 after loading saved model: 0.5135
+---------------Stats-----------
+Mean training epoch runtime: 0.0096
+Mean Std of Best Test we could do F1 Score: 0.5027 +/- 0.0216
+Mean Std of Test at best Val F1 Score: 0.4541 +/- 0.0202
+Mean Std of Loaded best Val model Test F1 Score: 0.4649 +/- 0.0315
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+Texas
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 2.4268, Train F1: 0.7126, Val F1: 0.4746, Test F1: 0.5676
+Epoch 0, Loss: 2.4268, Train F1: 0.7126, Val F1: 0.4746, Test F1: 0.5676
+*Epoch 1, model saved with Loss: 2.1311, Train F1: 0.6322, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.1626, Train F1: 0.6552, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 1.7740, Train F1: 0.7126, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 1.6414, Train F1: 0.7931, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 5, model saved with Loss: 1.4411, Train F1: 0.8621, Val F1: 0.5763, Test F1: 0.6486
+*Epoch 6, model saved with Loss: 1.3358, Train F1: 0.8736, Val F1: 0.6102, Test F1: 0.6486
+*Epoch 8, model saved with Loss: 1.0984, Train F1: 0.9195, Val F1: 0.6102, Test F1: 0.6216
+*Epoch 9, model saved with Loss: 0.9840, Train F1: 0.9080, Val F1: 0.6102, Test F1: 0.6216
+*Epoch 10, model saved with Loss: 0.9033, Train F1: 0.9310, Val F1: 0.6441, Test F1: 0.6216
+*Epoch 11, model saved with Loss: 0.8950, Train F1: 0.9310, Val F1: 0.6441, Test F1: 0.6486
+*Epoch 16, model saved with Loss: 0.6221, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.6486
+Epoch 100, Loss: 0.1145, Train F1: 1.0000, Val F1: 0.5593, Test F1: 0.5135
+Epoch 200, Loss: 0.0608, Train F1: 1.0000, Val F1: 0.5932, Test F1: 0.5405
+Mean epoch time of run 0.0134
+Iteration:  250
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.6486
+Run: 1
+*Epoch 0, model saved with Loss: 1.5727, Train F1: 0.5977, Val F1: 0.2203, Test F1: 0.3784
+Epoch 0, Loss: 1.5727, Train F1: 0.5977, Val F1: 0.2203, Test F1: 0.3784
+*Epoch 1, model saved with Loss: 1.3394, Train F1: 0.6092, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.9054, Train F1: 0.6437, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 0.9916, Train F1: 0.6437, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 0.9519, Train F1: 0.7356, Val F1: 0.5593, Test F1: 0.6486
+*Epoch 5, model saved with Loss: 1.6188, Train F1: 0.8276, Val F1: 0.5763, Test F1: 0.6486
+*Epoch 6, model saved with Loss: 1.4388, Train F1: 0.8851, Val F1: 0.6441, Test F1: 0.6486
+*Epoch 8, model saved with Loss: 1.2089, Train F1: 0.9195, Val F1: 0.6780, Test F1: 0.7027
+*Epoch 9, model saved with Loss: 1.1007, Train F1: 0.9310, Val F1: 0.6780, Test F1: 0.6757
+*Epoch 10, model saved with Loss: 1.0370, Train F1: 0.9540, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 11, model saved with Loss: 0.9425, Train F1: 0.9540, Val F1: 0.6780, Test F1: 0.6486
+*Epoch 12, model saved with Loss: 0.8031, Train F1: 0.9540, Val F1: 0.6780, Test F1: 0.7027
+*Epoch 13, model saved with Loss: 0.7713, Train F1: 0.9655, Val F1: 0.6949, Test F1: 0.7027
+*Epoch 18, model saved with Loss: 0.6649, Train F1: 0.9770, Val F1: 0.6949, Test F1: 0.6757
+Epoch 100, Loss: 0.1131, Train F1: 1.0000, Val F1: 0.5932, Test F1: 0.4865
+Epoch 200, Loss: 0.0841, Train F1: 1.0000, Val F1: 0.5085, Test F1: 0.4595
+Mean epoch time of run 0.0108
+Iteration:  250
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation at val: 0.6949
+Best Test F1 after loading saved model: 0.6216
+Run: 2
+*Epoch 0, model saved with Loss: 1.6514, Train F1: 0.5862, Val F1: 0.4915, Test F1: 0.5405
+Epoch 0, Loss: 1.6514, Train F1: 0.5862, Val F1: 0.4915, Test F1: 0.5405
+*Epoch 1, model saved with Loss: 2.1335, Train F1: 0.6207, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.9423, Train F1: 0.6207, Val F1: 0.5593, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 1.0340, Train F1: 0.6667, Val F1: 0.5763, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 1.6874, Train F1: 0.7701, Val F1: 0.5763, Test F1: 0.6486
+*Epoch 5, model saved with Loss: 1.5968, Train F1: 0.7931, Val F1: 0.5763, Test F1: 0.6216
+*Epoch 6, model saved with Loss: 1.3887, Train F1: 0.8161, Val F1: 0.5763, Test F1: 0.6216
+*Epoch 7, model saved with Loss: 1.3522, Train F1: 0.8621, Val F1: 0.6271, Test F1: 0.6486
+*Epoch 8, model saved with Loss: 1.1526, Train F1: 0.8851, Val F1: 0.6441, Test F1: 0.6216
+*Epoch 9, model saved with Loss: 1.0676, Train F1: 0.9080, Val F1: 0.6780, Test F1: 0.6486
+Epoch 100, Loss: 0.1471, Train F1: 1.0000, Val F1: 0.5763, Test F1: 0.5676
+Epoch 200, Loss: 0.1136, Train F1: 1.0000, Val F1: 0.5763, Test F1: 0.4865
+Mean epoch time of run 0.0119
+Iteration:  250
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.6780
+Best Test F1 after loading saved model: 0.7027
+Run: 3
+*Epoch 0, model saved with Loss: 1.7733, Train F1: 0.4943, Val F1: 0.5085, Test F1: 0.5405
+Epoch 0, Loss: 1.7733, Train F1: 0.4943, Val F1: 0.5085, Test F1: 0.5405
+*Epoch 1, model saved with Loss: 2.1948, Train F1: 0.6322, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.1901, Train F1: 0.6437, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 1.0412, Train F1: 0.7356, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 1.7203, Train F1: 0.7701, Val F1: 0.5424, Test F1: 0.6757
+*Epoch 5, model saved with Loss: 0.8759, Train F1: 0.8506, Val F1: 0.5763, Test F1: 0.6757
+*Epoch 6, model saved with Loss: 1.5472, Train F1: 0.8851, Val F1: 0.5763, Test F1: 0.6757
+*Epoch 7, model saved with Loss: 1.4290, Train F1: 0.8851, Val F1: 0.5932, Test F1: 0.6757
+*Epoch 10, model saved with Loss: 1.0903, Train F1: 0.9080, Val F1: 0.6271, Test F1: 0.7568
+*Epoch 11, model saved with Loss: 0.9633, Train F1: 0.9310, Val F1: 0.6271, Test F1: 0.7568
+*Epoch 12, model saved with Loss: 0.8710, Train F1: 0.9310, Val F1: 0.6271, Test F1: 0.7568
+*Epoch 13, model saved with Loss: 0.8109, Train F1: 0.9310, Val F1: 0.6610, Test F1: 0.7568
+*Epoch 15, model saved with Loss: 0.7611, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.7297
+*Epoch 18, model saved with Loss: 0.6041, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.7027
+*Epoch 19, model saved with Loss: 0.5880, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.7297
+*Epoch 20, model saved with Loss: 0.6010, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.7027
+*Epoch 21, model saved with Loss: 0.5143, Train F1: 0.9655, Val F1: 0.6610, Test F1: 0.7027
+*Epoch 22, model saved with Loss: 0.4771, Train F1: 0.9770, Val F1: 0.6780, Test F1: 0.7027
+Epoch 100, Loss: 0.1475, Train F1: 1.0000, Val F1: 0.5932, Test F1: 0.5405
+Epoch 200, Loss: 0.0753, Train F1: 1.0000, Val F1: 0.5932, Test F1: 0.4595
+Mean epoch time of run 0.0110
+Iteration:  250
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation at val: 0.6780
+Best Test F1 after loading saved model: 0.6486
+Run: 4
+*Epoch 0, model saved with Loss: 1.5566, Train F1: 0.5747, Val F1: 0.4915, Test F1: 0.6216
+Epoch 0, Loss: 1.5566, Train F1: 0.5747, Val F1: 0.4915, Test F1: 0.6216
+*Epoch 1, model saved with Loss: 2.1265, Train F1: 0.5402, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.9572, Train F1: 0.5632, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 1.0522, Train F1: 0.5977, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 0.9545, Train F1: 0.7126, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 5, model saved with Loss: 1.6566, Train F1: 0.8391, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 6, model saved with Loss: 0.8146, Train F1: 0.8851, Val F1: 0.5424, Test F1: 0.6757
+*Epoch 7, model saved with Loss: 1.4797, Train F1: 0.8966, Val F1: 0.5932, Test F1: 0.7027
+*Epoch 9, model saved with Loss: 1.1705, Train F1: 0.9310, Val F1: 0.6271, Test F1: 0.6757
+*Epoch 13, model saved with Loss: 0.8205, Train F1: 0.9425, Val F1: 0.6441, Test F1: 0.7027
+*Epoch 14, model saved with Loss: 0.7382, Train F1: 0.9655, Val F1: 0.6441, Test F1: 0.7027
+*Epoch 43, model saved with Loss: 0.2976, Train F1: 1.0000, Val F1: 0.6610, Test F1: 0.5676
+Epoch 100, Loss: 0.1370, Train F1: 1.0000, Val F1: 0.6271, Test F1: 0.5405
+Epoch 200, Loss: 0.1466, Train F1: 1.0000, Val F1: 0.5424, Test F1: 0.5135
+Mean epoch time of run 0.0116
+Iteration:  250
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.5676
+---------------Stats-----------
+Mean training epoch runtime: 0.0117
+Mean Std of Best Test we could do F1 Score: 0.7135 +/- 0.0276
+Mean Std of Test at best Val F1 Score: 0.6486 +/- 0.0452
+Mean Std of Loaded best Val model Test F1 Score: 0.6378 +/- 0.0439
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+Texas
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.6817, Train F1: 0.5632, Val F1: 0.4576, Test F1: 0.6216
+Epoch 0, Loss: 1.6817, Train F1: 0.5632, Val F1: 0.4576, Test F1: 0.6216
+*Epoch 1, model saved with Loss: 1.4743, Train F1: 0.5977, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 2.1481, Train F1: 0.6092, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 2.0131, Train F1: 0.6667, Val F1: 0.5424, Test F1: 0.6216
+*Epoch 8, model saved with Loss: 1.8704, Train F1: 0.8391, Val F1: 0.5424, Test F1: 0.7297
+*Epoch 9, model saved with Loss: 1.7685, Train F1: 0.8621, Val F1: 0.5424, Test F1: 0.6757
+*Epoch 10, model saved with Loss: 0.9719, Train F1: 0.8966, Val F1: 0.5763, Test F1: 0.7027
+*Epoch 11, model saved with Loss: 1.0724, Train F1: 0.9195, Val F1: 0.5932, Test F1: 0.7027
+*Epoch 13, model saved with Loss: 0.9542, Train F1: 0.9195, Val F1: 0.5932, Test F1: 0.6757
+*Epoch 14, model saved with Loss: 1.6675, Train F1: 0.9195, Val F1: 0.6610, Test F1: 0.6216
+*Epoch 15, model saved with Loss: 0.9632, Train F1: 0.9080, Val F1: 0.6610, Test F1: 0.6486
+*Epoch 17, model saved with Loss: 1.5841, Train F1: 0.9195, Val F1: 0.6949, Test F1: 0.6757
+Epoch 100, Loss: 0.8936, Train F1: 0.9770, Val F1: 0.4915, Test F1: 0.4054
+Epoch 200, Loss: 0.7667, Train F1: 0.9885, Val F1: 0.4576, Test F1: 0.4324
+Mean epoch time of run 0.0114
+Iteration:  250
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.6949
+Best Test F1 after loading saved model: 0.6216
+Run: 1
+*Epoch 0, model saved with Loss: 1.5723, Train F1: 0.5747, Val F1: 0.5424, Test F1: 0.6486
+Epoch 0, Loss: 1.5723, Train F1: 0.5747, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 1, model saved with Loss: 1.4447, Train F1: 0.6092, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.2422, Train F1: 0.6092, Val F1: 0.5424, Test F1: 0.6216
+*Epoch 3, model saved with Loss: 1.2211, Train F1: 0.6092, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 1.0823, Train F1: 0.7356, Val F1: 0.5932, Test F1: 0.6486
+*Epoch 5, model saved with Loss: 1.9003, Train F1: 0.8276, Val F1: 0.6102, Test F1: 0.6216
+*Epoch 6, model saved with Loss: 0.9781, Train F1: 0.8506, Val F1: 0.6271, Test F1: 0.6486
+*Epoch 7, model saved with Loss: 1.0495, Train F1: 0.8966, Val F1: 0.6610, Test F1: 0.6486
+*Epoch 10, model saved with Loss: 1.7332, Train F1: 0.8736, Val F1: 0.6610, Test F1: 0.6486
+*Epoch 14, model saved with Loss: 1.6460, Train F1: 0.9195, Val F1: 0.6610, Test F1: 0.6486
+*Epoch 15, model saved with Loss: 0.9554, Train F1: 0.8966, Val F1: 0.6610, Test F1: 0.6486
+*Epoch 16, model saved with Loss: 0.9247, Train F1: 0.9425, Val F1: 0.6780, Test F1: 0.6486
+Epoch 100, Loss: 0.8462, Train F1: 0.9540, Val F1: 0.5085, Test F1: 0.4324
+Epoch 200, Loss: 0.7288, Train F1: 0.9885, Val F1: 0.4237, Test F1: 0.3514
+Mean epoch time of run 0.0091
+Iteration:  250
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6780
+Best Test F1 after loading saved model: 0.6216
+Run: 2
+*Epoch 0, model saved with Loss: 1.6769, Train F1: 0.5977, Val F1: 0.5254, Test F1: 0.6216
+Epoch 0, Loss: 1.6769, Train F1: 0.5977, Val F1: 0.5254, Test F1: 0.6216
+*Epoch 1, model saved with Loss: 1.4117, Train F1: 0.5747, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 6, model saved with Loss: 1.1022, Train F1: 0.8046, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 11, model saved with Loss: 1.6868, Train F1: 0.9080, Val F1: 0.5424, Test F1: 0.5946
+*Epoch 13, model saved with Loss: 1.6922, Train F1: 0.9195, Val F1: 0.5424, Test F1: 0.5946
+*Epoch 14, model saved with Loss: 1.5563, Train F1: 0.8851, Val F1: 0.6102, Test F1: 0.5946
+*Epoch 18, model saved with Loss: 0.8886, Train F1: 0.8851, Val F1: 0.6271, Test F1: 0.5946
+*Epoch 19, model saved with Loss: 0.9884, Train F1: 0.8851, Val F1: 0.6271, Test F1: 0.5946
+*Epoch 20, model saved with Loss: 1.4523, Train F1: 0.8736, Val F1: 0.6271, Test F1: 0.6757
+*Epoch 21, model saved with Loss: 1.4646, Train F1: 0.8736, Val F1: 0.6441, Test F1: 0.6486
+*Epoch 22, model saved with Loss: 0.9621, Train F1: 0.8851, Val F1: 0.6610, Test F1: 0.6486
+*Epoch 27, model saved with Loss: 0.9067, Train F1: 0.9540, Val F1: 0.6610, Test F1: 0.6216
+*Epoch 28, model saved with Loss: 0.9565, Train F1: 0.9540, Val F1: 0.6610, Test F1: 0.5946
+*Epoch 29, model saved with Loss: 0.7961, Train F1: 0.9425, Val F1: 0.6610, Test F1: 0.5946
+Epoch 100, Loss: 0.8299, Train F1: 0.9655, Val F1: 0.5085, Test F1: 0.4324
+Epoch 200, Loss: 0.8716, Train F1: 0.9770, Val F1: 0.4915, Test F1: 0.4054
+Mean epoch time of run 0.0091
+Iteration:  250
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.6216
+Run: 3
+*Epoch 0, model saved with Loss: 2.3235, Train F1: 0.5287, Val F1: 0.5254, Test F1: 0.6486
+Epoch 0, Loss: 2.3235, Train F1: 0.5287, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 1, model saved with Loss: 1.3072, Train F1: 0.5287, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.4440, Train F1: 0.5747, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 2.0279, Train F1: 0.5747, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 2.0011, Train F1: 0.6552, Val F1: 0.5254, Test F1: 0.6216
+*Epoch 5, model saved with Loss: 1.9490, Train F1: 0.7471, Val F1: 0.5763, Test F1: 0.6216
+*Epoch 6, model saved with Loss: 1.8155, Train F1: 0.8276, Val F1: 0.6102, Test F1: 0.6486
+*Epoch 10, model saved with Loss: 0.9554, Train F1: 0.8736, Val F1: 0.6441, Test F1: 0.6216
+*Epoch 15, model saved with Loss: 1.5916, Train F1: 0.9310, Val F1: 0.6441, Test F1: 0.6216
+*Epoch 16, model saved with Loss: 1.1709, Train F1: 0.9310, Val F1: 0.6441, Test F1: 0.6486
+*Epoch 25, model saved with Loss: 0.8802, Train F1: 0.9310, Val F1: 0.6441, Test F1: 0.6486
+Epoch 100, Loss: 1.0727, Train F1: 1.0000, Val F1: 0.5254, Test F1: 0.4865
+Epoch 200, Loss: 0.8963, Train F1: 1.0000, Val F1: 0.5254, Test F1: 0.3784
+Mean epoch time of run 0.0101
+Iteration:  250
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6441
+Best Test F1 after loading saved model: 0.6486
+Run: 4
+*Epoch 0, model saved with Loss: 1.5666, Train F1: 0.5862, Val F1: 0.5085, Test F1: 0.6216
+Epoch 0, Loss: 1.5666, Train F1: 0.5862, Val F1: 0.5085, Test F1: 0.6216
+*Epoch 1, model saved with Loss: 1.4319, Train F1: 0.5977, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 2, model saved with Loss: 1.2614, Train F1: 0.5977, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 3, model saved with Loss: 1.2683, Train F1: 0.6322, Val F1: 0.5254, Test F1: 0.6486
+*Epoch 4, model saved with Loss: 1.2225, Train F1: 0.6667, Val F1: 0.5424, Test F1: 0.6486
+*Epoch 5, model saved with Loss: 1.9446, Train F1: 0.7356, Val F1: 0.5593, Test F1: 0.6216
+*Epoch 6, model saved with Loss: 1.8752, Train F1: 0.8276, Val F1: 0.5593, Test F1: 0.6216
+*Epoch 7, model saved with Loss: 1.1284, Train F1: 0.8506, Val F1: 0.6441, Test F1: 0.6216
+*Epoch 10, model saved with Loss: 1.0559, Train F1: 0.8621, Val F1: 0.6610, Test F1: 0.6757
+*Epoch 16, model saved with Loss: 0.9131, Train F1: 0.8966, Val F1: 0.6610, Test F1: 0.5676
+*Epoch 25, model saved with Loss: 0.9062, Train F1: 0.9425, Val F1: 0.6610, Test F1: 0.5676
+Epoch 100, Loss: 0.8495, Train F1: 0.9885, Val F1: 0.4915, Test F1: 0.4054
+Epoch 200, Loss: 0.7497, Train F1: 0.9885, Val F1: 0.4746, Test F1: 0.3784
+Mean epoch time of run 0.0102
+Iteration:  250
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.5676
+---------------Stats-----------
+Mean training epoch runtime: 0.0100
+Mean Std of Best Test we could do F1 Score: 0.6865 +/- 0.0216
+Mean Std of Test at best Val F1 Score: 0.6270 +/- 0.0397
+Mean Std of Loaded best Val model Test F1 Score: 0.6162 +/- 0.0265
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+Wisconsin
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.7099, Train F1: 0.5083, Val F1: 0.2750, Test F1: 0.2549
+Epoch 0, Loss: 1.7099, Train F1: 0.5083, Val F1: 0.2750, Test F1: 0.2549
+*Epoch 1, model saved with Loss: 1.3779, Train F1: 0.6750, Val F1: 0.5375, Test F1: 0.5098
+*Epoch 2, model saved with Loss: 1.1821, Train F1: 0.6750, Val F1: 0.5625, Test F1: 0.5294
+*Epoch 3, model saved with Loss: 1.0677, Train F1: 0.7667, Val F1: 0.5875, Test F1: 0.5686
+*Epoch 4, model saved with Loss: 1.6777, Train F1: 0.7917, Val F1: 0.6250, Test F1: 0.6078
+*Epoch 6, model saved with Loss: 1.4824, Train F1: 0.8333, Val F1: 0.6500, Test F1: 0.6275
+*Epoch 7, model saved with Loss: 1.3487, Train F1: 0.8750, Val F1: 0.6750, Test F1: 0.6667
+*Epoch 8, model saved with Loss: 1.1780, Train F1: 0.9083, Val F1: 0.7000, Test F1: 0.6667
+*Epoch 9, model saved with Loss: 1.1550, Train F1: 0.9250, Val F1: 0.7125, Test F1: 0.6275
+*Epoch 10, model saved with Loss: 1.0463, Train F1: 0.9250, Val F1: 0.7625, Test F1: 0.6667
+*Epoch 11, model saved with Loss: 0.9013, Train F1: 0.9250, Val F1: 0.7750, Test F1: 0.6471
+*Epoch 14, model saved with Loss: 0.7085, Train F1: 0.9583, Val F1: 0.7750, Test F1: 0.6863
+*Epoch 31, model saved with Loss: 0.4163, Train F1: 0.9833, Val F1: 0.7750, Test F1: 0.6667
+*Epoch 95, model saved with Loss: 0.1250, Train F1: 1.0000, Val F1: 0.7750, Test F1: 0.7647
+*Epoch 96, model saved with Loss: 0.1437, Train F1: 1.0000, Val F1: 0.7750, Test F1: 0.7451
+*Epoch 98, model saved with Loss: 0.1521, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7647
+*Epoch 99, model saved with Loss: 0.1572, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7647
+*Epoch 100, model saved with Loss: 0.1560, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7647
+Epoch 100, Loss: 0.1560, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7647
+*Epoch 101, model saved with Loss: 0.1514, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7647
+*Epoch 102, model saved with Loss: 0.1593, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7647
+*Epoch 104, model saved with Loss: 0.1355, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7451
+*Epoch 105, model saved with Loss: 0.1236, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7451
+*Epoch 112, model saved with Loss: 0.1328, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7451
+*Epoch 113, model saved with Loss: 0.1357, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7451
+*Epoch 114, model saved with Loss: 0.1083, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7451
+*Epoch 187, model saved with Loss: 0.1061, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.8039
+*Epoch 189, model saved with Loss: 0.0807, Train F1: 0.9917, Val F1: 0.7875, Test F1: 0.7843
+*Epoch 190, model saved with Loss: 0.0999, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.7843
+*Epoch 193, model saved with Loss: 0.0817, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.8039
+*Epoch 194, model saved with Loss: 0.0802, Train F1: 1.0000, Val F1: 0.7875, Test F1: 0.8039
+Epoch 200, Loss: 0.0712, Train F1: 1.0000, Val F1: 0.7750, Test F1: 0.8039
+Mean epoch time of run 0.0129
+Iteration:  250
+Best Test F1 throughout: 0.8235
+Loading best model for final evaluation at val: 0.7875
+Best Test F1 after loading saved model: 0.8039
+Run: 1
+*Epoch 0, model saved with Loss: 1.7425, Train F1: 0.5667, Val F1: 0.4375, Test F1: 0.4706
+Epoch 0, Loss: 1.7425, Train F1: 0.5667, Val F1: 0.4375, Test F1: 0.4706
+*Epoch 1, model saved with Loss: 2.1697, Train F1: 0.7000, Val F1: 0.6000, Test F1: 0.6471
+*Epoch 2, model saved with Loss: 1.9425, Train F1: 0.7333, Val F1: 0.6375, Test F1: 0.6471
+*Epoch 3, model saved with Loss: 1.7190, Train F1: 0.8000, Val F1: 0.6500, Test F1: 0.6275
+*Epoch 5, model saved with Loss: 1.4392, Train F1: 0.8500, Val F1: 0.6625, Test F1: 0.6667
+*Epoch 6, model saved with Loss: 1.3182, Train F1: 0.8333, Val F1: 0.7000, Test F1: 0.6863
+*Epoch 7, model saved with Loss: 1.2043, Train F1: 0.9000, Val F1: 0.7125, Test F1: 0.7059
+*Epoch 8, model saved with Loss: 1.0574, Train F1: 0.9333, Val F1: 0.7250, Test F1: 0.6863
+*Epoch 9, model saved with Loss: 0.9361, Train F1: 0.9417, Val F1: 0.7375, Test F1: 0.6667
+*Epoch 10, model saved with Loss: 0.8488, Train F1: 0.9333, Val F1: 0.7500, Test F1: 0.7059
+*Epoch 11, model saved with Loss: 0.7819, Train F1: 0.9417, Val F1: 0.7625, Test F1: 0.6863
+*Epoch 12, model saved with Loss: 0.7628, Train F1: 0.9417, Val F1: 0.7875, Test F1: 0.6863
+*Epoch 16, model saved with Loss: 0.6387, Train F1: 0.9500, Val F1: 0.7875, Test F1: 0.6863
+*Epoch 17, model saved with Loss: 0.6037, Train F1: 0.9583, Val F1: 0.8000, Test F1: 0.7059
+*Epoch 23, model saved with Loss: 0.5233, Train F1: 0.9667, Val F1: 0.8125, Test F1: 0.7255
+Epoch 100, Loss: 0.1065, Train F1: 1.0000, Val F1: 0.7500, Test F1: 0.7059
+Epoch 200, Loss: 0.0929, Train F1: 1.0000, Val F1: 0.7375, Test F1: 0.7451
+Mean epoch time of run 0.0123
+Iteration:  250
+Best Test F1 throughout: 0.7647
+Loading best model for final evaluation at val: 0.8125
+Best Test F1 after loading saved model: 0.7451
+Run: 2
+*Epoch 0, model saved with Loss: 2.2988, Train F1: 0.6000, Val F1: 0.5750, Test F1: 0.4706
+Epoch 0, Loss: 2.2988, Train F1: 0.6000, Val F1: 0.5750, Test F1: 0.4706
+*Epoch 2, model saved with Loss: 1.1636, Train F1: 0.6833, Val F1: 0.6500, Test F1: 0.5686
+*Epoch 3, model saved with Loss: 1.7998, Train F1: 0.7750, Val F1: 0.6625, Test F1: 0.6275
+*Epoch 4, model saved with Loss: 1.6264, Train F1: 0.8000, Val F1: 0.6875, Test F1: 0.6275
+*Epoch 5, model saved with Loss: 1.4226, Train F1: 0.8667, Val F1: 0.7000, Test F1: 0.6667
+*Epoch 6, model saved with Loss: 1.3117, Train F1: 0.8917, Val F1: 0.7375, Test F1: 0.6471
+*Epoch 7, model saved with Loss: 1.1790, Train F1: 0.9083, Val F1: 0.7625, Test F1: 0.6471
+*Epoch 8, model saved with Loss: 1.0300, Train F1: 0.9167, Val F1: 0.7750, Test F1: 0.6667
+*Epoch 9, model saved with Loss: 0.9722, Train F1: 0.9250, Val F1: 0.7750, Test F1: 0.6471
+*Epoch 15, model saved with Loss: 0.6416, Train F1: 0.9583, Val F1: 0.7750, Test F1: 0.6863
+*Epoch 17, model saved with Loss: 0.5743, Train F1: 0.9583, Val F1: 0.7750, Test F1: 0.6667
+*Epoch 23, model saved with Loss: 0.5013, Train F1: 0.9750, Val F1: 0.7750, Test F1: 0.6863
+*Epoch 57, model saved with Loss: 0.2243, Train F1: 1.0000, Val F1: 0.7750, Test F1: 0.7059
+Epoch 100, Loss: 0.1163, Train F1: 1.0000, Val F1: 0.7375, Test F1: 0.7059
+Epoch 200, Loss: 0.0933, Train F1: 1.0000, Val F1: 0.6625, Test F1: 0.6863
+Mean epoch time of run 0.0122
+Iteration:  250
+Best Test F1 throughout: 0.7647
+Loading best model for final evaluation at val: 0.7750
+Best Test F1 after loading saved model: 0.7059
+Run: 3
+*Epoch 0, model saved with Loss: 2.2722, Train F1: 0.6583, Val F1: 0.5875, Test F1: 0.5686
+Epoch 0, Loss: 2.2722, Train F1: 0.6583, Val F1: 0.5875, Test F1: 0.5686
+*Epoch 1, model saved with Loss: 2.0111, Train F1: 0.7417, Val F1: 0.6625, Test F1: 0.5294
+*Epoch 3, model saved with Loss: 0.9922, Train F1: 0.8000, Val F1: 0.6875, Test F1: 0.6275
+*Epoch 6, model saved with Loss: 1.3533, Train F1: 0.8750, Val F1: 0.6875, Test F1: 0.6471
+*Epoch 8, model saved with Loss: 1.1166, Train F1: 0.9083, Val F1: 0.7125, Test F1: 0.7059
+*Epoch 9, model saved with Loss: 1.0508, Train F1: 0.9250, Val F1: 0.7375, Test F1: 0.7059
+*Epoch 10, model saved with Loss: 0.9335, Train F1: 0.9417, Val F1: 0.7750, Test F1: 0.7059
+*Epoch 11, model saved with Loss: 0.8249, Train F1: 0.9417, Val F1: 0.7875, Test F1: 0.6863
+*Epoch 12, model saved with Loss: 0.7596, Train F1: 0.9500, Val F1: 0.8125, Test F1: 0.6667
+*Epoch 16, model saved with Loss: 0.6254, Train F1: 0.9750, Val F1: 0.8125, Test F1: 0.7059
+Epoch 100, Loss: 0.1431, Train F1: 1.0000, Val F1: 0.6875, Test F1: 0.7255
+Epoch 200, Loss: 0.1027, Train F1: 1.0000, Val F1: 0.6750, Test F1: 0.7647
+Mean epoch time of run 0.0122
+Iteration:  250
+Best Test F1 throughout: 0.7843
+Loading best model for final evaluation at val: 0.8125
+Best Test F1 after loading saved model: 0.6863
+Run: 4
+*Epoch 0, model saved with Loss: 1.7461, Train F1: 0.5250, Val F1: 0.5500, Test F1: 0.5294
+Epoch 0, Loss: 1.7461, Train F1: 0.5250, Val F1: 0.5500, Test F1: 0.5294
+*Epoch 1, model saved with Loss: 1.4205, Train F1: 0.7083, Val F1: 0.5750, Test F1: 0.5490
+*Epoch 2, model saved with Loss: 1.2315, Train F1: 0.7167, Val F1: 0.6250, Test F1: 0.5490
+*Epoch 3, model saved with Loss: 1.1016, Train F1: 0.7583, Val F1: 0.6250, Test F1: 0.5294
+*Epoch 4, model saved with Loss: 1.7245, Train F1: 0.7333, Val F1: 0.6250, Test F1: 0.5490
+*Epoch 5, model saved with Loss: 0.9144, Train F1: 0.7833, Val F1: 0.6500, Test F1: 0.6078
+*Epoch 8, model saved with Loss: 1.4792, Train F1: 0.8500, Val F1: 0.6500, Test F1: 0.6471
+*Epoch 9, model saved with Loss: 1.4259, Train F1: 0.8583, Val F1: 0.6750, Test F1: 0.6471
+*Epoch 10, model saved with Loss: 1.2427, Train F1: 0.9083, Val F1: 0.6875, Test F1: 0.6667
+*Epoch 11, model saved with Loss: 1.1116, Train F1: 0.9250, Val F1: 0.7250, Test F1: 0.6863
+*Epoch 12, model saved with Loss: 1.0757, Train F1: 0.9250, Val F1: 0.7500, Test F1: 0.6863
+*Epoch 13, model saved with Loss: 1.0261, Train F1: 0.9333, Val F1: 0.7500, Test F1: 0.6667
+*Epoch 14, model saved with Loss: 0.8892, Train F1: 0.9333, Val F1: 0.7750, Test F1: 0.6471
+*Epoch 15, model saved with Loss: 0.8322, Train F1: 0.9333, Val F1: 0.7875, Test F1: 0.6471
+*Epoch 16, model saved with Loss: 0.7624, Train F1: 0.9417, Val F1: 0.8000, Test F1: 0.6667
+*Epoch 17, model saved with Loss: 0.7469, Train F1: 0.9583, Val F1: 0.8125, Test F1: 0.6863
+*Epoch 20, model saved with Loss: 0.6382, Train F1: 0.9667, Val F1: 0.8125, Test F1: 0.6863
+*Epoch 22, model saved with Loss: 0.5880, Train F1: 0.9583, Val F1: 0.8125, Test F1: 0.6863
+*Epoch 26, model saved with Loss: 0.5202, Train F1: 0.9750, Val F1: 0.8125, Test F1: 0.7059
+*Epoch 27, model saved with Loss: 0.5508, Train F1: 0.9833, Val F1: 0.8125, Test F1: 0.6863
+*Epoch 32, model saved with Loss: 0.4592, Train F1: 0.9833, Val F1: 0.8125, Test F1: 0.6667
+*Epoch 33, model saved with Loss: 0.4652, Train F1: 0.9833, Val F1: 0.8125, Test F1: 0.6863
+*Epoch 34, model saved with Loss: 0.4327, Train F1: 0.9833, Val F1: 0.8250, Test F1: 0.6863
+*Epoch 35, model saved with Loss: 0.4223, Train F1: 0.9917, Val F1: 0.8250, Test F1: 0.7059
+*Epoch 36, model saved with Loss: 0.4122, Train F1: 0.9917, Val F1: 0.8250, Test F1: 0.6863
+Epoch 100, Loss: 0.1493, Train F1: 1.0000, Val F1: 0.7750, Test F1: 0.7255
+Epoch 200, Loss: 0.0950, Train F1: 1.0000, Val F1: 0.7625, Test F1: 0.7843
+Mean epoch time of run 0.0121
+Iteration:  250
+Best Test F1 throughout: 0.8039
+Loading best model for final evaluation at val: 0.8250
+Best Test F1 after loading saved model: 0.7059
+---------------Stats-----------
+Mean training epoch runtime: 0.0123
+Mean Std of Best Test we could do F1 Score: 0.7882 +/- 0.0229
+Mean Std of Test at best Val F1 Score: 0.7255 +/- 0.0411
+Mean Std of Loaded best Val model Test F1 Score: 0.7294 +/- 0.0419
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+Wisconsin
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.6483, Train F1: 0.5583, Val F1: 0.4875, Test F1: 0.5098
+Epoch 0, Loss: 1.6483, Train F1: 0.5583, Val F1: 0.4875, Test F1: 0.5098
+*Epoch 1, model saved with Loss: 2.1881, Train F1: 0.6500, Val F1: 0.5750, Test F1: 0.5882
+*Epoch 2, model saved with Loss: 1.2788, Train F1: 0.7250, Val F1: 0.5875, Test F1: 0.6078
+*Epoch 3, model saved with Loss: 1.9634, Train F1: 0.7250, Val F1: 0.6000, Test F1: 0.6275
+*Epoch 4, model saved with Loss: 1.2902, Train F1: 0.7500, Val F1: 0.6375, Test F1: 0.6078
+*Epoch 5, model saved with Loss: 1.8528, Train F1: 0.7667, Val F1: 0.6500, Test F1: 0.6078
+*Epoch 8, model saved with Loss: 1.1351, Train F1: 0.7917, Val F1: 0.6750, Test F1: 0.6471
+*Epoch 10, model saved with Loss: 1.1219, Train F1: 0.8500, Val F1: 0.6750, Test F1: 0.6863
+*Epoch 11, model saved with Loss: 0.9982, Train F1: 0.8667, Val F1: 0.6875, Test F1: 0.6471
+*Epoch 14, model saved with Loss: 1.6017, Train F1: 0.8833, Val F1: 0.6875, Test F1: 0.6275
+*Epoch 22, model saved with Loss: 1.0821, Train F1: 0.8583, Val F1: 0.6875, Test F1: 0.5686
+*Epoch 39, model saved with Loss: 1.3848, Train F1: 0.9500, Val F1: 0.7000, Test F1: 0.5686
+*Epoch 40, model saved with Loss: 1.5471, Train F1: 0.9417, Val F1: 0.7000, Test F1: 0.5882
+Epoch 100, Loss: 1.1009, Train F1: 0.9583, Val F1: 0.4500, Test F1: 0.5098
+Epoch 200, Loss: 0.9618, Train F1: 0.9750, Val F1: 0.4375, Test F1: 0.3529
+Mean epoch time of run 0.0107
+Iteration:  250
+Best Test F1 throughout: 0.6863
+Loading best model for final evaluation at val: 0.7000
+Best Test F1 after loading saved model: 0.5882
+Run: 1
+*Epoch 0, model saved with Loss: 2.4966, Train F1: 0.4750, Val F1: 0.4500, Test F1: 0.4706
+Epoch 0, Loss: 2.4966, Train F1: 0.4750, Val F1: 0.4500, Test F1: 0.4706
+*Epoch 1, model saved with Loss: 2.2033, Train F1: 0.6000, Val F1: 0.5250, Test F1: 0.5686
+*Epoch 2, model saved with Loss: 1.4104, Train F1: 0.6583, Val F1: 0.5625, Test F1: 0.6078
+*Epoch 3, model saved with Loss: 2.1547, Train F1: 0.6750, Val F1: 0.6000, Test F1: 0.5686
+*Epoch 4, model saved with Loss: 1.1790, Train F1: 0.7333, Val F1: 0.6000, Test F1: 0.6471
+*Epoch 5, model saved with Loss: 1.2490, Train F1: 0.7583, Val F1: 0.6125, Test F1: 0.6078
+*Epoch 6, model saved with Loss: 1.9410, Train F1: 0.8000, Val F1: 0.6250, Test F1: 0.5882
+*Epoch 8, model saved with Loss: 1.1576, Train F1: 0.8083, Val F1: 0.6375, Test F1: 0.5686
+*Epoch 9, model saved with Loss: 1.7972, Train F1: 0.8333, Val F1: 0.6625, Test F1: 0.5882
+*Epoch 10, model saved with Loss: 1.7081, Train F1: 0.8417, Val F1: 0.6625, Test F1: 0.5490
+*Epoch 11, model saved with Loss: 1.7149, Train F1: 0.8500, Val F1: 0.6625, Test F1: 0.5490
+*Epoch 12, model saved with Loss: 1.6323, Train F1: 0.8667, Val F1: 0.6875, Test F1: 0.5490
+*Epoch 13, model saved with Loss: 1.0605, Train F1: 0.8500, Val F1: 0.6875, Test F1: 0.5490
+*Epoch 16, model saved with Loss: 1.5307, Train F1: 0.9000, Val F1: 0.6875, Test F1: 0.5686
+*Epoch 17, model saved with Loss: 1.5745, Train F1: 0.8833, Val F1: 0.7250, Test F1: 0.5686
+*Epoch 19, model saved with Loss: 0.9023, Train F1: 0.8833, Val F1: 0.7250, Test F1: 0.5686
+Epoch 100, Loss: 0.7598, Train F1: 0.9750, Val F1: 0.4250, Test F1: 0.4706
+Epoch 200, Loss: 0.9681, Train F1: 0.9833, Val F1: 0.4250, Test F1: 0.4118
+Mean epoch time of run 0.0101
+Iteration:  250
+Best Test F1 throughout: 0.6471
+Loading best model for final evaluation at val: 0.7250
+Best Test F1 after loading saved model: 0.5882
+Run: 2
+*Epoch 0, model saved with Loss: 1.7320, Train F1: 0.5000, Val F1: 0.4875, Test F1: 0.5098
+Epoch 0, Loss: 1.7320, Train F1: 0.5000, Val F1: 0.4875, Test F1: 0.5098
+*Epoch 1, model saved with Loss: 2.2813, Train F1: 0.5167, Val F1: 0.5125, Test F1: 0.5294
+*Epoch 2, model saved with Loss: 1.4195, Train F1: 0.6167, Val F1: 0.5500, Test F1: 0.5098
+*Epoch 3, model saved with Loss: 1.3660, Train F1: 0.7083, Val F1: 0.6500, Test F1: 0.6078
+*Epoch 4, model saved with Loss: 2.0309, Train F1: 0.7417, Val F1: 0.6500, Test F1: 0.5882
+*Epoch 10, model saved with Loss: 1.0829, Train F1: 0.8333, Val F1: 0.6625, Test F1: 0.6078
+*Epoch 11, model saved with Loss: 1.1758, Train F1: 0.8083, Val F1: 0.6625, Test F1: 0.5686
+*Epoch 12, model saved with Loss: 1.0660, Train F1: 0.8500, Val F1: 0.6875, Test F1: 0.5098
+*Epoch 16, model saved with Loss: 1.8032, Train F1: 0.8667, Val F1: 0.7000, Test F1: 0.5882
+Epoch 100, Loss: 0.9309, Train F1: 0.9833, Val F1: 0.4625, Test F1: 0.4902
+Epoch 200, Loss: 0.8256, Train F1: 0.9833, Val F1: 0.4375, Test F1: 0.3725
+Mean epoch time of run 0.0090
+Iteration:  250
+Best Test F1 throughout: 0.6471
+Loading best model for final evaluation at val: 0.7000
+Best Test F1 after loading saved model: 0.5882
+Run: 3
+*Epoch 0, model saved with Loss: 2.4513, Train F1: 0.4167, Val F1: 0.3250, Test F1: 0.2549
+Epoch 0, Loss: 2.4513, Train F1: 0.4167, Val F1: 0.3250, Test F1: 0.2549
+*Epoch 1, model saved with Loss: 2.2905, Train F1: 0.6167, Val F1: 0.5125, Test F1: 0.4706
+*Epoch 2, model saved with Loss: 2.0875, Train F1: 0.6833, Val F1: 0.6250, Test F1: 0.6471
+*Epoch 3, model saved with Loss: 1.3372, Train F1: 0.6417, Val F1: 0.6375, Test F1: 0.6275
+*Epoch 5, model saved with Loss: 1.8994, Train F1: 0.7417, Val F1: 0.6500, Test F1: 0.6471
+*Epoch 7, model saved with Loss: 1.0036, Train F1: 0.8167, Val F1: 0.6750, Test F1: 0.6471
+*Epoch 15, model saved with Loss: 1.0641, Train F1: 0.8833, Val F1: 0.6875, Test F1: 0.5882
+*Epoch 16, model saved with Loss: 1.0595, Train F1: 0.8500, Val F1: 0.7125, Test F1: 0.6078
+Epoch 100, Loss: 0.8319, Train F1: 0.9833, Val F1: 0.4750, Test F1: 0.4706
+Epoch 200, Loss: 0.8003, Train F1: 0.9833, Val F1: 0.4000, Test F1: 0.4118
+Mean epoch time of run 0.0091
+Iteration:  250
+Best Test F1 throughout: 0.6667
+Loading best model for final evaluation at val: 0.7125
+Best Test F1 after loading saved model: 0.6078
+Run: 4
+*Epoch 0, model saved with Loss: 2.6366, Train F1: 0.2667, Val F1: 0.1375, Test F1: 0.1765
+Epoch 0, Loss: 2.6366, Train F1: 0.2667, Val F1: 0.1375, Test F1: 0.1765
+*Epoch 1, model saved with Loss: 1.5801, Train F1: 0.5500, Val F1: 0.4250, Test F1: 0.4118
+*Epoch 2, model saved with Loss: 2.2315, Train F1: 0.6583, Val F1: 0.5625, Test F1: 0.6078
+*Epoch 3, model saved with Loss: 1.2509, Train F1: 0.7250, Val F1: 0.6375, Test F1: 0.6275
+*Epoch 9, model saved with Loss: 1.7638, Train F1: 0.8250, Val F1: 0.6375, Test F1: 0.6471
+*Epoch 10, model saved with Loss: 1.0868, Train F1: 0.8333, Val F1: 0.6375, Test F1: 0.6078
+*Epoch 13, model saved with Loss: 1.0587, Train F1: 0.8583, Val F1: 0.6625, Test F1: 0.5686
+*Epoch 15, model saved with Loss: 1.0028, Train F1: 0.8917, Val F1: 0.6625, Test F1: 0.6471
+*Epoch 21, model saved with Loss: 0.9536, Train F1: 0.8833, Val F1: 0.6625, Test F1: 0.6078
+*Epoch 23, model saved with Loss: 0.9654, Train F1: 0.8833, Val F1: 0.6625, Test F1: 0.6275
+*Epoch 24, model saved with Loss: 0.9767, Train F1: 0.8667, Val F1: 0.6625, Test F1: 0.6275
+*Epoch 25, model saved with Loss: 1.0374, Train F1: 0.8667, Val F1: 0.7000, Test F1: 0.6078
+*Epoch 40, model saved with Loss: 0.9400, Train F1: 0.8917, Val F1: 0.7000, Test F1: 0.5294
+Epoch 100, Loss: 0.8550, Train F1: 0.9750, Val F1: 0.5625, Test F1: 0.4510
+Epoch 200, Loss: 0.9188, Train F1: 0.9833, Val F1: 0.5375, Test F1: 0.4314
+Mean epoch time of run 0.0095
+Iteration:  250
+Best Test F1 throughout: 0.6863
+Loading best model for final evaluation at val: 0.7000
+Best Test F1 after loading saved model: 0.5294
+---------------Stats-----------
+Mean training epoch runtime: 0.0097
+Mean Std of Best Test we could do F1 Score: 0.6667 +/- 0.0175
+Mean Std of Test at best Val F1 Score: 0.5765 +/- 0.0266
+Mean Std of Loaded best Val model Test F1 Score: 0.5804 +/- 0.0266
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+reed98
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.8266, Train F1: 0.4714, Val F1: 0.5208, Test F1: 0.5233
+Epoch 0, Loss: 1.8266, Train F1: 0.4714, Val F1: 0.5208, Test F1: 0.5233
+*Epoch 1, model saved with Loss: 1.8127, Train F1: 0.5113, Val F1: 0.5260, Test F1: 0.5026
+*Epoch 2, model saved with Loss: 1.0255, Train F1: 0.5217, Val F1: 0.5677, Test F1: 0.5285
+*Epoch 3, model saved with Loss: 1.0074, Train F1: 0.5338, Val F1: 0.5677, Test F1: 0.5181
+*Epoch 4, model saved with Loss: 1.7803, Train F1: 0.5286, Val F1: 0.5729, Test F1: 0.5130
+*Epoch 12, model saved with Loss: 1.6869, Train F1: 0.5546, Val F1: 0.5781, Test F1: 0.5078
+*Epoch 13, model saved with Loss: 0.8979, Train F1: 0.5633, Val F1: 0.5781, Test F1: 0.5181
+*Epoch 14, model saved with Loss: 0.8990, Train F1: 0.5841, Val F1: 0.5833, Test F1: 0.5078
+*Epoch 15, model saved with Loss: 1.6637, Train F1: 0.5927, Val F1: 0.5885, Test F1: 0.5337
+*Epoch 35, model saved with Loss: 1.5325, Train F1: 0.6759, Val F1: 0.5885, Test F1: 0.6218
+*Epoch 37, model saved with Loss: 0.7991, Train F1: 0.6898, Val F1: 0.5885, Test F1: 0.5907
+*Epoch 40, model saved with Loss: 0.7901, Train F1: 0.6759, Val F1: 0.6042, Test F1: 0.5959
+*Epoch 43, model saved with Loss: 0.7709, Train F1: 0.7002, Val F1: 0.6094, Test F1: 0.6218
+Epoch 100, Loss: 1.1327, Train F1: 0.8891, Val F1: 0.5833, Test F1: 0.6062
+*Epoch 109, model saved with Loss: 1.0448, Train F1: 0.9047, Val F1: 0.6198, Test F1: 0.6269
+*Epoch 117, model saved with Loss: 0.9386, Train F1: 0.9341, Val F1: 0.6198, Test F1: 0.6062
+*Epoch 121, model saved with Loss: 0.8981, Train F1: 0.9272, Val F1: 0.6354, Test F1: 0.6114
+*Epoch 127, model saved with Loss: 0.8496, Train F1: 0.9463, Val F1: 0.6354, Test F1: 0.6218
+*Epoch 130, model saved with Loss: 0.8022, Train F1: 0.9549, Val F1: 0.6510, Test F1: 0.6425
+*Epoch 134, model saved with Loss: 0.7605, Train F1: 0.9515, Val F1: 0.6562, Test F1: 0.6166
+*Epoch 151, model saved with Loss: 0.6091, Train F1: 0.9688, Val F1: 0.6615, Test F1: 0.6477
+*Epoch 160, model saved with Loss: 0.5595, Train F1: 0.9757, Val F1: 0.6615, Test F1: 0.6166
+*Epoch 177, model saved with Loss: 0.4702, Train F1: 0.9879, Val F1: 0.6667, Test F1: 0.6373
+*Epoch 182, model saved with Loss: 0.4604, Train F1: 0.9879, Val F1: 0.6667, Test F1: 0.6269
+Epoch 200, Loss: 0.3814, Train F1: 1.0000, Val F1: 0.6302, Test F1: 0.6269
+Mean epoch time of run 0.0211
+Iteration:  250
+Best Test F1 throughout: 0.6580
+Loading best model for final evaluation at val: 0.6667
+Best Test F1 after loading saved model: 0.6269
+Run: 1
+*Epoch 0, model saved with Loss: 1.0758, Train F1: 0.4974, Val F1: 0.5365, Test F1: 0.4715
+Epoch 0, Loss: 1.0758, Train F1: 0.4974, Val F1: 0.5365, Test F1: 0.4715
+*Epoch 1, model saved with Loss: 1.8296, Train F1: 0.5165, Val F1: 0.5521, Test F1: 0.4922
+*Epoch 2, model saved with Loss: 1.0154, Train F1: 0.5217, Val F1: 0.5781, Test F1: 0.5181
+*Epoch 3, model saved with Loss: 0.9916, Train F1: 0.5234, Val F1: 0.5781, Test F1: 0.5078
+*Epoch 6, model saved with Loss: 1.7428, Train F1: 0.5321, Val F1: 0.5781, Test F1: 0.5181
+*Epoch 8, model saved with Loss: 1.7214, Train F1: 0.5390, Val F1: 0.5833, Test F1: 0.5233
+*Epoch 9, model saved with Loss: 1.7118, Train F1: 0.5442, Val F1: 0.5938, Test F1: 0.5233
+*Epoch 38, model saved with Loss: 1.4958, Train F1: 0.7106, Val F1: 0.5938, Test F1: 0.5959
+*Epoch 44, model saved with Loss: 1.4602, Train F1: 0.6967, Val F1: 0.5938, Test F1: 0.5907
+*Epoch 45, model saved with Loss: 1.4661, Train F1: 0.7227, Val F1: 0.5938, Test F1: 0.5907
+*Epoch 46, model saved with Loss: 1.4485, Train F1: 0.7227, Val F1: 0.5938, Test F1: 0.5907
+*Epoch 47, model saved with Loss: 1.4423, Train F1: 0.7175, Val F1: 0.5990, Test F1: 0.6218
+*Epoch 66, model saved with Loss: 1.3676, Train F1: 0.7747, Val F1: 0.6042, Test F1: 0.6166
+Epoch 100, Loss: 1.1877, Train F1: 0.8562, Val F1: 0.5365, Test F1: 0.5855
+*Epoch 126, model saved with Loss: 0.9663, Train F1: 0.9324, Val F1: 0.6146, Test F1: 0.5907
+*Epoch 138, model saved with Loss: 0.8348, Train F1: 0.9619, Val F1: 0.6302, Test F1: 0.6269
+*Epoch 139, model saved with Loss: 0.8003, Train F1: 0.9601, Val F1: 0.6458, Test F1: 0.6114
+*Epoch 195, model saved with Loss: 0.4811, Train F1: 0.9931, Val F1: 0.6458, Test F1: 0.6114
+*Epoch 196, model saved with Loss: 0.4765, Train F1: 0.9965, Val F1: 0.6615, Test F1: 0.6218
+Epoch 200, Loss: 0.4162, Train F1: 0.9931, Val F1: 0.6458, Test F1: 0.5855
+Mean epoch time of run 0.0183
+Iteration:  250
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation at val: 0.6615
+Best Test F1 after loading saved model: 0.6269
+Run: 2
+*Epoch 0, model saved with Loss: 1.9352, Train F1: 0.4679, Val F1: 0.5260, Test F1: 0.4508
+Epoch 0, Loss: 1.9352, Train F1: 0.4679, Val F1: 0.5260, Test F1: 0.4508
+*Epoch 1, model saved with Loss: 1.8670, Train F1: 0.5147, Val F1: 0.5573, Test F1: 0.5233
+*Epoch 2, model saved with Loss: 1.0796, Train F1: 0.5165, Val F1: 0.5781, Test F1: 0.5233
+*Epoch 3, model saved with Loss: 1.8587, Train F1: 0.5113, Val F1: 0.5781, Test F1: 0.5181
+*Epoch 18, model saved with Loss: 1.7129, Train F1: 0.5165, Val F1: 0.5781, Test F1: 0.5233
+*Epoch 19, model saved with Loss: 0.9132, Train F1: 0.5165, Val F1: 0.5781, Test F1: 0.5233
+*Epoch 20, model saved with Loss: 0.9001, Train F1: 0.5234, Val F1: 0.5781, Test F1: 0.5233
+*Epoch 21, model saved with Loss: 0.9035, Train F1: 0.5269, Val F1: 0.5833, Test F1: 0.5233
+*Epoch 23, model saved with Loss: 0.8867, Train F1: 0.5373, Val F1: 0.5833, Test F1: 0.5285
+*Epoch 24, model saved with Loss: 1.6873, Train F1: 0.5581, Val F1: 0.5833, Test F1: 0.5389
+*Epoch 25, model saved with Loss: 1.6764, Train F1: 0.5685, Val F1: 0.6094, Test F1: 0.5337
+*Epoch 95, model saved with Loss: 1.3080, Train F1: 0.8163, Val F1: 0.6094, Test F1: 0.6062
+*Epoch 100, model saved with Loss: 1.2451, Train F1: 0.8198, Val F1: 0.6094, Test F1: 0.6269
+Epoch 100, Loss: 1.2451, Train F1: 0.8198, Val F1: 0.6094, Test F1: 0.6269
+*Epoch 107, model saved with Loss: 1.2327, Train F1: 0.8440, Val F1: 0.6094, Test F1: 0.6166
+*Epoch 140, model saved with Loss: 0.9047, Train F1: 0.9272, Val F1: 0.6250, Test F1: 0.6062
+*Epoch 157, model saved with Loss: 0.7339, Train F1: 0.9549, Val F1: 0.6250, Test F1: 0.6166
+*Epoch 166, model saved with Loss: 0.6796, Train F1: 0.9584, Val F1: 0.6302, Test F1: 0.6425
+Epoch 200, Loss: 0.4533, Train F1: 0.9896, Val F1: 0.6198, Test F1: 0.6477
+*Epoch 202, model saved with Loss: 0.4622, Train F1: 0.9879, Val F1: 0.6354, Test F1: 0.6321
+*Epoch 212, model saved with Loss: 0.3972, Train F1: 0.9931, Val F1: 0.6406, Test F1: 0.6166
+*Epoch 215, model saved with Loss: 0.3801, Train F1: 0.9965, Val F1: 0.6406, Test F1: 0.6166
+*Epoch 230, model saved with Loss: 0.3464, Train F1: 0.9931, Val F1: 0.6406, Test F1: 0.6114
+*Epoch 240, model saved with Loss: 0.3106, Train F1: 0.9931, Val F1: 0.6406, Test F1: 0.6269
+Mean epoch time of run 0.0184
+Iteration:  250
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation at val: 0.6406
+Best Test F1 after loading saved model: 0.6373
+Run: 3
+*Epoch 0, model saved with Loss: 1.1091, Train F1: 0.4558, Val F1: 0.4375, Test F1: 0.4560
+Epoch 0, Loss: 1.1091, Train F1: 0.4558, Val F1: 0.4375, Test F1: 0.4560
+*Epoch 1, model saved with Loss: 1.8355, Train F1: 0.5078, Val F1: 0.4844, Test F1: 0.4974
+*Epoch 2, model saved with Loss: 1.8182, Train F1: 0.5511, Val F1: 0.5365, Test F1: 0.5285
+*Epoch 4, model saved with Loss: 1.0015, Train F1: 0.5390, Val F1: 0.5729, Test F1: 0.5026
+*Epoch 5, model saved with Loss: 0.9806, Train F1: 0.5251, Val F1: 0.5729, Test F1: 0.4974
+*Epoch 6, model saved with Loss: 0.9680, Train F1: 0.5182, Val F1: 0.5781, Test F1: 0.5130
+*Epoch 8, model saved with Loss: 1.7392, Train F1: 0.5199, Val F1: 0.5781, Test F1: 0.5181
+*Epoch 10, model saved with Loss: 0.9204, Train F1: 0.5269, Val F1: 0.5781, Test F1: 0.5130
+*Epoch 11, model saved with Loss: 0.9126, Train F1: 0.5269, Val F1: 0.5781, Test F1: 0.5130
+*Epoch 13, model saved with Loss: 0.9000, Train F1: 0.5338, Val F1: 0.5781, Test F1: 0.4974
+*Epoch 31, model saved with Loss: 1.5482, Train F1: 0.6620, Val F1: 0.5781, Test F1: 0.5907
+*Epoch 34, model saved with Loss: 1.5345, Train F1: 0.6828, Val F1: 0.5781, Test F1: 0.5596
+*Epoch 39, model saved with Loss: 0.7922, Train F1: 0.6950, Val F1: 0.5833, Test F1: 0.6010
+*Epoch 40, model saved with Loss: 1.5105, Train F1: 0.7088, Val F1: 0.5885, Test F1: 0.6114
+*Epoch 41, model saved with Loss: 1.4996, Train F1: 0.6967, Val F1: 0.5938, Test F1: 0.5803
+*Epoch 42, model saved with Loss: 0.7940, Train F1: 0.6915, Val F1: 0.5938, Test F1: 0.6010
+*Epoch 43, model saved with Loss: 1.4916, Train F1: 0.7106, Val F1: 0.5990, Test F1: 0.6062
+*Epoch 65, model saved with Loss: 0.7330, Train F1: 0.7643, Val F1: 0.5990, Test F1: 0.6218
+*Epoch 66, model saved with Loss: 1.3732, Train F1: 0.7747, Val F1: 0.6042, Test F1: 0.6062
+Epoch 100, Loss: 1.1709, Train F1: 0.8631, Val F1: 0.5573, Test F1: 0.5907
+*Epoch 121, model saved with Loss: 0.9399, Train F1: 0.9341, Val F1: 0.6146, Test F1: 0.6010
+*Epoch 122, model saved with Loss: 0.9306, Train F1: 0.9307, Val F1: 0.6354, Test F1: 0.6218
+*Epoch 131, model saved with Loss: 0.8327, Train F1: 0.9532, Val F1: 0.6510, Test F1: 0.6632
+Epoch 200, Loss: 0.3737, Train F1: 1.0000, Val F1: 0.6146, Test F1: 0.6062
+Mean epoch time of run 0.0177
+Iteration:  250
+Best Test F1 throughout: 0.6632
+Loading best model for final evaluation at val: 0.6510
+Best Test F1 after loading saved model: 0.6269
+Run: 4
+*Epoch 0, model saved with Loss: 1.8571, Train F1: 0.4974, Val F1: 0.5104, Test F1: 0.5285
+Epoch 0, Loss: 1.8571, Train F1: 0.4974, Val F1: 0.5104, Test F1: 0.5285
+*Epoch 1, model saved with Loss: 1.0515, Train F1: 0.5269, Val F1: 0.5938, Test F1: 0.5492
+*Epoch 34, model saved with Loss: 1.5418, Train F1: 0.6828, Val F1: 0.5938, Test F1: 0.6062
+*Epoch 35, model saved with Loss: 1.5362, Train F1: 0.6759, Val F1: 0.6042, Test F1: 0.6114
+*Epoch 41, model saved with Loss: 1.5004, Train F1: 0.7106, Val F1: 0.6094, Test F1: 0.6218
+Epoch 100, Loss: 1.2048, Train F1: 0.8631, Val F1: 0.5781, Test F1: 0.5855
+*Epoch 122, model saved with Loss: 0.9979, Train F1: 0.9220, Val F1: 0.6146, Test F1: 0.5699
+*Epoch 123, model saved with Loss: 1.0100, Train F1: 0.9151, Val F1: 0.6146, Test F1: 0.5907
+*Epoch 129, model saved with Loss: 0.9140, Train F1: 0.9324, Val F1: 0.6146, Test F1: 0.6269
+*Epoch 131, model saved with Loss: 0.8898, Train F1: 0.9411, Val F1: 0.6146, Test F1: 0.6166
+*Epoch 132, model saved with Loss: 0.8963, Train F1: 0.9341, Val F1: 0.6198, Test F1: 0.6218
+*Epoch 134, model saved with Loss: 0.8591, Train F1: 0.9497, Val F1: 0.6250, Test F1: 0.6269
+*Epoch 138, model saved with Loss: 0.8168, Train F1: 0.9567, Val F1: 0.6354, Test F1: 0.6166
+*Epoch 146, model saved with Loss: 0.7471, Train F1: 0.9601, Val F1: 0.6406, Test F1: 0.6269
+Epoch 200, Loss: 0.4653, Train F1: 0.9965, Val F1: 0.6354, Test F1: 0.6114
+*Epoch 233, model saved with Loss: 0.3615, Train F1: 1.0000, Val F1: 0.6406, Test F1: 0.6166
+*Epoch 235, model saved with Loss: 0.3501, Train F1: 1.0000, Val F1: 0.6458, Test F1: 0.6114
+Mean epoch time of run 0.0184
+Iteration:  250
+Best Test F1 throughout: 0.6477
+Loading best model for final evaluation at val: 0.6458
+Best Test F1 after loading saved model: 0.6166
+---------------Stats-----------
+Mean training epoch runtime: 0.0188
+Mean Std of Best Test we could do F1 Score: 0.6549 +/- 0.0053
+Mean Std of Test at best Val F1 Score: 0.6301 +/- 0.0175
+Mean Std of Loaded best Val model Test F1 Score: 0.6269 +/- 0.0066
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+reed98
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.0691, Train F1: 0.4749, Val F1: 0.5365, Test F1: 0.4404
+Epoch 0, Loss: 1.0691, Train F1: 0.4749, Val F1: 0.5365, Test F1: 0.4404
+*Epoch 1, model saved with Loss: 1.8165, Train F1: 0.4991, Val F1: 0.5677, Test F1: 0.5026
+*Epoch 2, model saved with Loss: 1.7986, Train F1: 0.5130, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 3, model saved with Loss: 1.7793, Train F1: 0.5113, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 6, model saved with Loss: 1.0643, Train F1: 0.5026, Val F1: 0.5885, Test F1: 0.5285
+*Epoch 28, model saved with Loss: 0.8942, Train F1: 0.5927, Val F1: 0.5938, Test F1: 0.5544
+*Epoch 33, model saved with Loss: 1.6343, Train F1: 0.6205, Val F1: 0.5990, Test F1: 0.5907
+*Epoch 43, model saved with Loss: 0.8670, Train F1: 0.6482, Val F1: 0.5990, Test F1: 0.5959
+*Epoch 44, model saved with Loss: 1.5717, Train F1: 0.6412, Val F1: 0.5990, Test F1: 0.5648
+*Epoch 45, model saved with Loss: 1.5765, Train F1: 0.6655, Val F1: 0.5990, Test F1: 0.5855
+*Epoch 50, model saved with Loss: 0.8591, Train F1: 0.6620, Val F1: 0.5990, Test F1: 0.5803
+*Epoch 54, model saved with Loss: 1.5518, Train F1: 0.6603, Val F1: 0.6094, Test F1: 0.5907
+*Epoch 76, model saved with Loss: 1.5111, Train F1: 0.6794, Val F1: 0.6094, Test F1: 0.5803
+*Epoch 82, model saved with Loss: 1.4963, Train F1: 0.6967, Val F1: 0.6146, Test F1: 0.5699
+Epoch 100, Loss: 1.4462, Train F1: 0.7175, Val F1: 0.5885, Test F1: 0.6062
+*Epoch 108, model saved with Loss: 0.7440, Train F1: 0.7314, Val F1: 0.6406, Test F1: 0.5855
+Epoch 200, Loss: 1.1888, Train F1: 0.8579, Val F1: 0.6042, Test F1: 0.6425
+*Epoch 216, model saved with Loss: 1.1477, Train F1: 0.8579, Val F1: 0.6458, Test F1: 0.6321
+*Epoch 219, model saved with Loss: 0.7043, Train F1: 0.8371, Val F1: 0.6458, Test F1: 0.6321
+*Epoch 223, model saved with Loss: 1.1429, Train F1: 0.8614, Val F1: 0.6458, Test F1: 0.5959
+*Epoch 224, model saved with Loss: 0.7174, Train F1: 0.8718, Val F1: 0.6510, Test F1: 0.6166
+Mean epoch time of run 0.0171
+Iteration:  250
+Best Test F1 throughout: 0.6477
+Loading best model for final evaluation at val: 0.6510
+Best Test F1 after loading saved model: 0.6062
+Run: 1
+*Epoch 0, model saved with Loss: 1.1331, Train F1: 0.4055, Val F1: 0.4375, Test F1: 0.4611
+Epoch 0, Loss: 1.1331, Train F1: 0.4055, Val F1: 0.4375, Test F1: 0.4611
+*Epoch 1, model saved with Loss: 1.8868, Train F1: 0.5043, Val F1: 0.5521, Test F1: 0.5285
+*Epoch 2, model saved with Loss: 1.0579, Train F1: 0.5217, Val F1: 0.5625, Test F1: 0.5233
+*Epoch 3, model saved with Loss: 1.8144, Train F1: 0.5147, Val F1: 0.5729, Test F1: 0.5233
+*Epoch 4, model saved with Loss: 1.8029, Train F1: 0.5130, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 5, model saved with Loss: 1.0013, Train F1: 0.5113, Val F1: 0.5729, Test F1: 0.5233
+*Epoch 6, model saved with Loss: 1.0270, Train F1: 0.5130, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 7, model saved with Loss: 1.7755, Train F1: 0.5130, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 8, model saved with Loss: 1.7727, Train F1: 0.5113, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 9, model saved with Loss: 1.7682, Train F1: 0.5147, Val F1: 0.5729, Test F1: 0.5181
+*Epoch 10, model saved with Loss: 1.7612, Train F1: 0.5165, Val F1: 0.5729, Test F1: 0.5233
+*Epoch 12, model saved with Loss: 0.9556, Train F1: 0.5165, Val F1: 0.5729, Test F1: 0.5233
+*Epoch 13, model saved with Loss: 1.7319, Train F1: 0.5199, Val F1: 0.5833, Test F1: 0.5233
+*Epoch 15, model saved with Loss: 0.9333, Train F1: 0.5442, Val F1: 0.5885, Test F1: 0.5181
+*Epoch 19, model saved with Loss: 1.7027, Train F1: 0.5494, Val F1: 0.5885, Test F1: 0.5337
+*Epoch 21, model saved with Loss: 1.7061, Train F1: 0.5563, Val F1: 0.5885, Test F1: 0.5440
+*Epoch 33, model saved with Loss: 0.9013, Train F1: 0.5875, Val F1: 0.5990, Test F1: 0.5492
+*Epoch 43, model saved with Loss: 0.8822, Train F1: 0.6066, Val F1: 0.5990, Test F1: 0.5907
+*Epoch 97, model saved with Loss: 1.5028, Train F1: 0.6447, Val F1: 0.5990, Test F1: 0.5648
+*Epoch 98, model saved with Loss: 0.8343, Train F1: 0.6586, Val F1: 0.6250, Test F1: 0.5596
+Epoch 100, Loss: 0.8012, Train F1: 0.6499, Val F1: 0.5729, Test F1: 0.5699
+Epoch 200, Loss: 1.3366, Train F1: 0.7418, Val F1: 0.5781, Test F1: 0.6010
+*Epoch 225, model saved with Loss: 1.2063, Train F1: 0.7816, Val F1: 0.6302, Test F1: 0.5855
+*Epoch 233, model saved with Loss: 1.2002, Train F1: 0.8302, Val F1: 0.6354, Test F1: 0.6166
+*Epoch 234, model saved with Loss: 1.2198, Train F1: 0.8232, Val F1: 0.6354, Test F1: 0.6062
+*Epoch 235, model saved with Loss: 1.2409, Train F1: 0.8094, Val F1: 0.6354, Test F1: 0.6166
+*Epoch 236, model saved with Loss: 0.7378, Train F1: 0.8076, Val F1: 0.6458, Test F1: 0.6218
+*Epoch 240, model saved with Loss: 1.1825, Train F1: 0.8198, Val F1: 0.6458, Test F1: 0.5855
+*Epoch 244, model saved with Loss: 1.1868, Train F1: 0.8111, Val F1: 0.6510, Test F1: 0.5959
+*Epoch 246, model saved with Loss: 0.7280, Train F1: 0.8302, Val F1: 0.6510, Test F1: 0.6166
+Mean epoch time of run 0.0166
+Iteration:  250
+Best Test F1 throughout: 0.6321
+Loading best model for final evaluation at val: 0.6510
+Best Test F1 after loading saved model: 0.6010
+Run: 2
+*Epoch 0, model saved with Loss: 1.0748, Train F1: 0.4957, Val F1: 0.5521, Test F1: 0.5130
+Epoch 0, Loss: 1.0748, Train F1: 0.4957, Val F1: 0.5521, Test F1: 0.5130
+*Epoch 2, model saved with Loss: 1.0177, Train F1: 0.5199, Val F1: 0.5521, Test F1: 0.5337
+*Epoch 3, model saved with Loss: 1.0058, Train F1: 0.5061, Val F1: 0.5677, Test F1: 0.5440
+*Epoch 4, model saved with Loss: 1.7844, Train F1: 0.5355, Val F1: 0.5677, Test F1: 0.5440
+*Epoch 7, model saved with Loss: 0.9381, Train F1: 0.5390, Val F1: 0.5833, Test F1: 0.5389
+*Epoch 10, model saved with Loss: 1.7348, Train F1: 0.5442, Val F1: 0.5885, Test F1: 0.5648
+*Epoch 32, model saved with Loss: 0.8619, Train F1: 0.6395, Val F1: 0.5938, Test F1: 0.5907
+*Epoch 49, model saved with Loss: 0.8277, Train F1: 0.6742, Val F1: 0.6042, Test F1: 0.5751
+*Epoch 52, model saved with Loss: 1.5502, Train F1: 0.6568, Val F1: 0.6146, Test F1: 0.6166
+Epoch 100, Loss: 1.4439, Train F1: 0.7539, Val F1: 0.5833, Test F1: 0.6218
+*Epoch 102, model saved with Loss: 1.4466, Train F1: 0.7383, Val F1: 0.6146, Test F1: 0.5959
+*Epoch 138, model saved with Loss: 1.4166, Train F1: 0.7626, Val F1: 0.6250, Test F1: 0.5492
+Epoch 200, Loss: 1.2470, Train F1: 0.8094, Val F1: 0.5990, Test F1: 0.6114
+*Epoch 205, model saved with Loss: 1.2698, Train F1: 0.8024, Val F1: 0.6302, Test F1: 0.6010
+*Epoch 215, model saved with Loss: 1.2215, Train F1: 0.8527, Val F1: 0.6354, Test F1: 0.6218
+*Epoch 224, model saved with Loss: 1.1692, Train F1: 0.8458, Val F1: 0.6406, Test F1: 0.6166
+*Epoch 226, model saved with Loss: 0.7138, Train F1: 0.8769, Val F1: 0.6458, Test F1: 0.6062
+*Epoch 228, model saved with Loss: 1.1702, Train F1: 0.8631, Val F1: 0.6458, Test F1: 0.6321
+*Epoch 232, model saved with Loss: 1.1475, Train F1: 0.8804, Val F1: 0.6458, Test F1: 0.6114
+Mean epoch time of run 0.0155
+Iteration:  250
+Best Test F1 throughout: 0.6477
+Loading best model for final evaluation at val: 0.6458
+Best Test F1 after loading saved model: 0.6218
+Run: 3
+*Epoch 0, model saved with Loss: 1.9004, Train F1: 0.3276, Val F1: 0.3125, Test F1: 0.2694
+Epoch 0, Loss: 1.9004, Train F1: 0.3276, Val F1: 0.3125, Test F1: 0.2694
+*Epoch 1, model saved with Loss: 1.0969, Train F1: 0.3674, Val F1: 0.3958, Test F1: 0.4404
+*Epoch 2, model saved with Loss: 1.0743, Train F1: 0.4385, Val F1: 0.4635, Test F1: 0.4456
+*Epoch 3, model saved with Loss: 1.8433, Train F1: 0.5078, Val F1: 0.5208, Test F1: 0.5130
+*Epoch 4, model saved with Loss: 1.0385, Train F1: 0.5182, Val F1: 0.5990, Test F1: 0.5285
+*Epoch 6, model saved with Loss: 0.9962, Train F1: 0.5286, Val F1: 0.5990, Test F1: 0.5285
+*Epoch 15, model saved with Loss: 0.9566, Train F1: 0.5182, Val F1: 0.6042, Test F1: 0.5233
+*Epoch 34, model saved with Loss: 1.6590, Train F1: 0.6135, Val F1: 0.6458, Test F1: 0.5803
+Epoch 100, Loss: 0.7988, Train F1: 0.7227, Val F1: 0.5990, Test F1: 0.5959
+Epoch 200, Loss: 0.7103, Train F1: 0.8042, Val F1: 0.5781, Test F1: 0.5855
+Mean epoch time of run 0.0154
+Iteration:  250
+Best Test F1 throughout: 0.6321
+Loading best model for final evaluation at val: 0.6458
+Best Test F1 after loading saved model: 0.5699
+Run: 4
+*Epoch 0, model saved with Loss: 1.8655, Train F1: 0.4090, Val F1: 0.4219, Test F1: 0.4715
+Epoch 0, Loss: 1.8655, Train F1: 0.4090, Val F1: 0.4219, Test F1: 0.4715
+*Epoch 1, model saved with Loss: 1.8336, Train F1: 0.4749, Val F1: 0.5677, Test F1: 0.5389
+*Epoch 5, model saved with Loss: 1.7898, Train F1: 0.5130, Val F1: 0.5833, Test F1: 0.5233
+*Epoch 7, model saved with Loss: 1.7577, Train F1: 0.5355, Val F1: 0.5990, Test F1: 0.5181
+*Epoch 25, model saved with Loss: 0.8937, Train F1: 0.5615, Val F1: 0.6042, Test F1: 0.5596
+*Epoch 26, model saved with Loss: 1.6618, Train F1: 0.5789, Val F1: 0.6094, Test F1: 0.5440
+*Epoch 46, model saved with Loss: 1.6011, Train F1: 0.6551, Val F1: 0.6302, Test F1: 0.5959
+*Epoch 78, model saved with Loss: 1.5013, Train F1: 0.7036, Val F1: 0.6302, Test F1: 0.5803
+*Epoch 79, model saved with Loss: 0.7796, Train F1: 0.7002, Val F1: 0.6354, Test F1: 0.5855
+Epoch 100, Loss: 0.7751, Train F1: 0.7071, Val F1: 0.5729, Test F1: 0.5959
+*Epoch 198, model saved with Loss: 1.2546, Train F1: 0.7990, Val F1: 0.6354, Test F1: 0.5907
+Epoch 200, Loss: 1.2604, Train F1: 0.8215, Val F1: 0.6198, Test F1: 0.6425
+*Epoch 214, model saved with Loss: 1.1966, Train F1: 0.8371, Val F1: 0.6354, Test F1: 0.6477
+*Epoch 220, model saved with Loss: 0.7059, Train F1: 0.8354, Val F1: 0.6354, Test F1: 0.6580
+*Epoch 223, model saved with Loss: 0.7085, Train F1: 0.8475, Val F1: 0.6458, Test F1: 0.6477
+*Epoch 230, model saved with Loss: 1.1663, Train F1: 0.8752, Val F1: 0.6510, Test F1: 0.6580
+*Epoch 244, model saved with Loss: 1.1159, Train F1: 0.8735, Val F1: 0.6510, Test F1: 0.6218
+*Epoch 248, model saved with Loss: 0.6721, Train F1: 0.8960, Val F1: 0.6562, Test F1: 0.6269
+Mean epoch time of run 0.0162
+Iteration:  250
+Best Test F1 throughout: 0.6580
+Loading best model for final evaluation at val: 0.6562
+Best Test F1 after loading saved model: 0.6218
+---------------Stats-----------
+Mean training epoch runtime: 0.0161
+Mean Std of Best Test we could do F1 Score: 0.6435 +/- 0.0100
+Mean Std of Test at best Val F1 Score: 0.6104 +/- 0.0159
+Mean Std of Loaded best Val model Test F1 Score: 0.6041 +/- 0.0190
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+amherst41
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.0974, Train F1: 0.4534, Val F1: 0.4564, Test F1: 0.4407
+Epoch 0, Loss: 1.0974, Train F1: 0.4534, Val F1: 0.4564, Test F1: 0.4407
+*Epoch 1, model saved with Loss: 1.0767, Train F1: 0.4564, Val F1: 0.4564, Test F1: 0.4407
+*Epoch 2, model saved with Loss: 1.8687, Train F1: 0.4571, Val F1: 0.4609, Test F1: 0.4407
+*Epoch 4, model saved with Loss: 1.8347, Train F1: 0.4594, Val F1: 0.4631, Test F1: 0.4452
+*Epoch 5, model saved with Loss: 1.0085, Train F1: 0.4646, Val F1: 0.4631, Test F1: 0.4497
+*Epoch 6, model saved with Loss: 1.8048, Train F1: 0.4676, Val F1: 0.4676, Test F1: 0.4497
+*Epoch 7, model saved with Loss: 0.9823, Train F1: 0.4840, Val F1: 0.4720, Test F1: 0.4586
+*Epoch 8, model saved with Loss: 1.7811, Train F1: 0.4914, Val F1: 0.4810, Test F1: 0.4586
+*Epoch 9, model saved with Loss: 0.9610, Train F1: 0.5011, Val F1: 0.4899, Test F1: 0.4653
+*Epoch 11, model saved with Loss: 1.7488, Train F1: 0.5138, Val F1: 0.4899, Test F1: 0.4676
+*Epoch 13, model saved with Loss: 0.9303, Train F1: 0.5280, Val F1: 0.4944, Test F1: 0.4743
+*Epoch 14, model saved with Loss: 0.9263, Train F1: 0.5369, Val F1: 0.4966, Test F1: 0.4966
+*Epoch 15, model saved with Loss: 1.7234, Train F1: 0.5496, Val F1: 0.5011, Test F1: 0.5056
+*Epoch 16, model saved with Loss: 0.9204, Train F1: 0.5570, Val F1: 0.5190, Test F1: 0.4989
+*Epoch 18, model saved with Loss: 0.9178, Train F1: 0.5645, Val F1: 0.5213, Test F1: 0.5078
+*Epoch 21, model saved with Loss: 1.7130, Train F1: 0.5712, Val F1: 0.5235, Test F1: 0.5190
+*Epoch 23, model saved with Loss: 0.9104, Train F1: 0.5735, Val F1: 0.5280, Test F1: 0.5034
+*Epoch 24, model saved with Loss: 1.7096, Train F1: 0.5735, Val F1: 0.5324, Test F1: 0.5235
+*Epoch 27, model saved with Loss: 1.7007, Train F1: 0.5764, Val F1: 0.5369, Test F1: 0.5213
+*Epoch 28, model saved with Loss: 1.6986, Train F1: 0.5839, Val F1: 0.5503, Test F1: 0.5324
+*Epoch 42, model saved with Loss: 0.8706, Train F1: 0.6048, Val F1: 0.5526, Test F1: 0.5257
+*Epoch 43, model saved with Loss: 0.8694, Train F1: 0.6122, Val F1: 0.5570, Test F1: 0.5347
+*Epoch 47, model saved with Loss: 0.8609, Train F1: 0.6107, Val F1: 0.5615, Test F1: 0.5503
+*Epoch 49, model saved with Loss: 1.6327, Train F1: 0.6271, Val F1: 0.5660, Test F1: 0.5391
+*Epoch 50, model saved with Loss: 1.6320, Train F1: 0.6145, Val F1: 0.5682, Test F1: 0.5324
+*Epoch 52, model saved with Loss: 0.8582, Train F1: 0.6264, Val F1: 0.5682, Test F1: 0.5280
+*Epoch 53, model saved with Loss: 0.8559, Train F1: 0.6257, Val F1: 0.5749, Test F1: 0.5369
+*Epoch 56, model saved with Loss: 1.6162, Train F1: 0.6346, Val F1: 0.5749, Test F1: 0.5302
+*Epoch 58, model saved with Loss: 0.8441, Train F1: 0.6361, Val F1: 0.5772, Test F1: 0.5347
+*Epoch 62, model saved with Loss: 0.8415, Train F1: 0.6324, Val F1: 0.5839, Test F1: 0.5436
+*Epoch 63, model saved with Loss: 1.5920, Train F1: 0.6406, Val F1: 0.5839, Test F1: 0.5503
+*Epoch 69, model saved with Loss: 1.5726, Train F1: 0.6450, Val F1: 0.5928, Test F1: 0.5481
+*Epoch 72, model saved with Loss: 0.8262, Train F1: 0.6510, Val F1: 0.5951, Test F1: 0.5481
+*Epoch 76, model saved with Loss: 1.5524, Train F1: 0.6562, Val F1: 0.6040, Test F1: 0.5727
+*Epoch 77, model saved with Loss: 1.5581, Train F1: 0.6592, Val F1: 0.6040, Test F1: 0.5705
+*Epoch 85, model saved with Loss: 1.5278, Train F1: 0.6786, Val F1: 0.6107, Test F1: 0.5772
+*Epoch 97, model saved with Loss: 1.4915, Train F1: 0.6883, Val F1: 0.6130, Test F1: 0.5727
+*Epoch 98, model saved with Loss: 1.4885, Train F1: 0.6898, Val F1: 0.6152, Test F1: 0.5727
+*Epoch 100, model saved with Loss: 1.4850, Train F1: 0.6890, Val F1: 0.6174, Test F1: 0.5615
+Epoch 100, Loss: 1.4850, Train F1: 0.6890, Val F1: 0.6174, Test F1: 0.5615
+*Epoch 101, model saved with Loss: 1.4783, Train F1: 0.7002, Val F1: 0.6197, Test F1: 0.5906
+*Epoch 103, model saved with Loss: 1.4724, Train F1: 0.7040, Val F1: 0.6264, Test F1: 0.5928
+*Epoch 111, model saved with Loss: 1.4591, Train F1: 0.7077, Val F1: 0.6331, Test F1: 0.6130
+*Epoch 112, model saved with Loss: 1.4559, Train F1: 0.7054, Val F1: 0.6331, Test F1: 0.5861
+*Epoch 114, model saved with Loss: 1.4612, Train F1: 0.7062, Val F1: 0.6421, Test F1: 0.5861
+*Epoch 115, model saved with Loss: 1.4669, Train F1: 0.7181, Val F1: 0.6421, Test F1: 0.6085
+*Epoch 125, model saved with Loss: 1.4305, Train F1: 0.7204, Val F1: 0.6555, Test F1: 0.5973
+*Epoch 134, model saved with Loss: 1.4240, Train F1: 0.7196, Val F1: 0.6555, Test F1: 0.6219
+*Epoch 144, model saved with Loss: 1.4045, Train F1: 0.7427, Val F1: 0.6577, Test F1: 0.6063
+*Epoch 145, model saved with Loss: 1.4025, Train F1: 0.7457, Val F1: 0.6600, Test F1: 0.6040
+*Epoch 148, model saved with Loss: 1.3868, Train F1: 0.7442, Val F1: 0.6644, Test F1: 0.6421
+*Epoch 150, model saved with Loss: 1.3981, Train F1: 0.7479, Val F1: 0.6644, Test F1: 0.6063
+*Epoch 155, model saved with Loss: 1.3730, Train F1: 0.7397, Val F1: 0.6689, Test F1: 0.6398
+*Epoch 158, model saved with Loss: 1.3818, Train F1: 0.7457, Val F1: 0.6711, Test F1: 0.6040
+*Epoch 177, model saved with Loss: 1.3922, Train F1: 0.7658, Val F1: 0.6711, Test F1: 0.6353
+Epoch 200, Loss: 1.3379, Train F1: 0.7666, Val F1: 0.6667, Test F1: 0.6421
+*Epoch 206, model saved with Loss: 1.3302, Train F1: 0.7733, Val F1: 0.6756, Test F1: 0.6443
+*Epoch 218, model saved with Loss: 1.3269, Train F1: 0.7837, Val F1: 0.6801, Test F1: 0.6532
+*Epoch 233, model saved with Loss: 1.3156, Train F1: 0.7919, Val F1: 0.6801, Test F1: 0.6398
+*Epoch 234, model saved with Loss: 1.3165, Train F1: 0.7987, Val F1: 0.6846, Test F1: 0.6488
+Mean epoch time of run 0.0465
+Iteration:  250
+Best Test F1 throughout: 0.6711
+Loading best model for final evaluation at val: 0.6846
+Best Test F1 after loading saved model: 0.6488
+Run: 1
+*Epoch 0, model saved with Loss: 1.8784, Train F1: 0.4348, Val F1: 0.4810, Test F1: 0.4676
+Epoch 0, Loss: 1.8784, Train F1: 0.4348, Val F1: 0.4810, Test F1: 0.4676
+*Epoch 15, model saved with Loss: 0.9717, Train F1: 0.4780, Val F1: 0.4899, Test F1: 0.4541
+*Epoch 21, model saved with Loss: 0.9429, Train F1: 0.5324, Val F1: 0.4899, Test F1: 0.5034
+*Epoch 22, model saved with Loss: 1.7385, Train F1: 0.5332, Val F1: 0.5123, Test F1: 0.4877
+*Epoch 23, model saved with Loss: 1.7340, Train F1: 0.5280, Val F1: 0.5123, Test F1: 0.5034
+*Epoch 25, model saved with Loss: 1.7260, Train F1: 0.5377, Val F1: 0.5190, Test F1: 0.5123
+*Epoch 26, model saved with Loss: 1.7205, Train F1: 0.5436, Val F1: 0.5324, Test F1: 0.4966
+*Epoch 27, model saved with Loss: 0.9197, Train F1: 0.5421, Val F1: 0.5347, Test F1: 0.5078
+*Epoch 30, model saved with Loss: 1.7122, Train F1: 0.5593, Val F1: 0.5347, Test F1: 0.5213
+*Epoch 32, model saved with Loss: 1.7075, Train F1: 0.5593, Val F1: 0.5436, Test F1: 0.5145
+*Epoch 59, model saved with Loss: 1.6519, Train F1: 0.5973, Val F1: 0.5481, Test F1: 0.5280
+*Epoch 62, model saved with Loss: 1.6441, Train F1: 0.6018, Val F1: 0.5481, Test F1: 0.5302
+*Epoch 63, model saved with Loss: 1.6381, Train F1: 0.6078, Val F1: 0.5548, Test F1: 0.5347
+*Epoch 72, model saved with Loss: 1.6203, Train F1: 0.6227, Val F1: 0.5593, Test F1: 0.5257
+*Epoch 78, model saved with Loss: 1.6020, Train F1: 0.6301, Val F1: 0.5638, Test F1: 0.5414
+*Epoch 81, model saved with Loss: 1.5977, Train F1: 0.6309, Val F1: 0.5749, Test F1: 0.5503
+*Epoch 82, model saved with Loss: 0.8507, Train F1: 0.6301, Val F1: 0.5817, Test F1: 0.5391
+*Epoch 94, model saved with Loss: 1.5602, Train F1: 0.6391, Val F1: 0.5817, Test F1: 0.5481
+Epoch 100, Loss: 1.5418, Train F1: 0.6503, Val F1: 0.5660, Test F1: 0.5436
+*Epoch 105, model saved with Loss: 1.5285, Train F1: 0.6592, Val F1: 0.5861, Test F1: 0.5459
+*Epoch 114, model saved with Loss: 1.5091, Train F1: 0.6704, Val F1: 0.5951, Test F1: 0.5839
+*Epoch 121, model saved with Loss: 1.5003, Train F1: 0.6868, Val F1: 0.5973, Test F1: 0.5548
+*Epoch 123, model saved with Loss: 1.4895, Train F1: 0.6816, Val F1: 0.6040, Test F1: 0.5593
+*Epoch 124, model saved with Loss: 1.4906, Train F1: 0.6838, Val F1: 0.6152, Test F1: 0.5928
+*Epoch 136, model saved with Loss: 1.4640, Train F1: 0.7062, Val F1: 0.6353, Test F1: 0.5951
+*Epoch 146, model saved with Loss: 1.4481, Train F1: 0.7069, Val F1: 0.6353, Test F1: 0.5951
+*Epoch 149, model saved with Loss: 1.4433, Train F1: 0.7092, Val F1: 0.6398, Test F1: 0.6040
+*Epoch 156, model saved with Loss: 1.4331, Train F1: 0.7256, Val F1: 0.6465, Test F1: 0.6085
+*Epoch 161, model saved with Loss: 1.4179, Train F1: 0.7353, Val F1: 0.6465, Test F1: 0.6040
+*Epoch 165, model saved with Loss: 1.4179, Train F1: 0.7204, Val F1: 0.6465, Test F1: 0.5884
+*Epoch 166, model saved with Loss: 1.4473, Train F1: 0.7509, Val F1: 0.6510, Test F1: 0.6353
+*Epoch 178, model saved with Loss: 1.4305, Train F1: 0.7509, Val F1: 0.6532, Test F1: 0.6219
+*Epoch 185, model saved with Loss: 1.4008, Train F1: 0.7554, Val F1: 0.6756, Test F1: 0.6107
+Epoch 200, Loss: 1.3736, Train F1: 0.7606, Val F1: 0.6555, Test F1: 0.5973
+*Epoch 217, model saved with Loss: 1.3510, Train F1: 0.7785, Val F1: 0.6801, Test F1: 0.6421
+*Epoch 229, model saved with Loss: 1.3369, Train F1: 0.7845, Val F1: 0.6868, Test F1: 0.6488
+*Epoch 238, model saved with Loss: 1.3296, Train F1: 0.7852, Val F1: 0.6868, Test F1: 0.6376
+Mean epoch time of run 0.0450
+Iteration:  250
+Best Test F1 throughout: 0.6510
+Loading best model for final evaluation at val: 0.6868
+Best Test F1 after loading saved model: 0.6376
+Run: 2
+*Epoch 0, model saved with Loss: 1.9045, Train F1: 0.4541, Val F1: 0.4519, Test F1: 0.4452
+Epoch 0, Loss: 1.9045, Train F1: 0.4541, Val F1: 0.4519, Test F1: 0.4452
+*Epoch 2, model saved with Loss: 1.0833, Train F1: 0.4668, Val F1: 0.4698, Test F1: 0.4497
+*Epoch 26, model saved with Loss: 0.9224, Train F1: 0.4847, Val F1: 0.4698, Test F1: 0.4564
+*Epoch 27, model saved with Loss: 0.9179, Train F1: 0.4989, Val F1: 0.4832, Test F1: 0.4720
+*Epoch 28, model saved with Loss: 0.9158, Train F1: 0.5190, Val F1: 0.4944, Test F1: 0.4787
+*Epoch 29, model saved with Loss: 1.7215, Train F1: 0.5548, Val F1: 0.5190, Test F1: 0.4989
+*Epoch 32, model saved with Loss: 1.7145, Train F1: 0.5705, Val F1: 0.5213, Test F1: 0.4922
+*Epoch 34, model saved with Loss: 0.9058, Train F1: 0.5608, Val F1: 0.5414, Test F1: 0.5213
+*Epoch 35, model saved with Loss: 0.9065, Train F1: 0.5735, Val F1: 0.5481, Test F1: 0.5369
+*Epoch 36, model saved with Loss: 1.7104, Train F1: 0.5742, Val F1: 0.5481, Test F1: 0.5280
+*Epoch 37, model saved with Loss: 0.9021, Train F1: 0.5817, Val F1: 0.5503, Test F1: 0.5145
+*Epoch 62, model saved with Loss: 0.8694, Train F1: 0.6010, Val F1: 0.5526, Test F1: 0.5347
+*Epoch 66, model saved with Loss: 0.8683, Train F1: 0.6115, Val F1: 0.5548, Test F1: 0.5436
+*Epoch 67, model saved with Loss: 0.8633, Train F1: 0.6197, Val F1: 0.5593, Test F1: 0.5280
+*Epoch 69, model saved with Loss: 1.6335, Train F1: 0.6167, Val F1: 0.5593, Test F1: 0.5302
+*Epoch 71, model saved with Loss: 1.6255, Train F1: 0.6286, Val F1: 0.5615, Test F1: 0.5347
+*Epoch 72, model saved with Loss: 0.8569, Train F1: 0.6264, Val F1: 0.5727, Test F1: 0.5347
+*Epoch 77, model saved with Loss: 0.8499, Train F1: 0.6294, Val F1: 0.5839, Test F1: 0.5324
+*Epoch 95, model saved with Loss: 1.5818, Train F1: 0.6585, Val F1: 0.5884, Test F1: 0.5526
+*Epoch 100, model saved with Loss: 1.5504, Train F1: 0.6622, Val F1: 0.5884, Test F1: 0.5570
+Epoch 100, Loss: 1.5504, Train F1: 0.6622, Val F1: 0.5884, Test F1: 0.5570
+*Epoch 102, model saved with Loss: 0.8144, Train F1: 0.6629, Val F1: 0.6063, Test F1: 0.5682
+*Epoch 107, model saved with Loss: 1.5330, Train F1: 0.6756, Val F1: 0.6063, Test F1: 0.5593
+*Epoch 119, model saved with Loss: 1.5011, Train F1: 0.6823, Val F1: 0.6063, Test F1: 0.5772
+*Epoch 124, model saved with Loss: 1.4943, Train F1: 0.6913, Val F1: 0.6063, Test F1: 0.5839
+*Epoch 128, model saved with Loss: 1.4821, Train F1: 0.6965, Val F1: 0.6174, Test F1: 0.5749
+*Epoch 137, model saved with Loss: 1.4682, Train F1: 0.7010, Val F1: 0.6219, Test F1: 0.5839
+*Epoch 138, model saved with Loss: 1.4518, Train F1: 0.7077, Val F1: 0.6309, Test F1: 0.5817
+*Epoch 142, model saved with Loss: 1.4411, Train F1: 0.7114, Val F1: 0.6353, Test F1: 0.5928
+*Epoch 143, model saved with Loss: 1.4518, Train F1: 0.7151, Val F1: 0.6443, Test F1: 0.5839
+*Epoch 147, model saved with Loss: 1.4392, Train F1: 0.7129, Val F1: 0.6510, Test F1: 0.6107
+*Epoch 167, model saved with Loss: 1.4090, Train F1: 0.7375, Val F1: 0.6711, Test F1: 0.6286
+Epoch 200, Loss: 1.3681, Train F1: 0.7681, Val F1: 0.6443, Test F1: 0.6286
+*Epoch 232, model saved with Loss: 1.3188, Train F1: 0.7793, Val F1: 0.6711, Test F1: 0.6398
+*Epoch 241, model saved with Loss: 1.3345, Train F1: 0.8001, Val F1: 0.6756, Test F1: 0.6443
+Mean epoch time of run 0.0442
+Iteration:  250
+Best Test F1 throughout: 0.6644
+Loading best model for final evaluation at val: 0.6756
+Best Test F1 after loading saved model: 0.6286
+Run: 3
+*Epoch 0, model saved with Loss: 1.8858, Train F1: 0.4541, Val F1: 0.4586, Test F1: 0.4609
+Epoch 0, Loss: 1.8858, Train F1: 0.4541, Val F1: 0.4586, Test F1: 0.4609
+*Epoch 6, model saved with Loss: 1.8433, Train F1: 0.4705, Val F1: 0.4609, Test F1: 0.4765
+*Epoch 7, model saved with Loss: 1.0180, Train F1: 0.4705, Val F1: 0.4631, Test F1: 0.4810
+*Epoch 8, model saved with Loss: 1.8191, Train F1: 0.4713, Val F1: 0.4653, Test F1: 0.4787
+*Epoch 9, model saved with Loss: 1.8062, Train F1: 0.4765, Val F1: 0.4653, Test F1: 0.4720
+*Epoch 10, model saved with Loss: 0.9855, Train F1: 0.4683, Val F1: 0.4676, Test F1: 0.4720
+*Epoch 11, model saved with Loss: 1.7829, Train F1: 0.4735, Val F1: 0.4698, Test F1: 0.4720
+*Epoch 12, model saved with Loss: 0.9707, Train F1: 0.4780, Val F1: 0.4765, Test F1: 0.4653
+*Epoch 14, model saved with Loss: 0.9535, Train F1: 0.4810, Val F1: 0.4765, Test F1: 0.4676
+*Epoch 15, model saved with Loss: 1.7494, Train F1: 0.4870, Val F1: 0.4810, Test F1: 0.4631
+*Epoch 16, model saved with Loss: 0.9405, Train F1: 0.4944, Val F1: 0.4989, Test F1: 0.4832
+*Epoch 17, model saved with Loss: 1.7380, Train F1: 0.5175, Val F1: 0.5123, Test F1: 0.4720
+*Epoch 18, model saved with Loss: 1.7341, Train F1: 0.5272, Val F1: 0.5145, Test F1: 0.4720
+*Epoch 19, model saved with Loss: 1.7263, Train F1: 0.5459, Val F1: 0.5168, Test F1: 0.4743
+*Epoch 20, model saved with Loss: 1.7219, Train F1: 0.5578, Val F1: 0.5257, Test F1: 0.5056
+*Epoch 21, model saved with Loss: 1.7182, Train F1: 0.5645, Val F1: 0.5324, Test F1: 0.5123
+*Epoch 23, model saved with Loss: 1.7117, Train F1: 0.5608, Val F1: 0.5414, Test F1: 0.5011
+*Epoch 24, model saved with Loss: 1.7103, Train F1: 0.5608, Val F1: 0.5436, Test F1: 0.4989
+*Epoch 36, model saved with Loss: 1.6920, Train F1: 0.5764, Val F1: 0.5436, Test F1: 0.5213
+*Epoch 37, model saved with Loss: 0.8952, Train F1: 0.5794, Val F1: 0.5459, Test F1: 0.5235
+*Epoch 41, model saved with Loss: 1.6786, Train F1: 0.5891, Val F1: 0.5481, Test F1: 0.5235
+*Epoch 43, model saved with Loss: 1.6708, Train F1: 0.5928, Val F1: 0.5481, Test F1: 0.5190
+*Epoch 47, model saved with Loss: 1.6594, Train F1: 0.5936, Val F1: 0.5481, Test F1: 0.5213
+*Epoch 50, model saved with Loss: 1.6480, Train F1: 0.6063, Val F1: 0.5526, Test F1: 0.5391
+*Epoch 53, model saved with Loss: 0.8720, Train F1: 0.6048, Val F1: 0.5526, Test F1: 0.5302
+*Epoch 54, model saved with Loss: 1.6357, Train F1: 0.6145, Val F1: 0.5593, Test F1: 0.5235
+*Epoch 56, model saved with Loss: 1.6337, Train F1: 0.6160, Val F1: 0.5682, Test F1: 0.5391
+*Epoch 67, model saved with Loss: 0.8512, Train F1: 0.6271, Val F1: 0.5682, Test F1: 0.5414
+*Epoch 71, model saved with Loss: 1.5827, Train F1: 0.6331, Val F1: 0.5839, Test F1: 0.5459
+*Epoch 77, model saved with Loss: 1.5692, Train F1: 0.6435, Val F1: 0.5839, Test F1: 0.5526
+*Epoch 83, model saved with Loss: 1.5600, Train F1: 0.6622, Val F1: 0.5884, Test F1: 0.5548
+*Epoch 87, model saved with Loss: 1.5447, Train F1: 0.6637, Val F1: 0.6063, Test F1: 0.5727
+Epoch 100, Loss: 1.5089, Train F1: 0.6734, Val F1: 0.5817, Test F1: 0.5638
+*Epoch 103, model saved with Loss: 1.4984, Train F1: 0.6823, Val F1: 0.6107, Test F1: 0.5682
+*Epoch 111, model saved with Loss: 1.4807, Train F1: 0.6965, Val F1: 0.6152, Test F1: 0.5817
+*Epoch 113, model saved with Loss: 1.4720, Train F1: 0.6928, Val F1: 0.6219, Test F1: 0.5794
+*Epoch 118, model saved with Loss: 1.4643, Train F1: 0.7047, Val F1: 0.6353, Test F1: 0.5906
+*Epoch 128, model saved with Loss: 1.4391, Train F1: 0.7196, Val F1: 0.6421, Test F1: 0.5928
+*Epoch 129, model saved with Loss: 1.4315, Train F1: 0.7099, Val F1: 0.6488, Test F1: 0.5884
+*Epoch 141, model saved with Loss: 1.4248, Train F1: 0.7323, Val F1: 0.6577, Test F1: 0.5951
+*Epoch 147, model saved with Loss: 1.3962, Train F1: 0.7308, Val F1: 0.6622, Test F1: 0.6219
+*Epoch 158, model saved with Loss: 1.4338, Train F1: 0.7457, Val F1: 0.6644, Test F1: 0.6219
+*Epoch 165, model saved with Loss: 1.4229, Train F1: 0.7487, Val F1: 0.6734, Test F1: 0.6264
+*Epoch 169, model saved with Loss: 1.4052, Train F1: 0.7457, Val F1: 0.6734, Test F1: 0.6264
+*Epoch 191, model saved with Loss: 1.3724, Train F1: 0.7636, Val F1: 0.6756, Test F1: 0.6421
+Epoch 200, Loss: 1.3538, Train F1: 0.7793, Val F1: 0.6465, Test F1: 0.6532
+*Epoch 248, model saved with Loss: 1.3050, Train F1: 0.7979, Val F1: 0.6801, Test F1: 0.6600
+Mean epoch time of run 0.0451
+Iteration:  250
+Best Test F1 throughout: 0.6711
+Loading best model for final evaluation at val: 0.6801
+Best Test F1 after loading saved model: 0.6443
+Run: 4
+*Epoch 0, model saved with Loss: 1.1015, Train F1: 0.4720, Val F1: 0.4340, Test F1: 0.4564
+Epoch 0, Loss: 1.1015, Train F1: 0.4720, Val F1: 0.4340, Test F1: 0.4564
+*Epoch 1, model saved with Loss: 1.8747, Train F1: 0.4616, Val F1: 0.4541, Test F1: 0.4810
+*Epoch 2, model saved with Loss: 1.8710, Train F1: 0.4661, Val F1: 0.4609, Test F1: 0.4810
+*Epoch 3, model saved with Loss: 1.8641, Train F1: 0.4631, Val F1: 0.4698, Test F1: 0.4810
+*Epoch 17, model saved with Loss: 1.7843, Train F1: 0.5123, Val F1: 0.4720, Test F1: 0.4586
+*Epoch 18, model saved with Loss: 0.9748, Train F1: 0.5272, Val F1: 0.4810, Test F1: 0.4653
+*Epoch 31, model saved with Loss: 0.9075, Train F1: 0.5242, Val F1: 0.5056, Test F1: 0.4676
+*Epoch 32, model saved with Loss: 1.6965, Train F1: 0.5474, Val F1: 0.5145, Test F1: 0.4832
+*Epoch 34, model saved with Loss: 1.6927, Train F1: 0.5802, Val F1: 0.5459, Test F1: 0.5056
+*Epoch 35, model saved with Loss: 1.6859, Train F1: 0.6048, Val F1: 0.5481, Test F1: 0.5257
+*Epoch 38, model saved with Loss: 1.6838, Train F1: 0.5966, Val F1: 0.5526, Test F1: 0.5593
+*Epoch 39, model saved with Loss: 1.6823, Train F1: 0.6025, Val F1: 0.5593, Test F1: 0.5414
+*Epoch 40, model saved with Loss: 1.6768, Train F1: 0.6174, Val F1: 0.5682, Test F1: 0.5481
+*Epoch 64, model saved with Loss: 1.6097, Train F1: 0.6286, Val F1: 0.5705, Test F1: 0.5235
+*Epoch 67, model saved with Loss: 0.8530, Train F1: 0.6212, Val F1: 0.5772, Test F1: 0.5347
+*Epoch 72, model saved with Loss: 1.5864, Train F1: 0.6301, Val F1: 0.5817, Test F1: 0.5436
+*Epoch 73, model saved with Loss: 1.5819, Train F1: 0.6353, Val F1: 0.5839, Test F1: 0.5414
+*Epoch 91, model saved with Loss: 1.5354, Train F1: 0.6607, Val F1: 0.5839, Test F1: 0.5593
+*Epoch 95, model saved with Loss: 1.5247, Train F1: 0.6756, Val F1: 0.5928, Test F1: 0.5682
+*Epoch 97, model saved with Loss: 1.5207, Train F1: 0.6749, Val F1: 0.5973, Test F1: 0.5548
+*Epoch 99, model saved with Loss: 1.5075, Train F1: 0.6853, Val F1: 0.5996, Test F1: 0.5839
+Epoch 100, Loss: 1.5072, Train F1: 0.6719, Val F1: 0.5839, Test F1: 0.5682
+*Epoch 102, model saved with Loss: 1.4988, Train F1: 0.6771, Val F1: 0.6063, Test F1: 0.5638
+*Epoch 111, model saved with Loss: 1.4731, Train F1: 0.6972, Val F1: 0.6130, Test F1: 0.5727
+*Epoch 112, model saved with Loss: 1.4788, Train F1: 0.6883, Val F1: 0.6152, Test F1: 0.5705
+*Epoch 113, model saved with Loss: 1.4690, Train F1: 0.6943, Val F1: 0.6242, Test F1: 0.5906
+*Epoch 121, model saved with Loss: 1.5762, Train F1: 0.7114, Val F1: 0.6286, Test F1: 0.6018
+*Epoch 127, model saved with Loss: 1.4791, Train F1: 0.7107, Val F1: 0.6286, Test F1: 0.5817
+*Epoch 131, model saved with Loss: 1.4718, Train F1: 0.6995, Val F1: 0.6331, Test F1: 0.5951
+*Epoch 132, model saved with Loss: 1.4598, Train F1: 0.7256, Val F1: 0.6421, Test F1: 0.6152
+*Epoch 137, model saved with Loss: 1.4479, Train F1: 0.7181, Val F1: 0.6421, Test F1: 0.5951
+*Epoch 144, model saved with Loss: 1.4278, Train F1: 0.7301, Val F1: 0.6510, Test F1: 0.6063
+*Epoch 148, model saved with Loss: 1.4186, Train F1: 0.7315, Val F1: 0.6622, Test F1: 0.6063
+*Epoch 167, model saved with Loss: 1.4062, Train F1: 0.7465, Val F1: 0.6622, Test F1: 0.6331
+*Epoch 176, model saved with Loss: 1.3936, Train F1: 0.7479, Val F1: 0.6667, Test F1: 0.6242
+*Epoch 184, model saved with Loss: 1.3690, Train F1: 0.7591, Val F1: 0.6689, Test F1: 0.6398
+*Epoch 187, model saved with Loss: 1.3671, Train F1: 0.7599, Val F1: 0.6689, Test F1: 0.6197
+*Epoch 188, model saved with Loss: 1.3873, Train F1: 0.7666, Val F1: 0.6711, Test F1: 0.6331
+*Epoch 192, model saved with Loss: 1.3890, Train F1: 0.7651, Val F1: 0.6734, Test F1: 0.6353
+*Epoch 196, model saved with Loss: 1.3594, Train F1: 0.7651, Val F1: 0.6890, Test F1: 0.6219
+Epoch 200, Loss: 1.3537, Train F1: 0.7703, Val F1: 0.6532, Test F1: 0.6286
+Mean epoch time of run 0.0455
+Iteration:  250
+Best Test F1 throughout: 0.6644
+Loading best model for final evaluation at val: 0.6890
+Best Test F1 after loading saved model: 0.6242
+---------------Stats-----------
+Mean training epoch runtime: 0.0452
+Mean Std of Best Test we could do F1 Score: 0.6644 +/- 0.0074
+Mean Std of Test at best Val F1 Score: 0.6425 +/- 0.0126
+Mean Std of Loaded best Val model Test F1 Score: 0.6367 +/- 0.0092
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+amherst41
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+*Epoch 0, model saved with Loss: 1.8670, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4430
+Epoch 0, Loss: 1.8670, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4430
+*Epoch 1, model saved with Loss: 1.8604, Train F1: 0.4594, Val F1: 0.4564, Test F1: 0.4385
+*Epoch 2, model saved with Loss: 1.0872, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 3, model saved with Loss: 1.0800, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 4, model saved with Loss: 1.0702, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 5, model saved with Loss: 1.0604, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 6, model saved with Loss: 1.0522, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 7, model saved with Loss: 1.0408, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 8, model saved with Loss: 1.0341, Train F1: 0.4564, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 9, model saved with Loss: 1.0254, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 10, model saved with Loss: 1.0143, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 11, model saved with Loss: 1.8199, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 12, model saved with Loss: 1.8096, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 13, model saved with Loss: 1.8028, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 14, model saved with Loss: 1.7921, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 15, model saved with Loss: 0.9740, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 16, model saved with Loss: 0.9668, Train F1: 0.4571, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 17, model saved with Loss: 0.9615, Train F1: 0.4579, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 18, model saved with Loss: 0.9530, Train F1: 0.4616, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 19, model saved with Loss: 1.7601, Train F1: 0.4631, Val F1: 0.4586, Test F1: 0.4430
+*Epoch 23, model saved with Loss: 0.9359, Train F1: 0.4974, Val F1: 0.4586, Test F1: 0.4676
+*Epoch 26, model saved with Loss: 1.7329, Train F1: 0.5041, Val F1: 0.4832, Test F1: 0.5078
+*Epoch 37, model saved with Loss: 0.9169, Train F1: 0.5556, Val F1: 0.4877, Test F1: 0.5235
+*Epoch 38, model saved with Loss: 1.7163, Train F1: 0.5638, Val F1: 0.5235, Test F1: 0.5503
+*Epoch 44, model saved with Loss: 1.7085, Train F1: 0.5608, Val F1: 0.5324, Test F1: 0.5034
+*Epoch 51, model saved with Loss: 1.6958, Train F1: 0.5615, Val F1: 0.5347, Test F1: 0.5101
+*Epoch 55, model saved with Loss: 1.6805, Train F1: 0.5712, Val F1: 0.5436, Test F1: 0.5101
+*Epoch 58, model saved with Loss: 1.6763, Train F1: 0.5787, Val F1: 0.5459, Test F1: 0.5235
+*Epoch 63, model saved with Loss: 1.6655, Train F1: 0.5906, Val F1: 0.5459, Test F1: 0.5145
+*Epoch 68, model saved with Loss: 1.6443, Train F1: 0.5861, Val F1: 0.5459, Test F1: 0.5123
+*Epoch 73, model saved with Loss: 1.6338, Train F1: 0.5921, Val F1: 0.5481, Test F1: 0.5324
+*Epoch 74, model saved with Loss: 1.6299, Train F1: 0.5951, Val F1: 0.5570, Test F1: 0.5369
+*Epoch 77, model saved with Loss: 1.6173, Train F1: 0.6048, Val F1: 0.5570, Test F1: 0.5324
+*Epoch 91, model saved with Loss: 1.5854, Train F1: 0.6085, Val F1: 0.5638, Test F1: 0.5324
+*Epoch 99, model saved with Loss: 1.5610, Train F1: 0.6115, Val F1: 0.5638, Test F1: 0.5459
+*Epoch 100, model saved with Loss: 1.5669, Train F1: 0.6145, Val F1: 0.5727, Test F1: 0.5481
+Epoch 100, Loss: 1.5669, Train F1: 0.6145, Val F1: 0.5727, Test F1: 0.5481
+*Epoch 102, model saved with Loss: 1.5612, Train F1: 0.6242, Val F1: 0.5861, Test F1: 0.5459
+*Epoch 143, model saved with Loss: 1.5004, Train F1: 0.6786, Val F1: 0.5861, Test F1: 0.5615
+*Epoch 144, model saved with Loss: 1.4932, Train F1: 0.6838, Val F1: 0.5906, Test F1: 0.5705
+*Epoch 148, model saved with Loss: 1.4774, Train F1: 0.6779, Val F1: 0.5906, Test F1: 0.5772
+*Epoch 149, model saved with Loss: 1.4920, Train F1: 0.6861, Val F1: 0.5973, Test F1: 0.5570
+*Epoch 152, model saved with Loss: 1.4844, Train F1: 0.6808, Val F1: 0.5973, Test F1: 0.5638
+*Epoch 155, model saved with Loss: 1.4834, Train F1: 0.6898, Val F1: 0.6018, Test F1: 0.5593
+*Epoch 168, model saved with Loss: 1.4759, Train F1: 0.6928, Val F1: 0.6242, Test F1: 0.5839
+*Epoch 184, model saved with Loss: 1.4682, Train F1: 0.7054, Val F1: 0.6353, Test F1: 0.6219
+Epoch 200, Loss: 1.4633, Train F1: 0.7107, Val F1: 0.5973, Test F1: 0.5839
+*Epoch 219, model saved with Loss: 1.4427, Train F1: 0.7099, Val F1: 0.6353, Test F1: 0.5906
+*Epoch 220, model saved with Loss: 1.4428, Train F1: 0.7211, Val F1: 0.6398, Test F1: 0.6040
+*Epoch 235, model saved with Loss: 1.4174, Train F1: 0.7293, Val F1: 0.6421, Test F1: 0.6107
+*Epoch 246, model saved with Loss: 1.4096, Train F1: 0.7211, Val F1: 0.6532, Test F1: 0.6331
+Mean epoch time of run 0.0450
+Iteration:  250
+Best Test F1 throughout: 0.6331
+Loading best model for final evaluation at val: 0.6532
+Best Test F1 after loading saved model: 0.5996
+Run: 1
+*Epoch 0, model saved with Loss: 1.0966, Train F1: 0.4549, Val F1: 0.4698, Test F1: 0.4474
+Epoch 0, Loss: 1.0966, Train F1: 0.4549, Val F1: 0.4698, Test F1: 0.4474
+*Epoch 11, model saved with Loss: 0.9640, Train F1: 0.5034, Val F1: 0.4810, Test F1: 0.4720
+*Epoch 14, model saved with Loss: 0.9427, Train F1: 0.5272, Val F1: 0.4966, Test F1: 0.5034
+*Epoch 15, model saved with Loss: 1.7464, Train F1: 0.5466, Val F1: 0.4966, Test F1: 0.4922
+*Epoch 17, model saved with Loss: 0.9296, Train F1: 0.5459, Val F1: 0.5235, Test F1: 0.5123
+*Epoch 19, model saved with Loss: 1.7274, Train F1: 0.5488, Val F1: 0.5257, Test F1: 0.5101
+*Epoch 20, model saved with Loss: 1.7269, Train F1: 0.5518, Val F1: 0.5280, Test F1: 0.4966
+*Epoch 21, model saved with Loss: 0.9258, Train F1: 0.5548, Val F1: 0.5369, Test F1: 0.5101
+*Epoch 22, model saved with Loss: 1.7255, Train F1: 0.5548, Val F1: 0.5414, Test F1: 0.5056
+*Epoch 45, model saved with Loss: 0.8829, Train F1: 0.5951, Val F1: 0.5436, Test F1: 0.4989
+*Epoch 52, model saved with Loss: 1.6574, Train F1: 0.5921, Val F1: 0.5503, Test F1: 0.5213
+*Epoch 54, model saved with Loss: 0.8657, Train F1: 0.6040, Val F1: 0.5503, Test F1: 0.5257
+*Epoch 59, model saved with Loss: 1.6448, Train F1: 0.5966, Val F1: 0.5593, Test F1: 0.5190
+*Epoch 62, model saved with Loss: 1.6232, Train F1: 0.5966, Val F1: 0.5638, Test F1: 0.5459
+*Epoch 65, model saved with Loss: 1.6194, Train F1: 0.6107, Val F1: 0.5638, Test F1: 0.5570
+*Epoch 69, model saved with Loss: 1.6050, Train F1: 0.6063, Val F1: 0.5705, Test F1: 0.5436
+*Epoch 77, model saved with Loss: 1.5670, Train F1: 0.6316, Val F1: 0.5794, Test F1: 0.5481
+*Epoch 80, model saved with Loss: 0.8479, Train F1: 0.6286, Val F1: 0.5794, Test F1: 0.5638
+*Epoch 85, model saved with Loss: 1.5689, Train F1: 0.6413, Val F1: 0.5906, Test F1: 0.5638
+*Epoch 95, model saved with Loss: 0.8353, Train F1: 0.6682, Val F1: 0.5973, Test F1: 0.5861
+*Epoch 100, model saved with Loss: 1.5483, Train F1: 0.6644, Val F1: 0.6063, Test F1: 0.5861
+Epoch 100, Loss: 1.5483, Train F1: 0.6644, Val F1: 0.6063, Test F1: 0.5861
+*Epoch 119, model saved with Loss: 1.5131, Train F1: 0.6801, Val F1: 0.6197, Test F1: 0.5996
+*Epoch 145, model saved with Loss: 1.4844, Train F1: 0.6950, Val F1: 0.6309, Test F1: 0.6040
+*Epoch 182, model saved with Loss: 1.4677, Train F1: 0.7181, Val F1: 0.6309, Test F1: 0.5951
+*Epoch 184, model saved with Loss: 1.4691, Train F1: 0.7025, Val F1: 0.6309, Test F1: 0.6197
+*Epoch 191, model saved with Loss: 1.4947, Train F1: 0.7084, Val F1: 0.6309, Test F1: 0.6398
+Epoch 200, Loss: 1.4774, Train F1: 0.7084, Val F1: 0.6040, Test F1: 0.6040
+*Epoch 217, model saved with Loss: 1.4475, Train F1: 0.7069, Val F1: 0.6331, Test F1: 0.5973
+*Epoch 219, model saved with Loss: 1.4466, Train F1: 0.7047, Val F1: 0.6331, Test F1: 0.5996
+*Epoch 229, model saved with Loss: 1.4603, Train F1: 0.7181, Val F1: 0.6331, Test F1: 0.6331
+Mean epoch time of run 0.0442
+Iteration:  250
+Best Test F1 throughout: 0.6398
+Loading best model for final evaluation at val: 0.6331
+Best Test F1 after loading saved model: 0.6107
+Run: 2
+*Epoch 0, model saved with Loss: 1.1073, Train F1: 0.4631, Val F1: 0.4497, Test F1: 0.4609
+Epoch 0, Loss: 1.1073, Train F1: 0.4631, Val F1: 0.4497, Test F1: 0.4609
+*Epoch 1, model saved with Loss: 1.8753, Train F1: 0.4586, Val F1: 0.4519, Test F1: 0.4698
+*Epoch 6, model saved with Loss: 1.0281, Train F1: 0.4691, Val F1: 0.4519, Test F1: 0.4676
+*Epoch 8, model saved with Loss: 1.0061, Train F1: 0.4750, Val F1: 0.4631, Test F1: 0.4541
+*Epoch 15, model saved with Loss: 0.9416, Train F1: 0.5026, Val F1: 0.4631, Test F1: 0.4787
+*Epoch 16, model saved with Loss: 1.7487, Train F1: 0.5078, Val F1: 0.4631, Test F1: 0.4765
+*Epoch 19, model saved with Loss: 0.9309, Train F1: 0.5130, Val F1: 0.4698, Test F1: 0.4899
+*Epoch 20, model saved with Loss: 0.9290, Train F1: 0.5242, Val F1: 0.4855, Test F1: 0.5168
+*Epoch 22, model saved with Loss: 0.9243, Train F1: 0.5295, Val F1: 0.4944, Test F1: 0.4966
+*Epoch 24, model saved with Loss: 1.7247, Train F1: 0.5391, Val F1: 0.4966, Test F1: 0.5056
+*Epoch 25, model saved with Loss: 1.7254, Train F1: 0.5459, Val F1: 0.5034, Test F1: 0.5101
+*Epoch 30, model saved with Loss: 0.9230, Train F1: 0.5585, Val F1: 0.5056, Test F1: 0.5034
+*Epoch 33, model saved with Loss: 1.7084, Train F1: 0.5570, Val F1: 0.5056, Test F1: 0.5168
+*Epoch 34, model saved with Loss: 1.7092, Train F1: 0.5481, Val F1: 0.5213, Test F1: 0.5257
+*Epoch 36, model saved with Loss: 0.9066, Train F1: 0.5585, Val F1: 0.5235, Test F1: 0.5034
+*Epoch 47, model saved with Loss: 1.6816, Train F1: 0.5570, Val F1: 0.5369, Test F1: 0.5145
+*Epoch 60, model saved with Loss: 1.6537, Train F1: 0.5772, Val F1: 0.5369, Test F1: 0.5235
+*Epoch 64, model saved with Loss: 0.8697, Train F1: 0.5928, Val F1: 0.5459, Test F1: 0.5168
+*Epoch 67, model saved with Loss: 1.6330, Train F1: 0.5913, Val F1: 0.5459, Test F1: 0.5078
+*Epoch 68, model saved with Loss: 1.6337, Train F1: 0.5891, Val F1: 0.5459, Test F1: 0.5213
+*Epoch 72, model saved with Loss: 1.6165, Train F1: 0.5996, Val F1: 0.5481, Test F1: 0.5280
+*Epoch 73, model saved with Loss: 1.6119, Train F1: 0.6040, Val F1: 0.5593, Test F1: 0.5459
+*Epoch 77, model saved with Loss: 1.6018, Train F1: 0.6040, Val F1: 0.5593, Test F1: 0.5414
+*Epoch 78, model saved with Loss: 1.6012, Train F1: 0.6025, Val F1: 0.5593, Test F1: 0.5280
+*Epoch 81, model saved with Loss: 1.5870, Train F1: 0.6040, Val F1: 0.5615, Test F1: 0.5347
+*Epoch 83, model saved with Loss: 1.5970, Train F1: 0.6174, Val F1: 0.5638, Test F1: 0.5391
+*Epoch 87, model saved with Loss: 1.5793, Train F1: 0.6249, Val F1: 0.5638, Test F1: 0.5302
+*Epoch 88, model saved with Loss: 1.5755, Train F1: 0.6249, Val F1: 0.5727, Test F1: 0.5459
+*Epoch 90, model saved with Loss: 1.5632, Train F1: 0.6286, Val F1: 0.5772, Test F1: 0.5727
+*Epoch 93, model saved with Loss: 1.5693, Train F1: 0.6525, Val F1: 0.5794, Test F1: 0.5749
+*Epoch 95, model saved with Loss: 1.5567, Train F1: 0.6473, Val F1: 0.5817, Test F1: 0.5906
+*Epoch 96, model saved with Loss: 1.5515, Train F1: 0.6503, Val F1: 0.5861, Test F1: 0.5839
+*Epoch 97, model saved with Loss: 1.5591, Train F1: 0.6465, Val F1: 0.5906, Test F1: 0.5682
+Epoch 100, Loss: 1.5579, Train F1: 0.6555, Val F1: 0.5839, Test F1: 0.5973
+*Epoch 103, model saved with Loss: 0.8375, Train F1: 0.6540, Val F1: 0.5951, Test F1: 0.6018
+*Epoch 108, model saved with Loss: 1.5149, Train F1: 0.6771, Val F1: 0.6063, Test F1: 0.6018
+*Epoch 111, model saved with Loss: 1.5291, Train F1: 0.6875, Val F1: 0.6174, Test F1: 0.5996
+*Epoch 130, model saved with Loss: 1.5042, Train F1: 0.6957, Val F1: 0.6219, Test F1: 0.6174
+*Epoch 132, model saved with Loss: 1.4946, Train F1: 0.7032, Val F1: 0.6242, Test F1: 0.6219
+*Epoch 138, model saved with Loss: 1.4914, Train F1: 0.7144, Val F1: 0.6309, Test F1: 0.6286
+*Epoch 150, model saved with Loss: 1.4898, Train F1: 0.7189, Val F1: 0.6309, Test F1: 0.6376
+*Epoch 162, model saved with Loss: 1.4592, Train F1: 0.7375, Val F1: 0.6331, Test F1: 0.6465
+Epoch 200, Loss: 1.4379, Train F1: 0.7494, Val F1: 0.6130, Test F1: 0.6488
+*Epoch 207, model saved with Loss: 1.4454, Train F1: 0.7629, Val F1: 0.6421, Test F1: 0.6331
+*Epoch 227, model saved with Loss: 0.7392, Train F1: 0.7733, Val F1: 0.6465, Test F1: 0.6398
+*Epoch 233, model saved with Loss: 1.3885, Train F1: 0.7823, Val F1: 0.6488, Test F1: 0.6600
+*Epoch 235, model saved with Loss: 1.3859, Train F1: 0.7852, Val F1: 0.6488, Test F1: 0.6465
+Mean epoch time of run 0.0449
+Iteration:  250
+Best Test F1 throughout: 0.6689
+Loading best model for final evaluation at val: 0.6488
+Best Test F1 after loading saved model: 0.6421
+Run: 3
+*Epoch 0, model saved with Loss: 1.8717, Train F1: 0.4549, Val F1: 0.4430, Test F1: 0.4631
+Epoch 0, Loss: 1.8717, Train F1: 0.4549, Val F1: 0.4430, Test F1: 0.4631
+*Epoch 1, model saved with Loss: 1.0950, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 2, model saved with Loss: 1.0873, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 3, model saved with Loss: 1.0776, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 4, model saved with Loss: 1.8821, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 5, model saved with Loss: 1.8711, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 6, model saved with Loss: 1.0457, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 7, model saved with Loss: 1.0316, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 8, model saved with Loss: 1.0222, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 9, model saved with Loss: 1.0112, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 10, model saved with Loss: 1.8157, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 11, model saved with Loss: 1.8056, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 12, model saved with Loss: 0.9853, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 13, model saved with Loss: 0.9741, Train F1: 0.4571, Val F1: 0.4452, Test F1: 0.4609
+*Epoch 14, model saved with Loss: 0.9673, Train F1: 0.4571, Val F1: 0.4474, Test F1: 0.4653
+*Epoch 16, model saved with Loss: 0.9523, Train F1: 0.4616, Val F1: 0.4497, Test F1: 0.4698
+*Epoch 19, model saved with Loss: 1.7519, Train F1: 0.4832, Val F1: 0.4944, Test F1: 0.4765
+*Epoch 20, model saved with Loss: 1.7486, Train F1: 0.5011, Val F1: 0.5078, Test F1: 0.4899
+*Epoch 21, model saved with Loss: 0.9317, Train F1: 0.5108, Val F1: 0.5123, Test F1: 0.4966
+*Epoch 22, model saved with Loss: 1.7431, Train F1: 0.5026, Val F1: 0.5190, Test F1: 0.4855
+*Epoch 23, model saved with Loss: 1.7310, Train F1: 0.5309, Val F1: 0.5257, Test F1: 0.4899
+*Epoch 31, model saved with Loss: 1.7198, Train F1: 0.5399, Val F1: 0.5302, Test F1: 0.4855
+*Epoch 33, model saved with Loss: 0.9111, Train F1: 0.5533, Val F1: 0.5481, Test F1: 0.5145
+*Epoch 54, model saved with Loss: 1.6839, Train F1: 0.5831, Val F1: 0.5503, Test F1: 0.5168
+*Epoch 56, model saved with Loss: 1.6750, Train F1: 0.5809, Val F1: 0.5503, Test F1: 0.5145
+*Epoch 75, model saved with Loss: 1.6266, Train F1: 0.5928, Val F1: 0.5503, Test F1: 0.5324
+*Epoch 80, model saved with Loss: 0.8640, Train F1: 0.5921, Val F1: 0.5570, Test F1: 0.5414
+*Epoch 81, model saved with Loss: 1.6126, Train F1: 0.5928, Val F1: 0.5593, Test F1: 0.5324
+*Epoch 89, model saved with Loss: 1.5834, Train F1: 0.5966, Val F1: 0.5682, Test F1: 0.5481
+Epoch 100, Loss: 1.5518, Train F1: 0.6197, Val F1: 0.5570, Test F1: 0.5436
+*Epoch 101, model saved with Loss: 0.8393, Train F1: 0.6428, Val F1: 0.5727, Test F1: 0.5280
+*Epoch 107, model saved with Loss: 1.5568, Train F1: 0.6577, Val F1: 0.5772, Test F1: 0.5593
+*Epoch 112, model saved with Loss: 0.8022, Train F1: 0.6532, Val F1: 0.5973, Test F1: 0.5414
+*Epoch 123, model saved with Loss: 1.5042, Train F1: 0.6771, Val F1: 0.5973, Test F1: 0.5615
+*Epoch 126, model saved with Loss: 1.4885, Train F1: 0.7107, Val F1: 0.6063, Test F1: 0.6063
+*Epoch 131, model saved with Loss: 1.4848, Train F1: 0.7107, Val F1: 0.6085, Test F1: 0.6063
+*Epoch 132, model saved with Loss: 1.4952, Train F1: 0.7226, Val F1: 0.6174, Test F1: 0.6085
+*Epoch 133, model saved with Loss: 1.4763, Train F1: 0.7204, Val F1: 0.6242, Test F1: 0.5906
+*Epoch 138, model saved with Loss: 0.7662, Train F1: 0.7301, Val F1: 0.6264, Test F1: 0.6197
+*Epoch 140, model saved with Loss: 1.4694, Train F1: 0.7360, Val F1: 0.6532, Test F1: 0.6085
+*Epoch 165, model saved with Loss: 1.4277, Train F1: 0.7837, Val F1: 0.6622, Test F1: 0.6376
+*Epoch 177, model saved with Loss: 1.4023, Train F1: 0.8039, Val F1: 0.6644, Test F1: 0.6353
+Epoch 200, Loss: 1.3715, Train F1: 0.8188, Val F1: 0.6510, Test F1: 0.6443
+*Epoch 206, model saved with Loss: 1.3806, Train F1: 0.8300, Val F1: 0.6644, Test F1: 0.6622
+Mean epoch time of run 0.0444
+Iteration:  250
+Best Test F1 throughout: 0.6734
+Loading best model for final evaluation at val: 0.6644
+Best Test F1 after loading saved model: 0.6532
+Run: 4
+*Epoch 0, model saved with Loss: 1.9013, Train F1: 0.4243, Val F1: 0.4072, Test F1: 0.4340
+Epoch 0, Loss: 1.9013, Train F1: 0.4243, Val F1: 0.4072, Test F1: 0.4340
+*Epoch 1, model saved with Loss: 1.8952, Train F1: 0.4534, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 2, model saved with Loss: 1.0859, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4609
+*Epoch 3, model saved with Loss: 1.0765, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4609
+*Epoch 4, model saved with Loss: 1.8781, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 5, model saved with Loss: 1.8721, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 6, model saved with Loss: 1.8683, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 7, model saved with Loss: 1.0500, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 8, model saved with Loss: 1.8508, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 9, model saved with Loss: 1.8449, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 10, model saved with Loss: 1.0294, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 11, model saved with Loss: 1.8323, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 12, model saved with Loss: 1.0107, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 13, model saved with Loss: 1.0062, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 14, model saved with Loss: 1.0046, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 15, model saved with Loss: 1.8063, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 16, model saved with Loss: 1.7987, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 17, model saved with Loss: 1.7912, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 18, model saved with Loss: 1.7833, Train F1: 0.4556, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 19, model saved with Loss: 1.7774, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 20, model saved with Loss: 0.9659, Train F1: 0.4564, Val F1: 0.4452, Test F1: 0.4631
+*Epoch 21, model saved with Loss: 0.9661, Train F1: 0.4564, Val F1: 0.4474, Test F1: 0.4631
+*Epoch 28, model saved with Loss: 0.9374, Train F1: 0.4795, Val F1: 0.4519, Test F1: 0.4609
+*Epoch 29, model saved with Loss: 1.7357, Train F1: 0.4847, Val F1: 0.4519, Test F1: 0.4765
+*Epoch 30, model saved with Loss: 0.9344, Train F1: 0.5101, Val F1: 0.4564, Test F1: 0.4877
+*Epoch 31, model saved with Loss: 1.7290, Train F1: 0.5444, Val F1: 0.5436, Test F1: 0.4899
+*Epoch 73, model saved with Loss: 1.6492, Train F1: 0.5705, Val F1: 0.5436, Test F1: 0.5145
+*Epoch 81, model saved with Loss: 1.6327, Train F1: 0.5720, Val F1: 0.5459, Test F1: 0.5101
+*Epoch 85, model saved with Loss: 1.6158, Train F1: 0.5846, Val F1: 0.5459, Test F1: 0.5213
+*Epoch 86, model saved with Loss: 1.6237, Train F1: 0.5921, Val F1: 0.5526, Test F1: 0.5324
+*Epoch 93, model saved with Loss: 1.5959, Train F1: 0.5913, Val F1: 0.5548, Test F1: 0.5190
+*Epoch 100, model saved with Loss: 0.8554, Train F1: 0.5981, Val F1: 0.5660, Test F1: 0.5324
+Epoch 100, Loss: 0.8554, Train F1: 0.5981, Val F1: 0.5660, Test F1: 0.5324
+*Epoch 106, model saved with Loss: 1.5720, Train F1: 0.6092, Val F1: 0.5705, Test F1: 0.5145
+*Epoch 119, model saved with Loss: 1.5590, Train F1: 0.6234, Val F1: 0.5705, Test F1: 0.5459
+*Epoch 120, model saved with Loss: 1.5699, Train F1: 0.6249, Val F1: 0.5794, Test F1: 0.5526
+*Epoch 128, model saved with Loss: 1.5592, Train F1: 0.6406, Val F1: 0.5817, Test F1: 0.5682
+*Epoch 129, model saved with Loss: 1.5447, Train F1: 0.6458, Val F1: 0.5839, Test F1: 0.5749
+*Epoch 132, model saved with Loss: 1.5389, Train F1: 0.6368, Val F1: 0.5861, Test F1: 0.5615
+*Epoch 134, model saved with Loss: 0.8453, Train F1: 0.6480, Val F1: 0.5861, Test F1: 0.5794
+*Epoch 136, model saved with Loss: 1.5322, Train F1: 0.6525, Val F1: 0.6018, Test F1: 0.5436
+*Epoch 144, model saved with Loss: 1.5281, Train F1: 0.6600, Val F1: 0.6018, Test F1: 0.5749
+*Epoch 150, model saved with Loss: 0.8243, Train F1: 0.6547, Val F1: 0.6040, Test F1: 0.5996
+*Epoch 161, model saved with Loss: 0.8137, Train F1: 0.6801, Val F1: 0.6085, Test F1: 0.5884
+*Epoch 187, model saved with Loss: 1.4965, Train F1: 0.6980, Val F1: 0.6152, Test F1: 0.6063
+*Epoch 193, model saved with Loss: 1.4964, Train F1: 0.6965, Val F1: 0.6152, Test F1: 0.6063
+*Epoch 197, model saved with Loss: 1.4805, Train F1: 0.6920, Val F1: 0.6219, Test F1: 0.5884
+Epoch 200, Loss: 1.4919, Train F1: 0.7017, Val F1: 0.6107, Test F1: 0.5973
+*Epoch 215, model saved with Loss: 1.4804, Train F1: 0.6943, Val F1: 0.6286, Test F1: 0.5839
+*Epoch 249, model saved with Loss: 1.4728, Train F1: 0.7204, Val F1: 0.6488, Test F1: 0.6242
+Mean epoch time of run 0.0439
+Iteration:  250
+Best Test F1 throughout: 0.6353
+Loading best model for final evaluation at val: 0.6488
+Best Test F1 after loading saved model: 0.6085
+---------------Stats-----------
+Mean training epoch runtime: 0.0445
+Mean Std of Best Test we could do F1 Score: 0.6501 +/- 0.0174
+Mean Std of Test at best Val F1 Score: 0.6398 +/- 0.0133
+Mean Std of Loaded best Val model Test F1 Score: 0.6228 +/- 0.0209
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+-------------------------------
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0121
+Iteration:  500
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation at val: 0.7797
+Best Test F1 after loading saved model: 0.7568
+Run: 1
+Mean epoch time of run 0.0118
+Iteration:  500
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.7458
+Best Test F1 after loading saved model: 0.6757
+Run: 2
+Mean epoch time of run 0.0116
+Iteration:  500
+Best Test F1 throughout: 0.8108
+Loading best model for final evaluation at val: 0.7627
+Best Test F1 after loading saved model: 0.7838
+Run: 3
+Mean epoch time of run 0.0121
+Iteration:  500
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.7458
+Best Test F1 after loading saved model: 0.7027
+Run: 4
+Mean epoch time of run 0.0126
+Iteration:  500
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation at val: 0.7797
+Best Test F1 after loading saved model: 0.7027
+---------------Stats-----------
+Mean training epoch runtime: 0.0120
+Mean Std of Best Test we could do F1 Score: 0.7676 +/- 0.0324
+Mean Std of Test at best Val F1 Score: 0.7243 +/- 0.0397
+Mean Std of Loaded best Val model Test F1 Score: 0.7243 +/- 0.0397
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0106
+Iteration:  500
+Best Test F1 throughout: 0.5405
+Loading best model for final evaluation at val: 0.5932
+Best Test F1 after loading saved model: 0.4324
+Run: 1
+Mean epoch time of run 0.0103
+Iteration:  500
+Best Test F1 throughout: 0.5135
+Loading best model for final evaluation at val: 0.5763
+Best Test F1 after loading saved model: 0.2973
+Run: 2
+Mean epoch time of run 0.0101
+Iteration:  500
+Best Test F1 throughout: 0.5135
+Loading best model for final evaluation at val: 0.5932
+Best Test F1 after loading saved model: 0.4595
+Run: 3
+Mean epoch time of run 0.0097
+Iteration:  500
+Best Test F1 throughout: 0.5676
+Loading best model for final evaluation at val: 0.5932
+Best Test F1 after loading saved model: 0.5405
+Run: 4
+Mean epoch time of run 0.0099
+Iteration:  500
+Best Test F1 throughout: 0.5676
+Loading best model for final evaluation at val: 0.5424
+Best Test F1 after loading saved model: 0.4324
+---------------Stats-----------
+Mean training epoch runtime: 0.0101
+Mean Std of Best Test we could do F1 Score: 0.5405 +/- 0.0242
+Mean Std of Test at best Val F1 Score: 0.4270 +/- 0.0524
+Mean Std of Loaded best Val model Test F1 Score: 0.4324 +/- 0.0783
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Texas
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0122
+Iteration:  500
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.6757
+Run: 1
+Mean epoch time of run 0.0116
+Iteration:  500
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation at val: 0.6780
+Best Test F1 after loading saved model: 0.6486
+Run: 2
+Mean epoch time of run 0.0115
+Iteration:  500
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.6441
+Best Test F1 after loading saved model: 0.5946
+Run: 3
+Mean epoch time of run 0.0117
+Iteration:  500
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation at val: 0.6441
+Best Test F1 after loading saved model: 0.7027
+Run: 4
+Mean epoch time of run 0.0119
+Iteration:  500
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation at val: 0.6780
+Best Test F1 after loading saved model: 0.6486
+---------------Stats-----------
+Mean training epoch runtime: 0.0118
+Mean Std of Best Test we could do F1 Score: 0.7135 +/- 0.0276
+Mean Std of Test at best Val F1 Score: 0.6432 +/- 0.0432
+Mean Std of Loaded best Val model Test F1 Score: 0.6541 +/- 0.0359
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Texas
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0111
+Iteration:  500
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation at val: 0.6949
+Best Test F1 after loading saved model: 0.6486
+Run: 1
+Mean epoch time of run 0.0105
+Iteration:  500
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.6486
+Run: 2
+Mean epoch time of run 0.0106
+Iteration:  500
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6610
+Best Test F1 after loading saved model: 0.5676
+Run: 3
+Mean epoch time of run 0.0101
+Iteration:  500
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6441
+Best Test F1 after loading saved model: 0.6216
+Run: 4
+Mean epoch time of run 0.0101
+Iteration:  500
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation at val: 0.6441
+Best Test F1 after loading saved model: 0.5946
+---------------Stats-----------
+Mean training epoch runtime: 0.0105
+Mean Std of Best Test we could do F1 Score: 0.6919 +/- 0.0216
+Mean Std of Test at best Val F1 Score: 0.6000 +/- 0.0524
+Mean Std of Loaded best Val model Test F1 Score: 0.6162 +/- 0.0315
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Wisconsin
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0123
+Iteration:  500
+Best Test F1 throughout: 0.8235
+Loading best model for final evaluation at val: 0.8125
+Best Test F1 after loading saved model: 0.7843
+Run: 1
+Mean epoch time of run 0.0122
+Iteration:  500
+Best Test F1 throughout: 0.7647
+Loading best model for final evaluation at val: 0.8125
+Best Test F1 after loading saved model: 0.6863
+Run: 2
+Mean epoch time of run 0.0114
+Iteration:  500
+Best Test F1 throughout: 0.8039
+Loading best model for final evaluation at val: 0.8250
+Best Test F1 after loading saved model: 0.6863
+Run: 3
+Mean epoch time of run 0.0118
+Iteration:  500
+Best Test F1 throughout: 0.8235
+Loading best model for final evaluation at val: 0.7875
+Best Test F1 after loading saved model: 0.7059
+Run: 4
+Mean epoch time of run 0.0116
+Iteration:  500
+Best Test F1 throughout: 0.8039
+Loading best model for final evaluation at val: 0.8000
+Best Test F1 after loading saved model: 0.6667
+---------------Stats-----------
+Mean training epoch runtime: 0.0119
+Mean Std of Best Test we could do F1 Score: 0.8039 +/- 0.0215
+Mean Std of Test at best Val F1 Score: 0.7137 +/- 0.0404
+Mean Std of Loaded best Val model Test F1 Score: 0.7059 +/- 0.0411
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Wisconsin
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0103
+Iteration:  500
+Best Test F1 throughout: 0.6863
+Loading best model for final evaluation at val: 0.7000
+Best Test F1 after loading saved model: 0.5686
+Run: 1
+Mean epoch time of run 0.0100
+Iteration:  500
+Best Test F1 throughout: 0.6471
+Loading best model for final evaluation at val: 0.7125
+Best Test F1 after loading saved model: 0.5686
+Run: 2
+Mean epoch time of run 0.0099
+Iteration:  500
+Best Test F1 throughout: 0.6667
+Loading best model for final evaluation at val: 0.6875
+Best Test F1 after loading saved model: 0.5882
+Run: 3
+Mean epoch time of run 0.0100
+Iteration:  500
+Best Test F1 throughout: 0.6471
+Loading best model for final evaluation at val: 0.6625
+Best Test F1 after loading saved model: 0.6078
+Run: 4
+Mean epoch time of run 0.0100
+Iteration:  500
+Best Test F1 throughout: 0.6667
+Loading best model for final evaluation at val: 0.7125
+Best Test F1 after loading saved model: 0.6078
+---------------Stats-----------
+Mean training epoch runtime: 0.0100
+Mean Std of Best Test we could do F1 Score: 0.6627 +/- 0.0147
+Mean Std of Test at best Val F1 Score: 0.6039 +/- 0.0147
+Mean Std of Loaded best Val model Test F1 Score: 0.5882 +/- 0.0175
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+reed98
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0188
+Iteration:  500
+Best Test F1 throughout: 0.6632
+Loading best model for final evaluation at val: 0.6667
+Best Test F1 after loading saved model: 0.6010
+Run: 1
+Mean epoch time of run 0.0180
+Iteration:  500
+Best Test F1 throughout: 0.6684
+Loading best model for final evaluation at val: 0.6406
+Best Test F1 after loading saved model: 0.6166
+Run: 2
+Mean epoch time of run 0.0181
+Iteration:  500
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation at val: 0.6510
+Best Test F1 after loading saved model: 0.5959
+Run: 3
+Mean epoch time of run 0.0183
+Iteration:  500
+Best Test F1 throughout: 0.6632
+Loading best model for final evaluation at val: 0.6771
+Best Test F1 after loading saved model: 0.6010
+Run: 4
+Mean epoch time of run 0.0184
+Iteration:  500
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation at val: 0.6562
+Best Test F1 after loading saved model: 0.5907
+---------------Stats-----------
+Mean training epoch runtime: 0.0183
+Mean Std of Best Test we could do F1 Score: 0.6601 +/- 0.0062
+Mean Std of Test at best Val F1 Score: 0.6031 +/- 0.0078
+Mean Std of Loaded best Val model Test F1 Score: 0.6010 +/- 0.0087
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+reed98
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0175
+Iteration:  500
+Best Test F1 throughout: 0.6632
+Loading best model for final evaluation at val: 0.6615
+Best Test F1 after loading saved model: 0.6321
+Run: 1
+Mean epoch time of run 0.0169
+Iteration:  500
+Best Test F1 throughout: 0.6477
+Loading best model for final evaluation at val: 0.6615
+Best Test F1 after loading saved model: 0.6477
+Run: 2
+Mean epoch time of run 0.0178
+Iteration:  500
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation at val: 0.6562
+Best Test F1 after loading saved model: 0.6010
+Run: 3
+Mean epoch time of run 0.0161
+Iteration:  500
+Best Test F1 throughout: 0.6425
+Loading best model for final evaluation at val: 0.6719
+Best Test F1 after loading saved model: 0.6166
+Run: 4
+Mean epoch time of run 0.0173
+Iteration:  500
+Best Test F1 throughout: 0.6580
+Loading best model for final evaluation at val: 0.6615
+Best Test F1 after loading saved model: 0.6114
+---------------Stats-----------
+Mean training epoch runtime: 0.0171
+Mean Std of Best Test we could do F1 Score: 0.6528 +/- 0.0073
+Mean Std of Test at best Val F1 Score: 0.6238 +/- 0.0084
+Mean Std of Loaded best Val model Test F1 Score: 0.6218 +/- 0.0164
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+amherst41
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0470
+Iteration:  500
+Best Test F1 throughout: 0.7673
+Loading best model for final evaluation at val: 0.7740
+Best Test F1 after loading saved model: 0.7517
+Run: 1
+Mean epoch time of run 0.0468
+Iteration:  500
+Best Test F1 throughout: 0.7696
+Loading best model for final evaluation at val: 0.7606
+Best Test F1 after loading saved model: 0.7539
+Run: 2
+Mean epoch time of run 0.0469
+Iteration:  500
+Best Test F1 throughout: 0.7696
+Loading best model for final evaluation at val: 0.7673
+Best Test F1 after loading saved model: 0.7450
+Run: 3
+Mean epoch time of run 0.0467
+Iteration:  500
+Best Test F1 throughout: 0.7651
+Loading best model for final evaluation at val: 0.7629
+Best Test F1 after loading saved model: 0.7472
+Run: 4
+Mean epoch time of run 0.0470
+Iteration:  500
+Best Test F1 throughout: 0.7629
+Loading best model for final evaluation at val: 0.7718
+Best Test F1 after loading saved model: 0.7494
+---------------Stats-----------
+Mean training epoch runtime: 0.0469
+Mean Std of Best Test we could do F1 Score: 0.7669 +/- 0.0026
+Mean Std of Test at best Val F1 Score: 0.7512 +/- 0.0038
+Mean Std of Loaded best Val model Test F1 Score: 0.7494 +/- 0.0032
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+amherst41
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0458
+Iteration:  500
+Best Test F1 throughout: 0.6756
+Loading best model for final evaluation at val: 0.6667
+Best Test F1 after loading saved model: 0.6443
+Run: 1
+Mean epoch time of run 0.0460
+Iteration:  500
+Best Test F1 throughout: 0.6689
+Loading best model for final evaluation at val: 0.6622
+Best Test F1 after loading saved model: 0.6130
+Run: 2
+Mean epoch time of run 0.0447
+Iteration:  500
+Best Test F1 throughout: 0.7092
+Loading best model for final evaluation at val: 0.7025
+Best Test F1 after loading saved model: 0.6890
+Run: 3
+Mean epoch time of run 0.0463
+Iteration:  500
+Best Test F1 throughout: 0.6734
+Loading best model for final evaluation at val: 0.6734
+Best Test F1 after loading saved model: 0.6600
+Run: 4
+Mean epoch time of run 0.0435
+Iteration:  500
+Best Test F1 throughout: 0.6465
+Loading best model for final evaluation at val: 0.6711
+Best Test F1 after loading saved model: 0.6174
+---------------Stats-----------
+Mean training epoch runtime: 0.0453
+Mean Std of Best Test we could do F1 Score: 0.6747 +/- 0.0201
+Mean Std of Test at best Val F1 Score: 0.6488 +/- 0.0381
+Mean Std of Loaded best Val model Test F1 Score: 0.6447 +/- 0.0281
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------

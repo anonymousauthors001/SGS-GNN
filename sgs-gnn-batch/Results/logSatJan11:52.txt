@@ -1,0 +1,3250 @@
+test
+learned
+CiteSeer
+0.1
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8546
+Loading best model for final evaluation...: 0.8475
+Best Test F1 after loading saved model: 0.8475
+Run: 1
+Best Test F1 throughout: 0.8511
+Loading best model for final evaluation...: 0.8499
+Best Test F1 after loading saved model: 0.8446
+Run: 2
+Best Test F1 throughout: 0.8517
+Loading best model for final evaluation...: 0.8457
+Best Test F1 after loading saved model: 0.8369
+Run: 3
+Best Test F1 throughout: 0.8517
+Loading best model for final evaluation...: 0.8434
+Best Test F1 after loading saved model: 0.8381
+Run: 4
+Best Test F1 throughout: 0.8493
+Loading best model for final evaluation...: 0.8457
+Best Test F1 after loading saved model: 0.8463
+Mean Std of Test F1 Score: 0.8427 +/- 0.0044
+0.2
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8788
+Loading best model for final evaluation...: 0.8759
+Best Test F1 after loading saved model: 0.8652
+Run: 1
+Best Test F1 throughout: 0.8741
+Loading best model for final evaluation...: 0.8729
+Best Test F1 after loading saved model: 0.8682
+Run: 2
+Best Test F1 throughout: 0.8788
+Loading best model for final evaluation...: 0.8712
+Best Test F1 after loading saved model: 0.8623
+Run: 3
+Best Test F1 throughout: 0.8747
+Loading best model for final evaluation...: 0.8759
+Best Test F1 after loading saved model: 0.8599
+Run: 4
+Best Test F1 throughout: 0.8729
+Loading best model for final evaluation...: 0.8694
+Best Test F1 after loading saved model: 0.8611
+Mean Std of Test F1 Score: 0.8634 +/- 0.0030
+0.3
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8907
+Loading best model for final evaluation...: 0.8907
+Best Test F1 after loading saved model: 0.8777
+Run: 1
+Best Test F1 throughout: 0.8883
+Loading best model for final evaluation...: 0.8889
+Best Test F1 after loading saved model: 0.8771
+Run: 2
+Best Test F1 throughout: 0.8883
+Loading best model for final evaluation...: 0.8913
+Best Test F1 after loading saved model: 0.8836
+Run: 3
+Best Test F1 throughout: 0.8901
+Loading best model for final evaluation...: 0.8913
+Best Test F1 after loading saved model: 0.8735
+Run: 4
+Best Test F1 throughout: 0.8877
+Loading best model for final evaluation...: 0.8889
+Best Test F1 after loading saved model: 0.8777
+Mean Std of Test F1 Score: 0.8779 +/- 0.0032
+0.4
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8978
+Loading best model for final evaluation...: 0.9013
+Best Test F1 after loading saved model: 0.8930
+Run: 1
+Best Test F1 throughout: 0.8948
+Loading best model for final evaluation...: 0.9013
+Best Test F1 after loading saved model: 0.8848
+Run: 2
+Best Test F1 throughout: 0.8989
+Loading best model for final evaluation...: 0.9007
+Best Test F1 after loading saved model: 0.8830
+Run: 3
+Best Test F1 throughout: 0.8989
+Loading best model for final evaluation...: 0.9025
+Best Test F1 after loading saved model: 0.8930
+Run: 4
+Best Test F1 throughout: 0.8989
+Loading best model for final evaluation...: 0.9001
+Best Test F1 after loading saved model: 0.8889
+Mean Std of Test F1 Score: 0.8885 +/- 0.0041
+0.5
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9031
+Loading best model for final evaluation...: 0.9078
+Best Test F1 after loading saved model: 0.9013
+Run: 1
+Best Test F1 throughout: 0.9031
+Loading best model for final evaluation...: 0.9078
+Best Test F1 after loading saved model: 0.9019
+Run: 2
+Best Test F1 throughout: 0.9031
+Loading best model for final evaluation...: 0.9072
+Best Test F1 after loading saved model: 0.8954
+Run: 3
+Best Test F1 throughout: 0.9025
+Loading best model for final evaluation...: 0.9078
+Best Test F1 after loading saved model: 0.8948
+Run: 4
+Best Test F1 throughout: 0.9043
+Loading best model for final evaluation...: 0.9078
+Best Test F1 after loading saved model: 0.8954
+Mean Std of Test F1 Score: 0.8978 +/- 0.0031
+0.6
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9060
+Loading best model for final evaluation...: 0.9119
+Best Test F1 after loading saved model: 0.9013
+Run: 1
+Best Test F1 throughout: 0.9102
+Loading best model for final evaluation...: 0.9131
+Best Test F1 after loading saved model: 0.9054
+Run: 2
+Best Test F1 throughout: 0.9096
+Loading best model for final evaluation...: 0.9125
+Best Test F1 after loading saved model: 0.9025
+Run: 3
+Best Test F1 throughout: 0.9066
+Loading best model for final evaluation...: 0.9137
+Best Test F1 after loading saved model: 0.9001
+Run: 4
+Best Test F1 throughout: 0.9066
+Loading best model for final evaluation...: 0.9137
+Best Test F1 after loading saved model: 0.9037
+Mean Std of Test F1 Score: 0.9026 +/- 0.0018
+0.7
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9161
+Loading best model for final evaluation...: 0.9167
+Best Test F1 after loading saved model: 0.9108
+Run: 1
+Best Test F1 throughout: 0.9131
+Loading best model for final evaluation...: 0.9143
+Best Test F1 after loading saved model: 0.9054
+Run: 2
+Best Test F1 throughout: 0.9102
+Loading best model for final evaluation...: 0.9143
+Best Test F1 after loading saved model: 0.9054
+Run: 3
+Best Test F1 throughout: 0.9125
+Loading best model for final evaluation...: 0.9167
+Best Test F1 after loading saved model: 0.9066
+Run: 4
+Best Test F1 throughout: 0.9108
+Loading best model for final evaluation...: 0.9155
+Best Test F1 after loading saved model: 0.9060
+Mean Std of Test F1 Score: 0.9069 +/- 0.0020
+0.8
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9178
+Loading best model for final evaluation...: 0.9184
+Best Test F1 after loading saved model: 0.9149
+Run: 1
+Best Test F1 throughout: 0.9161
+Loading best model for final evaluation...: 0.9196
+Best Test F1 after loading saved model: 0.9072
+Run: 2
+Best Test F1 throughout: 0.9178
+Loading best model for final evaluation...: 0.9173
+Best Test F1 after loading saved model: 0.9108
+Run: 3
+Best Test F1 throughout: 0.9167
+Loading best model for final evaluation...: 0.9178
+Best Test F1 after loading saved model: 0.9037
+Run: 4
+Best Test F1 throughout: 0.9167
+Loading best model for final evaluation...: 0.9167
+Best Test F1 after loading saved model: 0.9125
+Mean Std of Test F1 Score: 0.9098 +/- 0.0040
+0.9
+CiteSeer
+CiteseerFull()
+Data(x=[4230, 602], edge_index=[2, 10674], y=[4230])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9220
+Loading best model for final evaluation...: 0.9190
+Best Test F1 after loading saved model: 0.9167
+Run: 1
+Best Test F1 throughout: 0.9178
+Loading best model for final evaluation...: 0.9202
+Best Test F1 after loading saved model: 0.9137
+Run: 2
+Best Test F1 throughout: 0.9220
+Loading best model for final evaluation...: 0.9202
+Best Test F1 after loading saved model: 0.9167
+Run: 3
+Best Test F1 throughout: 0.9208
+Loading best model for final evaluation...: 0.9214
+Best Test F1 after loading saved model: 0.9143
+Run: 4
+Best Test F1 throughout: 0.9202
+Loading best model for final evaluation...: 0.9184
+Best Test F1 after loading saved model: 0.9167
+Mean Std of Test F1 Score: 0.9156 +/- 0.0013
+Cornell
+0.1
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.8644
+Best Test F1 after loading saved model: 0.7568
+Run: 1
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7297
+Run: 2
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.8136
+Best Test F1 after loading saved model: 0.7297
+Run: 3
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.7297
+Run: 4
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7966
+Best Test F1 after loading saved model: 0.6757
+Mean Std of Test F1 Score: 0.7243 +/- 0.0265
+0.2
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.8136
+Best Test F1 after loading saved model: 0.7297
+Run: 1
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7966
+Best Test F1 after loading saved model: 0.7027
+Run: 2
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7966
+Best Test F1 after loading saved model: 0.7297
+Run: 3
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.7027
+Run: 4
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.6757
+Mean Std of Test F1 Score: 0.7081 +/- 0.0202
+0.3
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7838
+Run: 1
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.7027
+Run: 2
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.7568
+Run: 3
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.7297
+Run: 4
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7297
+Mean Std of Test F1 Score: 0.7405 +/- 0.0276
+0.4
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7838
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7568
+Run: 1
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.7027
+Run: 2
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.7297
+Run: 3
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation...: 0.7288
+Best Test F1 after loading saved model: 0.7568
+Run: 4
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation...: 0.7966
+Best Test F1 after loading saved model: 0.7297
+Mean Std of Test F1 Score: 0.7351 +/- 0.0202
+0.5
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7027
+Run: 1
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.7027
+Run: 2
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.7297
+Run: 3
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7027
+Run: 4
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.8136
+Best Test F1 after loading saved model: 0.6757
+Mean Std of Test F1 Score: 0.7027 +/- 0.0171
+0.6
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7568
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7297
+Run: 1
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.6757
+Run: 2
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.6757
+Run: 3
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.7027
+Run: 4
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.7297
+Mean Std of Test F1 Score: 0.7027 +/- 0.0242
+0.7
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.6757
+Run: 1
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.6486
+Run: 2
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.7027
+Run: 3
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.6216
+Run: 4
+Best Test F1 throughout: 0.7297
+Loading best model for final evaluation...: 0.7966
+Best Test F1 after loading saved model: 0.7027
+Mean Std of Test F1 Score: 0.6703 +/- 0.0315
+0.8
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7027
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.6757
+Run: 1
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.6216
+Run: 2
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation...: 0.7627
+Best Test F1 after loading saved model: 0.6486
+Run: 3
+Best Test F1 throughout: 0.6486
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.5946
+Run: 4
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation...: 0.7966
+Best Test F1 after loading saved model: 0.6486
+Mean Std of Test F1 Score: 0.6378 +/- 0.0276
+0.9
+Cornell
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation...: 0.7797
+Best Test F1 after loading saved model: 0.6486
+Run: 1
+Best Test F1 throughout: 0.6757
+Loading best model for final evaluation...: 0.8136
+Best Test F1 after loading saved model: 0.6757
+Run: 2
+Best Test F1 throughout: 0.6486
+Loading best model for final evaluation...: 0.7458
+Best Test F1 after loading saved model: 0.6486
+Run: 3
+Best Test F1 throughout: 0.6216
+Loading best model for final evaluation...: 0.7119
+Best Test F1 after loading saved model: 0.4865
+Run: 4
+Best Test F1 throughout: 0.6486
+Loading best model for final evaluation...: 0.8136
+Best Test F1 after loading saved model: 0.6216
+Mean Std of Test F1 Score: 0.6162 +/- 0.0671
+learned
+Cora
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6409
+Loading best model for final evaluation...: 0.6386
+Best Test F1 after loading saved model: 0.6315
+Run: 1
+Best Test F1 throughout: 0.6441
+Loading best model for final evaluation...: 0.6334
+Best Test F1 after loading saved model: 0.6382
+Run: 2
+Best Test F1 throughout: 0.6393
+Loading best model for final evaluation...: 0.6348
+Best Test F1 after loading saved model: 0.6343
+Run: 3
+Best Test F1 throughout: 0.6412
+Loading best model for final evaluation...: 0.6350
+Best Test F1 after loading saved model: 0.6379
+Run: 4
+Best Test F1 throughout: 0.6418
+Loading best model for final evaluation...: 0.6340
+Best Test F1 after loading saved model: 0.6364
+Mean Std of Test F1 Score: 0.6356 +/- 0.0025
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation...: 0.6499
+Best Test F1 after loading saved model: 0.6490
+Run: 1
+Best Test F1 throughout: 0.6522
+Loading best model for final evaluation...: 0.6478
+Best Test F1 after loading saved model: 0.6486
+Run: 2
+Best Test F1 throughout: 0.6509
+Loading best model for final evaluation...: 0.6480
+Best Test F1 after loading saved model: 0.6488
+Run: 3
+Best Test F1 throughout: 0.6490
+Loading best model for final evaluation...: 0.6472
+Best Test F1 after loading saved model: 0.6485
+Run: 4
+Best Test F1 throughout: 0.6529
+Loading best model for final evaluation...: 0.6544
+Best Test F1 after loading saved model: 0.6542
+Mean Std of Test F1 Score: 0.6498 +/- 0.0022
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6555
+Loading best model for final evaluation...: 0.6537
+Best Test F1 after loading saved model: 0.6540
+Run: 1
+Best Test F1 throughout: 0.6577
+Loading best model for final evaluation...: 0.6514
+Best Test F1 after loading saved model: 0.6555
+Run: 2
+Best Test F1 throughout: 0.6566
+Loading best model for final evaluation...: 0.6534
+Best Test F1 after loading saved model: 0.6556
+Run: 3
+Best Test F1 throughout: 0.6523
+Loading best model for final evaluation...: 0.6543
+Best Test F1 after loading saved model: 0.6524
+Run: 4
+Best Test F1 throughout: 0.6566
+Loading best model for final evaluation...: 0.6592
+Best Test F1 after loading saved model: 0.6547
+Mean Std of Test F1 Score: 0.6544 +/- 0.0012
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6552
+Loading best model for final evaluation...: 0.6564
+Best Test F1 after loading saved model: 0.6558
+Run: 1
+Best Test F1 throughout: 0.6567
+Loading best model for final evaluation...: 0.6543
+Best Test F1 after loading saved model: 0.6582
+Run: 2
+Best Test F1 throughout: 0.6513
+Loading best model for final evaluation...: 0.6492
+Best Test F1 after loading saved model: 0.6493
+Run: 3
+Best Test F1 throughout: 0.6516
+Loading best model for final evaluation...: 0.6520
+Best Test F1 after loading saved model: 0.6484
+Run: 4
+Best Test F1 throughout: 0.6570
+Loading best model for final evaluation...: 0.6558
+Best Test F1 after loading saved model: 0.6533
+Mean Std of Test F1 Score: 0.6530 +/- 0.0038
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6556
+Loading best model for final evaluation...: 0.6534
+Best Test F1 after loading saved model: 0.6532
+Run: 1
+Best Test F1 throughout: 0.6500
+Loading best model for final evaluation...: 0.6530
+Best Test F1 after loading saved model: 0.6492
+Run: 2
+Best Test F1 throughout: 0.6489
+Loading best model for final evaluation...: 0.6532
+Best Test F1 after loading saved model: 0.6469
+Run: 3
+Best Test F1 throughout: 0.6486
+Loading best model for final evaluation...: 0.6500
+Best Test F1 after loading saved model: 0.6461
+Run: 4
+Best Test F1 throughout: 0.6571
+Loading best model for final evaluation...: 0.6567
+Best Test F1 after loading saved model: 0.6548
+Mean Std of Test F1 Score: 0.6500 +/- 0.0034
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6547
+Loading best model for final evaluation...: 0.6581
+Best Test F1 after loading saved model: 0.6529
+Run: 1
+Best Test F1 throughout: 0.6498
+Loading best model for final evaluation...: 0.6550
+Best Test F1 after loading saved model: 0.6489
+Run: 2
+Best Test F1 throughout: 0.6489
+Loading best model for final evaluation...: 0.6537
+Best Test F1 after loading saved model: 0.6473
+Run: 3
+Best Test F1 throughout: 0.6469
+Loading best model for final evaluation...: 0.6519
+Best Test F1 after loading saved model: 0.6486
+Run: 4
+Best Test F1 throughout: 0.6553
+Loading best model for final evaluation...: 0.6583
+Best Test F1 after loading saved model: 0.6528
+Mean Std of Test F1 Score: 0.6501 +/- 0.0023
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6540
+Loading best model for final evaluation...: 0.6566
+Best Test F1 after loading saved model: 0.6517
+Run: 1
+Best Test F1 throughout: 0.6531
+Loading best model for final evaluation...: 0.6563
+Best Test F1 after loading saved model: 0.6513
+Run: 2
+Best Test F1 throughout: 0.6502
+Loading best model for final evaluation...: 0.6542
+Best Test F1 after loading saved model: 0.6486
+Run: 3
+Best Test F1 throughout: 0.6478
+Loading best model for final evaluation...: 0.6530
+Best Test F1 after loading saved model: 0.6460
+Run: 4
+Best Test F1 throughout: 0.6551
+Loading best model for final evaluation...: 0.6601
+Best Test F1 after loading saved model: 0.6546
+Mean Std of Test F1 Score: 0.6504 +/- 0.0029
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6546
+Loading best model for final evaluation...: 0.6587
+Best Test F1 after loading saved model: 0.6529
+Run: 1
+Best Test F1 throughout: 0.6508
+Loading best model for final evaluation...: 0.6597
+Best Test F1 after loading saved model: 0.6497
+Run: 2
+Best Test F1 throughout: 0.6505
+Loading best model for final evaluation...: 0.6562
+Best Test F1 after loading saved model: 0.6499
+Run: 3
+Best Test F1 throughout: 0.6541
+Loading best model for final evaluation...: 0.6556
+Best Test F1 after loading saved model: 0.6526
+Run: 4
+Best Test F1 throughout: 0.6582
+Loading best model for final evaluation...: 0.6592
+Best Test F1 after loading saved model: 0.6571
+Mean Std of Test F1 Score: 0.6524 +/- 0.0027
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6589
+Loading best model for final evaluation...: 0.6622
+Best Test F1 after loading saved model: 0.6586
+Run: 1
+Best Test F1 throughout: 0.6527
+Loading best model for final evaluation...: 0.6592
+Best Test F1 after loading saved model: 0.6518
+Run: 2
+Best Test F1 throughout: 0.6498
+Loading best model for final evaluation...: 0.6544
+Best Test F1 after loading saved model: 0.6493
+Run: 3
+Best Test F1 throughout: 0.6542
+Loading best model for final evaluation...: 0.6581
+Best Test F1 after loading saved model: 0.6537
+Run: 4
+Best Test F1 throughout: 0.6609
+Loading best model for final evaluation...: 0.6652
+Best Test F1 after loading saved model: 0.6608
+Mean Std of Test F1 Score: 0.6548 +/- 0.0043
+learned
+Cora
+------------------------homophily:0.1------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2881
+Loading best model for final evaluation...: 0.3095
+Best Test F1 after loading saved model: 0.2381
+Run: 1
+Best Test F1 throughout: 0.2810
+Loading best model for final evaluation...: 0.3071
+Best Test F1 after loading saved model: 0.2500
+Run: 2
+Best Test F1 throughout: 0.2905
+Loading best model for final evaluation...: 0.3143
+Best Test F1 after loading saved model: 0.2810
+Run: 3
+Best Test F1 throughout: 0.2857
+Loading best model for final evaluation...: 0.2952
+Best Test F1 after loading saved model: 0.2714
+Run: 4
+Best Test F1 throughout: 0.2952
+Loading best model for final evaluation...: 0.3286
+Best Test F1 after loading saved model: 0.2667
+Mean Std of Test F1 Score: 0.2614 +/- 0.0154
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3190
+Loading best model for final evaluation...: 0.3571
+Best Test F1 after loading saved model: 0.2929
+Run: 1
+Best Test F1 throughout: 0.3190
+Loading best model for final evaluation...: 0.3667
+Best Test F1 after loading saved model: 0.3262
+Run: 2
+Best Test F1 throughout: 0.3381
+Loading best model for final evaluation...: 0.3952
+Best Test F1 after loading saved model: 0.3167
+Run: 3
+Best Test F1 throughout: 0.3357
+Loading best model for final evaluation...: 0.3738
+Best Test F1 after loading saved model: 0.3238
+Run: 4
+Best Test F1 throughout: 0.3310
+Loading best model for final evaluation...: 0.3857
+Best Test F1 after loading saved model: 0.3190
+Mean Std of Test F1 Score: 0.3157 +/- 0.0119
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3643
+Loading best model for final evaluation...: 0.4048
+Best Test F1 after loading saved model: 0.3452
+Run: 1
+Best Test F1 throughout: 0.3595
+Loading best model for final evaluation...: 0.4071
+Best Test F1 after loading saved model: 0.3500
+Run: 2
+Best Test F1 throughout: 0.3667
+Loading best model for final evaluation...: 0.4167
+Best Test F1 after loading saved model: 0.3714
+Run: 3
+Best Test F1 throughout: 0.3548
+Loading best model for final evaluation...: 0.3976
+Best Test F1 after loading saved model: 0.3214
+Run: 4
+Best Test F1 throughout: 0.3619
+Loading best model for final evaluation...: 0.4238
+Best Test F1 after loading saved model: 0.3500
+Mean Std of Test F1 Score: 0.3476 +/- 0.0159
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3738
+Loading best model for final evaluation...: 0.4143
+Best Test F1 after loading saved model: 0.3571
+Run: 1
+Best Test F1 throughout: 0.3452
+Loading best model for final evaluation...: 0.4095
+Best Test F1 after loading saved model: 0.3381
+Run: 2
+Best Test F1 throughout: 0.3738
+Loading best model for final evaluation...: 0.4262
+Best Test F1 after loading saved model: 0.3548
+Run: 3
+Best Test F1 throughout: 0.3810
+Loading best model for final evaluation...: 0.4095
+Best Test F1 after loading saved model: 0.3571
+Run: 4
+Best Test F1 throughout: 0.3643
+Loading best model for final evaluation...: 0.4214
+Best Test F1 after loading saved model: 0.3476
+Mean Std of Test F1 Score: 0.3510 +/- 0.0073
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4048
+Loading best model for final evaluation...: 0.4405
+Best Test F1 after loading saved model: 0.3524
+Run: 1
+Best Test F1 throughout: 0.3643
+Loading best model for final evaluation...: 0.4190
+Best Test F1 after loading saved model: 0.3429
+Run: 2
+Best Test F1 throughout: 0.4119
+Loading best model for final evaluation...: 0.4619
+Best Test F1 after loading saved model: 0.3881
+Run: 3
+Best Test F1 throughout: 0.3810
+Loading best model for final evaluation...: 0.4310
+Best Test F1 after loading saved model: 0.3548
+Run: 4
+Best Test F1 throughout: 0.3738
+Loading best model for final evaluation...: 0.4286
+Best Test F1 after loading saved model: 0.3619
+Mean Std of Test F1 Score: 0.3600 +/- 0.0153
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3905
+Loading best model for final evaluation...: 0.4667
+Best Test F1 after loading saved model: 0.3857
+Run: 1
+Best Test F1 throughout: 0.3786
+Loading best model for final evaluation...: 0.4238
+Best Test F1 after loading saved model: 0.3429
+Run: 2
+Best Test F1 throughout: 0.4143
+Loading best model for final evaluation...: 0.4452
+Best Test F1 after loading saved model: 0.3762
+Run: 3
+Best Test F1 throughout: 0.4000
+Loading best model for final evaluation...: 0.4500
+Best Test F1 after loading saved model: 0.3929
+Run: 4
+Best Test F1 throughout: 0.3405
+Loading best model for final evaluation...: 0.3810
+Best Test F1 after loading saved model: 0.3476
+Mean Std of Test F1 Score: 0.3690 +/- 0.0202
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3500
+Loading best model for final evaluation...: 0.3905
+Best Test F1 after loading saved model: 0.3452
+Run: 1
+Best Test F1 throughout: 0.4024
+Loading best model for final evaluation...: 0.4381
+Best Test F1 after loading saved model: 0.3762
+Run: 2
+Best Test F1 throughout: 0.4214
+Loading best model for final evaluation...: 0.4595
+Best Test F1 after loading saved model: 0.4190
+Run: 3
+Best Test F1 throughout: 0.4238
+Loading best model for final evaluation...: 0.4476
+Best Test F1 after loading saved model: 0.4262
+Run: 4
+Best Test F1 throughout: 0.4333
+Loading best model for final evaluation...: 0.4429
+Best Test F1 after loading saved model: 0.3976
+Mean Std of Test F1 Score: 0.3929 +/- 0.0295
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3643
+Loading best model for final evaluation...: 0.3857
+Best Test F1 after loading saved model: 0.3214
+Run: 1
+Best Test F1 throughout: 0.3738
+Loading best model for final evaluation...: 0.4190
+Best Test F1 after loading saved model: 0.3548
+Run: 2
+Best Test F1 throughout: 0.4095
+Loading best model for final evaluation...: 0.4333
+Best Test F1 after loading saved model: 0.4143
+Run: 3
+Best Test F1 throughout: 0.4119
+Loading best model for final evaluation...: 0.4190
+Best Test F1 after loading saved model: 0.3952
+Run: 4
+Best Test F1 throughout: 0.3619
+Loading best model for final evaluation...: 0.3690
+Best Test F1 after loading saved model: 0.3643
+Mean Std of Test F1 Score: 0.3700 +/- 0.0323
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3333
+Loading best model for final evaluation...: 0.3476
+Best Test F1 after loading saved model: 0.3024
+Run: 1
+Best Test F1 throughout: 0.3762
+Loading best model for final evaluation...: 0.3952
+Best Test F1 after loading saved model: 0.3548
+Run: 2
+Best Test F1 throughout: 0.3381
+Loading best model for final evaluation...: 0.3548
+Best Test F1 after loading saved model: 0.3238
+Run: 3
+Best Test F1 throughout: 0.3833
+Loading best model for final evaluation...: 0.4167
+Best Test F1 after loading saved model: 0.3833
+Run: 4
+Best Test F1 throughout: 0.3524
+Loading best model for final evaluation...: 0.3905
+Best Test F1 after loading saved model: 0.3405
+Mean Std of Test F1 Score: 0.3410 +/- 0.0275
+------------------------end------------------------
+------------------------homophily:0.2------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4881
+Loading best model for final evaluation...: 0.5429
+Best Test F1 after loading saved model: 0.4310
+Run: 1
+Best Test F1 throughout: 0.4976
+Loading best model for final evaluation...: 0.5214
+Best Test F1 after loading saved model: 0.4571
+Run: 2
+Best Test F1 throughout: 0.4810
+Loading best model for final evaluation...: 0.5095
+Best Test F1 after loading saved model: 0.4595
+Run: 3
+Best Test F1 throughout: 0.4643
+Loading best model for final evaluation...: 0.5095
+Best Test F1 after loading saved model: 0.4357
+Run: 4
+Best Test F1 throughout: 0.4810
+Loading best model for final evaluation...: 0.5500
+Best Test F1 after loading saved model: 0.4452
+Mean Std of Test F1 Score: 0.4457 +/- 0.0113
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6143
+Loading best model for final evaluation...: 0.6595
+Best Test F1 after loading saved model: 0.5881
+Run: 1
+Best Test F1 throughout: 0.6048
+Loading best model for final evaluation...: 0.6643
+Best Test F1 after loading saved model: 0.5786
+Run: 2
+Best Test F1 throughout: 0.5929
+Loading best model for final evaluation...: 0.6381
+Best Test F1 after loading saved model: 0.5643
+Run: 3
+Best Test F1 throughout: 0.6143
+Loading best model for final evaluation...: 0.6333
+Best Test F1 after loading saved model: 0.5881
+Run: 4
+Best Test F1 throughout: 0.5190
+Loading best model for final evaluation...: 0.5619
+Best Test F1 after loading saved model: 0.5214
+Mean Std of Test F1 Score: 0.5681 +/- 0.0249
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6286
+Loading best model for final evaluation...: 0.6833
+Best Test F1 after loading saved model: 0.6190
+Run: 1
+Best Test F1 throughout: 0.6286
+Loading best model for final evaluation...: 0.6786
+Best Test F1 after loading saved model: 0.6190
+Run: 2
+Best Test F1 throughout: 0.5976
+Loading best model for final evaluation...: 0.6619
+Best Test F1 after loading saved model: 0.5881
+Run: 3
+Best Test F1 throughout: 0.6762
+Loading best model for final evaluation...: 0.7333
+Best Test F1 after loading saved model: 0.6714
+Run: 4
+Best Test F1 throughout: 0.6476
+Loading best model for final evaluation...: 0.6786
+Best Test F1 after loading saved model: 0.6310
+Mean Std of Test F1 Score: 0.6257 +/- 0.0269
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.5976
+Loading best model for final evaluation...: 0.6452
+Best Test F1 after loading saved model: 0.5619
+Run: 1
+Best Test F1 throughout: 0.5762
+Loading best model for final evaluation...: 0.6405
+Best Test F1 after loading saved model: 0.5714
+Run: 2
+Best Test F1 throughout: 0.6381
+Loading best model for final evaluation...: 0.7000
+Best Test F1 after loading saved model: 0.6310
+Run: 3
+Best Test F1 throughout: 0.6810
+Loading best model for final evaluation...: 0.7119
+Best Test F1 after loading saved model: 0.6595
+Run: 4
+Best Test F1 throughout: 0.6571
+Loading best model for final evaluation...: 0.6833
+Best Test F1 after loading saved model: 0.6286
+Mean Std of Test F1 Score: 0.6105 +/- 0.0375
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.5738
+Loading best model for final evaluation...: 0.6119
+Best Test F1 after loading saved model: 0.5595
+Run: 1
+Best Test F1 throughout: 0.5429
+Loading best model for final evaluation...: 0.6024
+Best Test F1 after loading saved model: 0.5452
+Run: 2
+Best Test F1 throughout: 0.5643
+Loading best model for final evaluation...: 0.6214
+Best Test F1 after loading saved model: 0.5619
+Run: 3
+Best Test F1 throughout: 0.5905
+Loading best model for final evaluation...: 0.6095
+Best Test F1 after loading saved model: 0.5762
+Run: 4
+Best Test F1 throughout: 0.5810
+Loading best model for final evaluation...: 0.6381
+Best Test F1 after loading saved model: 0.5786
+Mean Std of Test F1 Score: 0.5643 +/- 0.0121
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3071
+Loading best model for final evaluation...: 0.3595
+Best Test F1 after loading saved model: 0.3024
+Run: 1
+Best Test F1 throughout: 0.3262
+Loading best model for final evaluation...: 0.3000
+Best Test F1 after loading saved model: 0.3071
+Run: 2
+Best Test F1 throughout: 0.3786
+Loading best model for final evaluation...: 0.4452
+Best Test F1 after loading saved model: 0.3833
+Run: 3
+Best Test F1 throughout: 0.5071
+Loading best model for final evaluation...: 0.5476
+Best Test F1 after loading saved model: 0.5071
+Run: 4
+Best Test F1 throughout: 0.3333
+Loading best model for final evaluation...: 0.3071
+Best Test F1 after loading saved model: 0.3071
+Mean Std of Test F1 Score: 0.3614 +/- 0.0789
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3071
+Loading best model for final evaluation...: 0.3238
+Best Test F1 after loading saved model: 0.2905
+Run: 1
+Best Test F1 throughout: 0.3048
+Loading best model for final evaluation...: 0.2810
+Best Test F1 after loading saved model: 0.2881
+Run: 2
+Best Test F1 throughout: 0.2810
+Loading best model for final evaluation...: 0.2690
+Best Test F1 after loading saved model: 0.2643
+Run: 3
+Best Test F1 throughout: 0.2857
+Loading best model for final evaluation...: 0.2810
+Best Test F1 after loading saved model: 0.2476
+Run: 4
+Best Test F1 throughout: 0.3119
+Loading best model for final evaluation...: 0.2690
+Best Test F1 after loading saved model: 0.2929
+Mean Std of Test F1 Score: 0.2767 +/- 0.0178
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2262
+Loading best model for final evaluation...: 0.2429
+Best Test F1 after loading saved model: 0.2048
+Run: 1
+Best Test F1 throughout: 0.2524
+Loading best model for final evaluation...: 0.2286
+Best Test F1 after loading saved model: 0.2310
+Run: 2
+Best Test F1 throughout: 0.2714
+Loading best model for final evaluation...: 0.2500
+Best Test F1 after loading saved model: 0.2405
+Run: 3
+Best Test F1 throughout: 0.2952
+Loading best model for final evaluation...: 0.2833
+Best Test F1 after loading saved model: 0.2595
+Run: 4
+Best Test F1 throughout: 0.2595
+Loading best model for final evaluation...: 0.2548
+Best Test F1 after loading saved model: 0.2619
+Mean Std of Test F1 Score: 0.2395 +/- 0.0209
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2357
+Loading best model for final evaluation...: 0.2476
+Best Test F1 after loading saved model: 0.2357
+Run: 1
+Best Test F1 throughout: 0.2714
+Loading best model for final evaluation...: 0.2476
+Best Test F1 after loading saved model: 0.2619
+Run: 2
+Best Test F1 throughout: 0.2857
+Loading best model for final evaluation...: 0.2786
+Best Test F1 after loading saved model: 0.2810
+Run: 3
+Best Test F1 throughout: 0.2476
+Loading best model for final evaluation...: 0.2119
+Best Test F1 after loading saved model: 0.2286
+Run: 4
+Best Test F1 throughout: 0.1929
+Loading best model for final evaluation...: 0.1833
+Best Test F1 after loading saved model: 0.1833
+Mean Std of Test F1 Score: 0.2381 +/- 0.0332
+------------------------end------------------------
+------------------------homophily:0.3------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6714
+Loading best model for final evaluation...: 0.7048
+Best Test F1 after loading saved model: 0.6548
+Run: 1
+Best Test F1 throughout: 0.6619
+Loading best model for final evaluation...: 0.6881
+Best Test F1 after loading saved model: 0.6524
+Run: 2
+Best Test F1 throughout: 0.6548
+Loading best model for final evaluation...: 0.6952
+Best Test F1 after loading saved model: 0.6167
+Run: 3
+Best Test F1 throughout: 0.6548
+Loading best model for final evaluation...: 0.6881
+Best Test F1 after loading saved model: 0.6310
+Run: 4
+Best Test F1 throughout: 0.6405
+Loading best model for final evaluation...: 0.7000
+Best Test F1 after loading saved model: 0.6214
+Mean Std of Test F1 Score: 0.6352 +/- 0.0157
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6833
+Loading best model for final evaluation...: 0.7214
+Best Test F1 after loading saved model: 0.6881
+Run: 1
+Best Test F1 throughout: 0.6929
+Loading best model for final evaluation...: 0.7262
+Best Test F1 after loading saved model: 0.6857
+Run: 2
+Best Test F1 throughout: 0.7000
+Loading best model for final evaluation...: 0.7595
+Best Test F1 after loading saved model: 0.6738
+Run: 3
+Best Test F1 throughout: 0.7167
+Loading best model for final evaluation...: 0.7476
+Best Test F1 after loading saved model: 0.7095
+Run: 4
+Best Test F1 throughout: 0.7167
+Loading best model for final evaluation...: 0.7524
+Best Test F1 after loading saved model: 0.7119
+Mean Std of Test F1 Score: 0.6938 +/- 0.0146
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6167
+Loading best model for final evaluation...: 0.6500
+Best Test F1 after loading saved model: 0.6167
+Run: 1
+Best Test F1 throughout: 0.7167
+Loading best model for final evaluation...: 0.7143
+Best Test F1 after loading saved model: 0.7000
+Run: 2
+Best Test F1 throughout: 0.6262
+Loading best model for final evaluation...: 0.6786
+Best Test F1 after loading saved model: 0.6190
+Run: 3
+Best Test F1 throughout: 0.6762
+Loading best model for final evaluation...: 0.7095
+Best Test F1 after loading saved model: 0.6762
+Run: 4
+Best Test F1 throughout: 0.5929
+Loading best model for final evaluation...: 0.6524
+Best Test F1 after loading saved model: 0.6238
+Mean Std of Test F1 Score: 0.6471 +/- 0.0344
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6214
+Loading best model for final evaluation...: 0.6357
+Best Test F1 after loading saved model: 0.6190
+Run: 1
+Best Test F1 throughout: 0.5571
+Loading best model for final evaluation...: 0.5714
+Best Test F1 after loading saved model: 0.5381
+Run: 2
+Best Test F1 throughout: 0.5952
+Loading best model for final evaluation...: 0.6048
+Best Test F1 after loading saved model: 0.5833
+Run: 3
+Best Test F1 throughout: 0.5405
+Loading best model for final evaluation...: 0.6071
+Best Test F1 after loading saved model: 0.5071
+Run: 4
+Best Test F1 throughout: 0.5643
+Loading best model for final evaluation...: 0.5952
+Best Test F1 after loading saved model: 0.5690
+Mean Std of Test F1 Score: 0.5633 +/- 0.0383
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4619
+Loading best model for final evaluation...: 0.5357
+Best Test F1 after loading saved model: 0.4452
+Run: 1
+Best Test F1 throughout: 0.4738
+Loading best model for final evaluation...: 0.5000
+Best Test F1 after loading saved model: 0.4476
+Run: 2
+Best Test F1 throughout: 0.5190
+Loading best model for final evaluation...: 0.5310
+Best Test F1 after loading saved model: 0.5143
+Run: 3
+Best Test F1 throughout: 0.4643
+Loading best model for final evaluation...: 0.5476
+Best Test F1 after loading saved model: 0.4452
+Run: 4
+Best Test F1 throughout: 0.4571
+Loading best model for final evaluation...: 0.4905
+Best Test F1 after loading saved model: 0.4548
+Mean Std of Test F1 Score: 0.4614 +/- 0.0267
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.5000
+Loading best model for final evaluation...: 0.5595
+Best Test F1 after loading saved model: 0.4810
+Run: 1
+Best Test F1 throughout: 0.4667
+Loading best model for final evaluation...: 0.4929
+Best Test F1 after loading saved model: 0.4357
+Run: 2
+Best Test F1 throughout: 0.4476
+Loading best model for final evaluation...: 0.5095
+Best Test F1 after loading saved model: 0.4500
+Run: 3
+Best Test F1 throughout: 0.4762
+Loading best model for final evaluation...: 0.5119
+Best Test F1 after loading saved model: 0.4690
+Run: 4
+Best Test F1 throughout: 0.4524
+Loading best model for final evaluation...: 0.4786
+Best Test F1 after loading saved model: 0.4452
+Mean Std of Test F1 Score: 0.4562 +/- 0.0165
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4214
+Loading best model for final evaluation...: 0.4857
+Best Test F1 after loading saved model: 0.4119
+Run: 1
+Best Test F1 throughout: 0.4571
+Loading best model for final evaluation...: 0.4905
+Best Test F1 after loading saved model: 0.4548
+Run: 2
+Best Test F1 throughout: 0.4405
+Loading best model for final evaluation...: 0.4690
+Best Test F1 after loading saved model: 0.4190
+Run: 3
+Best Test F1 throughout: 0.4143
+Loading best model for final evaluation...: 0.4429
+Best Test F1 after loading saved model: 0.3881
+Run: 4
+Best Test F1 throughout: 0.3833
+Loading best model for final evaluation...: 0.4595
+Best Test F1 after loading saved model: 0.3833
+Mean Std of Test F1 Score: 0.4114 +/- 0.0256
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3381
+Loading best model for final evaluation...: 0.3738
+Best Test F1 after loading saved model: 0.3381
+Run: 1
+Best Test F1 throughout: 0.3333
+Loading best model for final evaluation...: 0.3619
+Best Test F1 after loading saved model: 0.3333
+Run: 2
+Best Test F1 throughout: 0.3500
+Loading best model for final evaluation...: 0.3929
+Best Test F1 after loading saved model: 0.3452
+Run: 3
+Best Test F1 throughout: 0.3262
+Loading best model for final evaluation...: 0.3619
+Best Test F1 after loading saved model: 0.3286
+Run: 4
+Best Test F1 throughout: 0.3929
+Loading best model for final evaluation...: 0.4429
+Best Test F1 after loading saved model: 0.3738
+Mean Std of Test F1 Score: 0.3438 +/- 0.0160
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3167
+Loading best model for final evaluation...: 0.3429
+Best Test F1 after loading saved model: 0.2952
+Run: 1
+Best Test F1 throughout: 0.2929
+Loading best model for final evaluation...: 0.3190
+Best Test F1 after loading saved model: 0.2738
+Run: 2
+Best Test F1 throughout: 0.3190
+Loading best model for final evaluation...: 0.3571
+Best Test F1 after loading saved model: 0.2952
+Run: 3
+Best Test F1 throughout: 0.3000
+Loading best model for final evaluation...: 0.3190
+Best Test F1 after loading saved model: 0.3024
+Run: 4
+Best Test F1 throughout: 0.2881
+Loading best model for final evaluation...: 0.3571
+Best Test F1 after loading saved model: 0.2881
+Mean Std of Test F1 Score: 0.2910 +/- 0.0097
+------------------------end------------------------
+------------------------homophily:0.4------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7095
+Loading best model for final evaluation...: 0.7595
+Best Test F1 after loading saved model: 0.6881
+Run: 1
+Best Test F1 throughout: 0.6857
+Loading best model for final evaluation...: 0.7119
+Best Test F1 after loading saved model: 0.6881
+Run: 2
+Best Test F1 throughout: 0.6738
+Loading best model for final evaluation...: 0.7095
+Best Test F1 after loading saved model: 0.6643
+Run: 3
+Best Test F1 throughout: 0.6667
+Loading best model for final evaluation...: 0.6714
+Best Test F1 after loading saved model: 0.6476
+Run: 4
+Best Test F1 throughout: 0.6548
+Loading best model for final evaluation...: 0.6786
+Best Test F1 after loading saved model: 0.6476
+Mean Std of Test F1 Score: 0.6671 +/- 0.0182
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7119
+Loading best model for final evaluation...: 0.7357
+Best Test F1 after loading saved model: 0.7024
+Run: 1
+Best Test F1 throughout: 0.7738
+Loading best model for final evaluation...: 0.8143
+Best Test F1 after loading saved model: 0.7667
+Run: 2
+Best Test F1 throughout: 0.7119
+Loading best model for final evaluation...: 0.7286
+Best Test F1 after loading saved model: 0.7310
+Run: 3
+Best Test F1 throughout: 0.7500
+Loading best model for final evaluation...: 0.7738
+Best Test F1 after loading saved model: 0.7333
+Run: 4
+Best Test F1 throughout: 0.7643
+Loading best model for final evaluation...: 0.7643
+Best Test F1 after loading saved model: 0.7333
+Mean Std of Test F1 Score: 0.7333 +/- 0.0204
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7143
+Loading best model for final evaluation...: 0.7452
+Best Test F1 after loading saved model: 0.7048
+Run: 1
+Best Test F1 throughout: 0.7238
+Loading best model for final evaluation...: 0.7405
+Best Test F1 after loading saved model: 0.7214
+Run: 2
+Best Test F1 throughout: 0.7786
+Loading best model for final evaluation...: 0.7786
+Best Test F1 after loading saved model: 0.7595
+Run: 3
+Best Test F1 throughout: 0.6929
+Loading best model for final evaluation...: 0.7048
+Best Test F1 after loading saved model: 0.6786
+Run: 4
+Best Test F1 throughout: 0.7762
+Loading best model for final evaluation...: 0.8095
+Best Test F1 after loading saved model: 0.7524
+Mean Std of Test F1 Score: 0.7233 +/- 0.0300
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6714
+Loading best model for final evaluation...: 0.7310
+Best Test F1 after loading saved model: 0.6690
+Run: 1
+Best Test F1 throughout: 0.5357
+Loading best model for final evaluation...: 0.5643
+Best Test F1 after loading saved model: 0.4905
+Run: 2
+Best Test F1 throughout: 0.5905
+Loading best model for final evaluation...: 0.6476
+Best Test F1 after loading saved model: 0.5667
+Run: 3
+Best Test F1 throughout: 0.6690
+Loading best model for final evaluation...: 0.6881
+Best Test F1 after loading saved model: 0.6357
+Run: 4
+Best Test F1 throughout: 0.6476
+Loading best model for final evaluation...: 0.6762
+Best Test F1 after loading saved model: 0.5810
+Mean Std of Test F1 Score: 0.5886 +/- 0.0614
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.5381
+Loading best model for final evaluation...: 0.5857
+Best Test F1 after loading saved model: 0.5048
+Run: 1
+Best Test F1 throughout: 0.5881
+Loading best model for final evaluation...: 0.6238
+Best Test F1 after loading saved model: 0.5690
+Run: 2
+Best Test F1 throughout: 0.5381
+Loading best model for final evaluation...: 0.5905
+Best Test F1 after loading saved model: 0.5262
+Run: 3
+Best Test F1 throughout: 0.5262
+Loading best model for final evaluation...: 0.5738
+Best Test F1 after loading saved model: 0.5214
+Run: 4
+Best Test F1 throughout: 0.6024
+Loading best model for final evaluation...: 0.6286
+Best Test F1 after loading saved model: 0.5929
+Mean Std of Test F1 Score: 0.5429 +/- 0.0328
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.5095
+Loading best model for final evaluation...: 0.5286
+Best Test F1 after loading saved model: 0.5095
+Run: 1
+Best Test F1 throughout: 0.5548
+Loading best model for final evaluation...: 0.6262
+Best Test F1 after loading saved model: 0.5357
+Run: 2
+Best Test F1 throughout: 0.4524
+Loading best model for final evaluation...: 0.5095
+Best Test F1 after loading saved model: 0.4500
+Run: 3
+Best Test F1 throughout: 0.4833
+Loading best model for final evaluation...: 0.5238
+Best Test F1 after loading saved model: 0.4833
+Run: 4
+Best Test F1 throughout: 0.6048
+Loading best model for final evaluation...: 0.6190
+Best Test F1 after loading saved model: 0.5952
+Mean Std of Test F1 Score: 0.5148 +/- 0.0492
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4262
+Loading best model for final evaluation...: 0.4595
+Best Test F1 after loading saved model: 0.4071
+Run: 1
+Best Test F1 throughout: 0.1667
+Loading best model for final evaluation...: 0.1452
+Best Test F1 after loading saved model: 0.1643
+Run: 2
+Best Test F1 throughout: 0.4143
+Loading best model for final evaluation...: 0.4571
+Best Test F1 after loading saved model: 0.4143
+Run: 3
+Best Test F1 throughout: 0.4905
+Loading best model for final evaluation...: 0.5381
+Best Test F1 after loading saved model: 0.4881
+Run: 4
+Best Test F1 throughout: 0.1143
+Loading best model for final evaluation...: 0.0976
+Best Test F1 after loading saved model: 0.1071
+Mean Std of Test F1 Score: 0.3162 +/- 0.1511
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4000
+Loading best model for final evaluation...: 0.4357
+Best Test F1 after loading saved model: 0.3952
+Run: 1
+Best Test F1 throughout: 0.3857
+Loading best model for final evaluation...: 0.3857
+Best Test F1 after loading saved model: 0.3714
+Run: 2
+Best Test F1 throughout: 0.4262
+Loading best model for final evaluation...: 0.4595
+Best Test F1 after loading saved model: 0.4190
+Run: 3
+Best Test F1 throughout: 0.3833
+Loading best model for final evaluation...: 0.4262
+Best Test F1 after loading saved model: 0.3595
+Run: 4
+Best Test F1 throughout: 0.1238
+Loading best model for final evaluation...: 0.1071
+Best Test F1 after loading saved model: 0.1214
+Mean Std of Test F1 Score: 0.3333 +/- 0.1079
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4000
+Loading best model for final evaluation...: 0.4452
+Best Test F1 after loading saved model: 0.3976
+Run: 1
+Best Test F1 throughout: 0.1595
+Loading best model for final evaluation...: 0.1310
+Best Test F1 after loading saved model: 0.1500
+Run: 2
+Best Test F1 throughout: 0.4238
+Loading best model for final evaluation...: 0.4929
+Best Test F1 after loading saved model: 0.4190
+Run: 3
+Best Test F1 throughout: 0.3738
+Loading best model for final evaluation...: 0.3857
+Best Test F1 after loading saved model: 0.3643
+Run: 4
+Best Test F1 throughout: 0.4024
+Loading best model for final evaluation...: 0.4095
+Best Test F1 after loading saved model: 0.3714
+Mean Std of Test F1 Score: 0.3405 +/- 0.0972
+------------------------end------------------------
+------------------------homophily:0.5------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7214
+Loading best model for final evaluation...: 0.7524
+Best Test F1 after loading saved model: 0.7071
+Run: 1
+Best Test F1 throughout: 0.7310
+Loading best model for final evaluation...: 0.7667
+Best Test F1 after loading saved model: 0.7071
+Run: 2
+Best Test F1 throughout: 0.7571
+Loading best model for final evaluation...: 0.7786
+Best Test F1 after loading saved model: 0.7310
+Run: 3
+Best Test F1 throughout: 0.7024
+Loading best model for final evaluation...: 0.7548
+Best Test F1 after loading saved model: 0.6690
+Run: 4
+Best Test F1 throughout: 0.7095
+Loading best model for final evaluation...: 0.7405
+Best Test F1 after loading saved model: 0.7095
+Mean Std of Test F1 Score: 0.7048 +/- 0.0200
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7857
+Loading best model for final evaluation...: 0.8214
+Best Test F1 after loading saved model: 0.7643
+Run: 1
+Best Test F1 throughout: 0.7167
+Loading best model for final evaluation...: 0.7357
+Best Test F1 after loading saved model: 0.6500
+Run: 2
+Best Test F1 throughout: 0.8048
+Loading best model for final evaluation...: 0.8381
+Best Test F1 after loading saved model: 0.8000
+Run: 3
+Best Test F1 throughout: 0.7857
+Loading best model for final evaluation...: 0.8262
+Best Test F1 after loading saved model: 0.7786
+Run: 4
+Best Test F1 throughout: 0.8095
+Loading best model for final evaluation...: 0.8310
+Best Test F1 after loading saved model: 0.8119
+Mean Std of Test F1 Score: 0.7610 +/- 0.0579
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7833
+Loading best model for final evaluation...: 0.8333
+Best Test F1 after loading saved model: 0.7667
+Run: 1
+Best Test F1 throughout: 0.8143
+Loading best model for final evaluation...: 0.8429
+Best Test F1 after loading saved model: 0.8071
+Run: 2
+Best Test F1 throughout: 0.7810
+Loading best model for final evaluation...: 0.8143
+Best Test F1 after loading saved model: 0.7738
+Run: 3
+Best Test F1 throughout: 0.8167
+Loading best model for final evaluation...: 0.8524
+Best Test F1 after loading saved model: 0.8000
+Run: 4
+Best Test F1 throughout: 0.8214
+Loading best model for final evaluation...: 0.8667
+Best Test F1 after loading saved model: 0.8190
+Mean Std of Test F1 Score: 0.7933 +/- 0.0199
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7071
+Loading best model for final evaluation...: 0.7357
+Best Test F1 after loading saved model: 0.6929
+Run: 1
+Best Test F1 throughout: 0.6857
+Loading best model for final evaluation...: 0.7143
+Best Test F1 after loading saved model: 0.6548
+Run: 2
+Best Test F1 throughout: 0.7071
+Loading best model for final evaluation...: 0.7452
+Best Test F1 after loading saved model: 0.6786
+Run: 3
+Best Test F1 throughout: 0.7619
+Loading best model for final evaluation...: 0.7976
+Best Test F1 after loading saved model: 0.7524
+Run: 4
+Best Test F1 throughout: 0.6429
+Loading best model for final evaluation...: 0.6500
+Best Test F1 after loading saved model: 0.6333
+Mean Std of Test F1 Score: 0.6824 +/- 0.0405
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2762
+Loading best model for final evaluation...: 0.3143
+Best Test F1 after loading saved model: 0.2643
+Run: 1
+Best Test F1 throughout: 0.6881
+Loading best model for final evaluation...: 0.7095
+Best Test F1 after loading saved model: 0.6833
+Run: 2
+Best Test F1 throughout: 0.2381
+Loading best model for final evaluation...: 0.2690
+Best Test F1 after loading saved model: 0.2357
+Run: 3
+Best Test F1 throughout: 0.3071
+Loading best model for final evaluation...: 0.3310
+Best Test F1 after loading saved model: 0.3000
+Run: 4
+Best Test F1 throughout: 0.2190
+Loading best model for final evaluation...: 0.2238
+Best Test F1 after loading saved model: 0.2000
+Mean Std of Test F1 Score: 0.3367 +/- 0.1764
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2119
+Loading best model for final evaluation...: 0.2167
+Best Test F1 after loading saved model: 0.2143
+Run: 1
+Best Test F1 throughout: 0.1881
+Loading best model for final evaluation...: 0.1881
+Best Test F1 after loading saved model: 0.1905
+Run: 2
+Best Test F1 throughout: 0.2405
+Loading best model for final evaluation...: 0.2595
+Best Test F1 after loading saved model: 0.2381
+Run: 3
+Best Test F1 throughout: 0.2048
+Loading best model for final evaluation...: 0.2024
+Best Test F1 after loading saved model: 0.2024
+Run: 4
+Best Test F1 throughout: 0.1738
+Loading best model for final evaluation...: 0.1571
+Best Test F1 after loading saved model: 0.1690
+Mean Std of Test F1 Score: 0.2029 +/- 0.0231
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2214
+Loading best model for final evaluation...: 0.2690
+Best Test F1 after loading saved model: 0.2095
+Run: 1
+Best Test F1 throughout: 0.4714
+Loading best model for final evaluation...: 0.4905
+Best Test F1 after loading saved model: 0.4476
+Run: 2
+Best Test F1 throughout: 0.1524
+Loading best model for final evaluation...: 0.1452
+Best Test F1 after loading saved model: 0.1476
+Run: 3
+Best Test F1 throughout: 0.3214
+Loading best model for final evaluation...: 0.3738
+Best Test F1 after loading saved model: 0.3214
+Run: 4
+Best Test F1 throughout: 0.5524
+Loading best model for final evaluation...: 0.5714
+Best Test F1 after loading saved model: 0.5429
+Mean Std of Test F1 Score: 0.3338 +/- 0.1462
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2667
+Loading best model for final evaluation...: 0.2643
+Best Test F1 after loading saved model: 0.2500
+Run: 1
+Best Test F1 throughout: 0.5524
+Loading best model for final evaluation...: 0.5667
+Best Test F1 after loading saved model: 0.5452
+Run: 2
+Best Test F1 throughout: 0.4452
+Loading best model for final evaluation...: 0.4690
+Best Test F1 after loading saved model: 0.4452
+Run: 3
+Best Test F1 throughout: 0.3143
+Loading best model for final evaluation...: 0.3643
+Best Test F1 after loading saved model: 0.3071
+Run: 4
+Best Test F1 throughout: 0.4833
+Loading best model for final evaluation...: 0.5167
+Best Test F1 after loading saved model: 0.4714
+Mean Std of Test F1 Score: 0.4038 +/- 0.1089
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2238
+Loading best model for final evaluation...: 0.2310
+Best Test F1 after loading saved model: 0.2214
+Run: 1
+Best Test F1 throughout: 0.2095
+Loading best model for final evaluation...: 0.1905
+Best Test F1 after loading saved model: 0.1976
+Run: 2
+Best Test F1 throughout: 0.1857
+Loading best model for final evaluation...: 0.1738
+Best Test F1 after loading saved model: 0.1881
+Run: 3
+Best Test F1 throughout: 0.4929
+Loading best model for final evaluation...: 0.4952
+Best Test F1 after loading saved model: 0.4595
+Run: 4
+Best Test F1 throughout: 0.4167
+Loading best model for final evaluation...: 0.4810
+Best Test F1 after loading saved model: 0.3952
+Mean Std of Test F1 Score: 0.2924 +/- 0.1126
+------------------------end------------------------
+------------------------homophily:0.6------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7452
+Loading best model for final evaluation...: 0.7905
+Best Test F1 after loading saved model: 0.7476
+Run: 1
+Best Test F1 throughout: 0.7214
+Loading best model for final evaluation...: 0.7762
+Best Test F1 after loading saved model: 0.7310
+Run: 2
+Best Test F1 throughout: 0.7548
+Loading best model for final evaluation...: 0.7833
+Best Test F1 after loading saved model: 0.7333
+Run: 3
+Best Test F1 throughout: 0.7357
+Loading best model for final evaluation...: 0.7976
+Best Test F1 after loading saved model: 0.7381
+Run: 4
+Best Test F1 throughout: 0.7571
+Loading best model for final evaluation...: 0.8119
+Best Test F1 after loading saved model: 0.7476
+Mean Std of Test F1 Score: 0.7395 +/- 0.0070
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8024
+Loading best model for final evaluation...: 0.8476
+Best Test F1 after loading saved model: 0.7929
+Run: 1
+Best Test F1 throughout: 0.7667
+Loading best model for final evaluation...: 0.8167
+Best Test F1 after loading saved model: 0.7476
+Run: 2
+Best Test F1 throughout: 0.7857
+Loading best model for final evaluation...: 0.8381
+Best Test F1 after loading saved model: 0.7857
+Run: 3
+Best Test F1 throughout: 0.8119
+Loading best model for final evaluation...: 0.8571
+Best Test F1 after loading saved model: 0.8000
+Run: 4
+Best Test F1 throughout: 0.8167
+Loading best model for final evaluation...: 0.8643
+Best Test F1 after loading saved model: 0.8095
+Mean Std of Test F1 Score: 0.7871 +/- 0.0213
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8190
+Loading best model for final evaluation...: 0.8667
+Best Test F1 after loading saved model: 0.8143
+Run: 1
+Best Test F1 throughout: 0.8333
+Loading best model for final evaluation...: 0.8476
+Best Test F1 after loading saved model: 0.8333
+Run: 2
+Best Test F1 throughout: 0.8143
+Loading best model for final evaluation...: 0.8500
+Best Test F1 after loading saved model: 0.7929
+Run: 3
+Best Test F1 throughout: 0.8238
+Loading best model for final evaluation...: 0.8595
+Best Test F1 after loading saved model: 0.8119
+Run: 4
+Best Test F1 throughout: 0.8500
+Loading best model for final evaluation...: 0.8762
+Best Test F1 after loading saved model: 0.8381
+Mean Std of Test F1 Score: 0.8181 +/- 0.0163
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8786
+Loading best model for final evaluation...: 0.8929
+Best Test F1 after loading saved model: 0.8786
+Run: 1
+Best Test F1 throughout: 0.1952
+Loading best model for final evaluation...: 0.1810
+Best Test F1 after loading saved model: 0.1833
+Run: 2
+Best Test F1 throughout: 0.2571
+Loading best model for final evaluation...: 0.2429
+Best Test F1 after loading saved model: 0.2357
+Run: 3
+Best Test F1 throughout: 0.3476
+Loading best model for final evaluation...: 0.3357
+Best Test F1 after loading saved model: 0.3357
+Run: 4
+Best Test F1 throughout: 0.6119
+Loading best model for final evaluation...: 0.6476
+Best Test F1 after loading saved model: 0.6024
+Mean Std of Test F1 Score: 0.4471 +/- 0.2596
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2143
+Loading best model for final evaluation...: 0.1929
+Best Test F1 after loading saved model: 0.2190
+Run: 1
+Best Test F1 throughout: 0.2476
+Loading best model for final evaluation...: 0.2310
+Best Test F1 after loading saved model: 0.2452
+Run: 2
+Best Test F1 throughout: 0.2286
+Loading best model for final evaluation...: 0.1976
+Best Test F1 after loading saved model: 0.2143
+Run: 3
+Best Test F1 throughout: 0.1786
+Loading best model for final evaluation...: 0.1429
+Best Test F1 after loading saved model: 0.1643
+Run: 4
+Best Test F1 throughout: 0.2476
+Loading best model for final evaluation...: 0.2119
+Best Test F1 after loading saved model: 0.2500
+Mean Std of Test F1 Score: 0.2186 +/- 0.0305
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2286
+Loading best model for final evaluation...: 0.2095
+Best Test F1 after loading saved model: 0.2262
+Run: 1
+Best Test F1 throughout: 0.1738
+Loading best model for final evaluation...: 0.1452
+Best Test F1 after loading saved model: 0.1667
+Run: 2
+Best Test F1 throughout: 0.2643
+Loading best model for final evaluation...: 0.2310
+Best Test F1 after loading saved model: 0.2476
+Run: 3
+Best Test F1 throughout: 0.1762
+Loading best model for final evaluation...: 0.1381
+Best Test F1 after loading saved model: 0.1619
+Run: 4
+Best Test F1 throughout: 0.2190
+Loading best model for final evaluation...: 0.1857
+Best Test F1 after loading saved model: 0.2024
+Mean Std of Test F1 Score: 0.2010 +/- 0.0332
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3429
+Loading best model for final evaluation...: 0.3667
+Best Test F1 after loading saved model: 0.3381
+Run: 1
+Best Test F1 throughout: 0.2810
+Loading best model for final evaluation...: 0.2762
+Best Test F1 after loading saved model: 0.2667
+Run: 2
+Best Test F1 throughout: 0.2595
+Loading best model for final evaluation...: 0.2214
+Best Test F1 after loading saved model: 0.2548
+Run: 3
+Best Test F1 throughout: 0.2024
+Loading best model for final evaluation...: 0.1810
+Best Test F1 after loading saved model: 0.1929
+Run: 4
+Best Test F1 throughout: 0.2238
+Loading best model for final evaluation...: 0.1929
+Best Test F1 after loading saved model: 0.2143
+Mean Std of Test F1 Score: 0.2533 +/- 0.0501
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.2452
+Loading best model for final evaluation...: 0.2167
+Best Test F1 after loading saved model: 0.2476
+Run: 1
+Best Test F1 throughout: 0.2619
+Loading best model for final evaluation...: 0.2476
+Best Test F1 after loading saved model: 0.2548
+Run: 2
+Best Test F1 throughout: 0.2071
+Loading best model for final evaluation...: 0.1929
+Best Test F1 after loading saved model: 0.2048
+Run: 3
+Best Test F1 throughout: 0.2429
+Loading best model for final evaluation...: 0.2190
+Best Test F1 after loading saved model: 0.2333
+Run: 4
+Best Test F1 throughout: 0.3571
+Loading best model for final evaluation...: 0.3952
+Best Test F1 after loading saved model: 0.3500
+Mean Std of Test F1 Score: 0.2581 +/- 0.0490
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.3333
+Loading best model for final evaluation...: 0.3143
+Best Test F1 after loading saved model: 0.3238
+Run: 1
+Best Test F1 throughout: 0.2667
+Loading best model for final evaluation...: 0.2643
+Best Test F1 after loading saved model: 0.2643
+Run: 2
+Best Test F1 throughout: 0.3167
+Loading best model for final evaluation...: 0.3119
+Best Test F1 after loading saved model: 0.3024
+Run: 3
+Best Test F1 throughout: 0.6833
+Loading best model for final evaluation...: 0.7167
+Best Test F1 after loading saved model: 0.6810
+Run: 4
+Best Test F1 throughout: 0.3286
+Loading best model for final evaluation...: 0.3429
+Best Test F1 after loading saved model: 0.3214
+Mean Std of Test F1 Score: 0.3786 +/- 0.1527
+------------------------end------------------------
+------------------------homophily:0.7------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7833
+Loading best model for final evaluation...: 0.8238
+Best Test F1 after loading saved model: 0.7667
+Run: 1
+Best Test F1 throughout: 0.8048
+Loading best model for final evaluation...: 0.8357
+Best Test F1 after loading saved model: 0.7667
+Run: 2
+Best Test F1 throughout: 0.7738
+Loading best model for final evaluation...: 0.8429
+Best Test F1 after loading saved model: 0.7643
+Run: 3
+Best Test F1 throughout: 0.8048
+Loading best model for final evaluation...: 0.8548
+Best Test F1 after loading saved model: 0.8000
+Run: 4
+Best Test F1 throughout: 0.7833
+Loading best model for final evaluation...: 0.8333
+Best Test F1 after loading saved model: 0.7381
+Mean Std of Test F1 Score: 0.7671 +/- 0.0197
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8571
+Loading best model for final evaluation...: 0.8857
+Best Test F1 after loading saved model: 0.8333
+Run: 1
+Best Test F1 throughout: 0.8524
+Loading best model for final evaluation...: 0.8738
+Best Test F1 after loading saved model: 0.8238
+Run: 2
+Best Test F1 throughout: 0.8381
+Loading best model for final evaluation...: 0.8762
+Best Test F1 after loading saved model: 0.8167
+Run: 3
+Best Test F1 throughout: 0.8500
+Loading best model for final evaluation...: 0.8690
+Best Test F1 after loading saved model: 0.8500
+Run: 4
+Best Test F1 throughout: 0.8286
+Loading best model for final evaluation...: 0.8714
+Best Test F1 after loading saved model: 0.8190
+Mean Std of Test F1 Score: 0.8286 +/- 0.0121
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8405
+Loading best model for final evaluation...: 0.8738
+Best Test F1 after loading saved model: 0.8190
+Run: 1
+Best Test F1 throughout: 0.6548
+Loading best model for final evaluation...: 0.6548
+Best Test F1 after loading saved model: 0.6310
+Run: 2
+Best Test F1 throughout: 0.5048
+Loading best model for final evaluation...: 0.5452
+Best Test F1 after loading saved model: 0.4714
+Run: 3
+Best Test F1 throughout: 0.6619
+Loading best model for final evaluation...: 0.6905
+Best Test F1 after loading saved model: 0.6357
+Run: 4
+Best Test F1 throughout: 0.7857
+Loading best model for final evaluation...: 0.8381
+Best Test F1 after loading saved model: 0.7762
+Mean Std of Test F1 Score: 0.6667 +/- 0.1229
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4881
+Loading best model for final evaluation...: 0.5310
+Best Test F1 after loading saved model: 0.4738
+Run: 1
+Best Test F1 throughout: 0.4595
+Loading best model for final evaluation...: 0.5095
+Best Test F1 after loading saved model: 0.4500
+Run: 2
+Best Test F1 throughout: 0.3333
+Loading best model for final evaluation...: 0.3738
+Best Test F1 after loading saved model: 0.3167
+Run: 3
+Best Test F1 throughout: 0.4190
+Loading best model for final evaluation...: 0.4690
+Best Test F1 after loading saved model: 0.3976
+Run: 4
+Best Test F1 throughout: 0.3667
+Loading best model for final evaluation...: 0.3810
+Best Test F1 after loading saved model: 0.3452
+Mean Std of Test F1 Score: 0.3967 +/- 0.0597
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4738
+Loading best model for final evaluation...: 0.5119
+Best Test F1 after loading saved model: 0.4643
+Run: 1
+Best Test F1 throughout: 0.3238
+Loading best model for final evaluation...: 0.3643
+Best Test F1 after loading saved model: 0.2952
+Run: 2
+Best Test F1 throughout: 0.2905
+Loading best model for final evaluation...: 0.3143
+Best Test F1 after loading saved model: 0.2833
+Run: 3
+Best Test F1 throughout: 0.5429
+Loading best model for final evaluation...: 0.5857
+Best Test F1 after loading saved model: 0.5167
+Run: 4
+Best Test F1 throughout: 0.6048
+Loading best model for final evaluation...: 0.6333
+Best Test F1 after loading saved model: 0.5929
+Mean Std of Test F1 Score: 0.4305 +/- 0.1224
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.5667
+Loading best model for final evaluation...: 0.5833
+Best Test F1 after loading saved model: 0.5357
+Run: 1
+Best Test F1 throughout: 0.4190
+Loading best model for final evaluation...: 0.4714
+Best Test F1 after loading saved model: 0.3929
+Run: 2
+Best Test F1 throughout: 0.3476
+Loading best model for final evaluation...: 0.3619
+Best Test F1 after loading saved model: 0.3357
+Run: 3
+Best Test F1 throughout: 0.7262
+Loading best model for final evaluation...: 0.7405
+Best Test F1 after loading saved model: 0.7000
+Run: 4
+Best Test F1 throughout: 0.2952
+Loading best model for final evaluation...: 0.2881
+Best Test F1 after loading saved model: 0.2810
+Mean Std of Test F1 Score: 0.4490 +/- 0.1515
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8571
+Loading best model for final evaluation...: 0.8595
+Best Test F1 after loading saved model: 0.8214
+Run: 1
+Best Test F1 throughout: 0.6405
+Loading best model for final evaluation...: 0.6595
+Best Test F1 after loading saved model: 0.6286
+Run: 2
+Best Test F1 throughout: 0.6024
+Loading best model for final evaluation...: 0.6143
+Best Test F1 after loading saved model: 0.5929
+Run: 3
+Best Test F1 throughout: 0.6095
+Loading best model for final evaluation...: 0.6238
+Best Test F1 after loading saved model: 0.5786
+Run: 4
+Best Test F1 throughout: 0.3976
+Loading best model for final evaluation...: 0.3857
+Best Test F1 after loading saved model: 0.4048
+Mean Std of Test F1 Score: 0.6052 +/- 0.1329
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7071
+Loading best model for final evaluation...: 0.7310
+Best Test F1 after loading saved model: 0.6976
+Run: 1
+Best Test F1 throughout: 0.4357
+Loading best model for final evaluation...: 0.4857
+Best Test F1 after loading saved model: 0.4310
+Run: 2
+Best Test F1 throughout: 0.7167
+Loading best model for final evaluation...: 0.7190
+Best Test F1 after loading saved model: 0.6976
+Run: 3
+Best Test F1 throughout: 0.7476
+Loading best model for final evaluation...: 0.7714
+Best Test F1 after loading saved model: 0.7405
+Run: 4
+Best Test F1 throughout: 0.7190
+Loading best model for final evaluation...: 0.7143
+Best Test F1 after loading saved model: 0.7119
+Mean Std of Test F1 Score: 0.6557 +/- 0.1135
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.6429
+Loading best model for final evaluation...: 0.6524
+Best Test F1 after loading saved model: 0.6476
+Run: 1
+Best Test F1 throughout: 0.5476
+Loading best model for final evaluation...: 0.6024
+Best Test F1 after loading saved model: 0.5286
+Run: 2
+Best Test F1 throughout: 0.6167
+Loading best model for final evaluation...: 0.6310
+Best Test F1 after loading saved model: 0.6048
+Run: 3
+Best Test F1 throughout: 0.7524
+Loading best model for final evaluation...: 0.7690
+Best Test F1 after loading saved model: 0.7429
+Run: 4
+Best Test F1 throughout: 0.8000
+Loading best model for final evaluation...: 0.8119
+Best Test F1 after loading saved model: 0.7976
+Mean Std of Test F1 Score: 0.6643 +/- 0.0961
+------------------------end------------------------
+------------------------homophily:0.8------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8667
+Loading best model for final evaluation...: 0.8810
+Best Test F1 after loading saved model: 0.8524
+Run: 1
+Best Test F1 throughout: 0.8500
+Loading best model for final evaluation...: 0.8881
+Best Test F1 after loading saved model: 0.8429
+Run: 2
+Best Test F1 throughout: 0.8690
+Loading best model for final evaluation...: 0.8833
+Best Test F1 after loading saved model: 0.8595
+Run: 3
+Best Test F1 throughout: 0.8786
+Loading best model for final evaluation...: 0.8929
+Best Test F1 after loading saved model: 0.8524
+Run: 4
+Best Test F1 throughout: 0.8500
+Loading best model for final evaluation...: 0.8548
+Best Test F1 after loading saved model: 0.8381
+Mean Std of Test F1 Score: 0.8490 +/- 0.0076
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8833
+Loading best model for final evaluation...: 0.9119
+Best Test F1 after loading saved model: 0.8714
+Run: 1
+Best Test F1 throughout: 0.8595
+Loading best model for final evaluation...: 0.9000
+Best Test F1 after loading saved model: 0.8429
+Run: 2
+Best Test F1 throughout: 0.8881
+Loading best model for final evaluation...: 0.9024
+Best Test F1 after loading saved model: 0.8667
+Run: 3
+Best Test F1 throughout: 0.8548
+Loading best model for final evaluation...: 0.8881
+Best Test F1 after loading saved model: 0.8405
+Run: 4
+Best Test F1 throughout: 0.8262
+Loading best model for final evaluation...: 0.8357
+Best Test F1 after loading saved model: 0.8119
+Mean Std of Test F1 Score: 0.8467 +/- 0.0213
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8524
+Loading best model for final evaluation...: 0.8929
+Best Test F1 after loading saved model: 0.8500
+Run: 1
+Best Test F1 throughout: 0.8595
+Loading best model for final evaluation...: 0.8786
+Best Test F1 after loading saved model: 0.8286
+Run: 2
+Best Test F1 throughout: 0.8262
+Loading best model for final evaluation...: 0.8738
+Best Test F1 after loading saved model: 0.8262
+Run: 3
+Best Test F1 throughout: 0.9095
+Loading best model for final evaluation...: 0.9310
+Best Test F1 after loading saved model: 0.9024
+Run: 4
+Best Test F1 throughout: 0.8262
+Loading best model for final evaluation...: 0.8548
+Best Test F1 after loading saved model: 0.8286
+Mean Std of Test F1 Score: 0.8471 +/- 0.0289
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8762
+Loading best model for final evaluation...: 0.9024
+Best Test F1 after loading saved model: 0.8690
+Run: 1
+Best Test F1 throughout: 0.8714
+Loading best model for final evaluation...: 0.8929
+Best Test F1 after loading saved model: 0.8571
+Run: 2
+Best Test F1 throughout: 0.6310
+Loading best model for final evaluation...: 0.6690
+Best Test F1 after loading saved model: 0.6119
+Run: 3
+Best Test F1 throughout: 0.9000
+Loading best model for final evaluation...: 0.9262
+Best Test F1 after loading saved model: 0.8833
+Run: 4
+Best Test F1 throughout: 0.8476
+Loading best model for final evaluation...: 0.8524
+Best Test F1 after loading saved model: 0.8238
+Mean Std of Test F1 Score: 0.8090 +/- 0.1005
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7810
+Loading best model for final evaluation...: 0.7833
+Best Test F1 after loading saved model: 0.7619
+Run: 1
+Best Test F1 throughout: 0.7405
+Loading best model for final evaluation...: 0.7643
+Best Test F1 after loading saved model: 0.7238
+Run: 2
+Best Test F1 throughout: 0.6357
+Loading best model for final evaluation...: 0.6738
+Best Test F1 after loading saved model: 0.6119
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 4
+Best Test F1 throughout: 0.8167
+Loading best model for final evaluation...: 0.8262
+Best Test F1 after loading saved model: 0.7857
+Mean Std of Test F1 Score: 0.7605 +/- 0.0992
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8619
+Loading best model for final evaluation...: 0.8738
+Best Test F1 after loading saved model: 0.8524
+Run: 1
+Best Test F1 throughout: 0.8595
+Loading best model for final evaluation...: 0.8714
+Best Test F1 after loading saved model: 0.8524
+Run: 2
+Best Test F1 throughout: 0.8643
+Loading best model for final evaluation...: 0.8881
+Best Test F1 after loading saved model: 0.8429
+Run: 3
+Best Test F1 throughout: 0.8833
+Loading best model for final evaluation...: 0.9143
+Best Test F1 after loading saved model: 0.8667
+Run: 4
+Best Test F1 throughout: 0.9024
+Loading best model for final evaluation...: 0.9262
+Best Test F1 after loading saved model: 0.8929
+Mean Std of Test F1 Score: 0.8614 +/- 0.0175
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9119
+Loading best model for final evaluation...: 0.9310
+Best Test F1 after loading saved model: 0.9095
+Run: 1
+Best Test F1 throughout: 0.8548
+Loading best model for final evaluation...: 0.8762
+Best Test F1 after loading saved model: 0.8524
+Run: 2
+Best Test F1 throughout: 0.9071
+Loading best model for final evaluation...: 0.9286
+Best Test F1 after loading saved model: 0.9024
+Run: 3
+Best Test F1 throughout: 0.9143
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9071
+Run: 4
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9167
+Mean Std of Test F1 Score: 0.8976 +/- 0.0231
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8762
+Loading best model for final evaluation...: 0.9024
+Best Test F1 after loading saved model: 0.8738
+Run: 1
+Best Test F1 throughout: 0.9024
+Loading best model for final evaluation...: 0.9214
+Best Test F1 after loading saved model: 0.8976
+Run: 2
+Best Test F1 throughout: 0.8619
+Loading best model for final evaluation...: 0.8833
+Best Test F1 after loading saved model: 0.8571
+Run: 3
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9167
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Mean Std of Test F1 Score: 0.8929 +/- 0.0241
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9190
+Run: 1
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9167
+Run: 2
+Best Test F1 throughout: 0.8857
+Loading best model for final evaluation...: 0.9143
+Best Test F1 after loading saved model: 0.8786
+Run: 3
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Mean Std of Test F1 Score: 0.9105 +/- 0.0160
+------------------------end------------------------
+------------------------homophily:0.9------------------------
+0.1
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9143
+Run: 1
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9310
+Best Test F1 after loading saved model: 0.9167
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9143
+Run: 3
+Best Test F1 throughout: 0.9024
+Loading best model for final evaluation...: 0.9190
+Best Test F1 after loading saved model: 0.8952
+Run: 4
+Best Test F1 throughout: 0.9095
+Loading best model for final evaluation...: 0.9190
+Best Test F1 after loading saved model: 0.9000
+Mean Std of Test F1 Score: 0.9081 +/- 0.0087
+0.2
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9167
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Mean Std of Test F1 Score: 0.9186 +/- 0.0010
+0.3
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9210 +/- 0.0010
+0.4
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Mean Std of Test F1 Score: 0.9205 +/- 0.0012
+0.5
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+0.6
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+0.7
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+0.8
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+0.9
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+------------------------end------------------------
+learned
+Cora
+------------------------homophily:0.1------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.1143
+Loading best model for final evaluation...: 0.1333
+Best Test F1 after loading saved model: 0.1143
+Run: 1
+Best Test F1 throughout: 0.1286
+Loading best model for final evaluation...: 0.1333
+Best Test F1 after loading saved model: 0.1286
+Run: 2
+Best Test F1 throughout: 0.1452
+Loading best model for final evaluation...: 0.1595
+Best Test F1 after loading saved model: 0.1452
+Run: 3
+Best Test F1 throughout: 0.1548
+Loading best model for final evaluation...: 0.1524
+Best Test F1 after loading saved model: 0.1548
+Run: 4
+Best Test F1 throughout: 0.1333
+Loading best model for final evaluation...: 0.1381
+Best Test F1 after loading saved model: 0.1333
+Mean Std of Test F1 Score: 0.1352 +/- 0.0139
+------------------------end------------------------
+------------------------homophily:0.2------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.4929
+Loading best model for final evaluation...: 0.5357
+Best Test F1 after loading saved model: 0.4929
+Run: 1
+Best Test F1 throughout: 0.4738
+Loading best model for final evaluation...: 0.5238
+Best Test F1 after loading saved model: 0.4714
+Run: 2
+Best Test F1 throughout: 0.4881
+Loading best model for final evaluation...: 0.5238
+Best Test F1 after loading saved model: 0.4714
+Run: 3
+Best Test F1 throughout: 0.4571
+Loading best model for final evaluation...: 0.5071
+Best Test F1 after loading saved model: 0.4500
+Run: 4
+Best Test F1 throughout: 0.4690
+Loading best model for final evaluation...: 0.5262
+Best Test F1 after loading saved model: 0.4524
+Mean Std of Test F1 Score: 0.4676 +/- 0.0155
+------------------------end------------------------
+------------------------homophily:0.3------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 52500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.7071
+Loading best model for final evaluation...: 0.7762
+Best Test F1 after loading saved model: 0.7048
+Run: 1
+Best Test F1 throughout: 0.6762
+Loading best model for final evaluation...: 0.7643
+Best Test F1 after loading saved model: 0.6667
+Run: 2
+Best Test F1 throughout: 0.7548
+Loading best model for final evaluation...: 0.7905
+Best Test F1 after loading saved model: 0.7548
+Run: 3
+Best Test F1 throughout: 0.7095
+Loading best model for final evaluation...: 0.7595
+Best Test F1 after loading saved model: 0.7095
+Run: 4
+Best Test F1 throughout: 0.7095
+Loading best model for final evaluation...: 0.7762
+Best Test F1 after loading saved model: 0.7095
+Mean Std of Test F1 Score: 0.7090 +/- 0.0279
+------------------------end------------------------
+------------------------homophily:0.4------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 47250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8214
+Loading best model for final evaluation...: 0.8571
+Best Test F1 after loading saved model: 0.8190
+Run: 1
+Best Test F1 throughout: 0.8262
+Loading best model for final evaluation...: 0.8595
+Best Test F1 after loading saved model: 0.8143
+Run: 2
+Best Test F1 throughout: 0.8333
+Loading best model for final evaluation...: 0.8619
+Best Test F1 after loading saved model: 0.8238
+Run: 3
+Best Test F1 throughout: 0.8214
+Loading best model for final evaluation...: 0.8595
+Best Test F1 after loading saved model: 0.8214
+Run: 4
+Best Test F1 throughout: 0.8262
+Loading best model for final evaluation...: 0.8595
+Best Test F1 after loading saved model: 0.8238
+Mean Std of Test F1 Score: 0.8205 +/- 0.0036
+------------------------end------------------------
+------------------------homophily:0.5------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 42000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.8810
+Loading best model for final evaluation...: 0.9000
+Best Test F1 after loading saved model: 0.8810
+Run: 1
+Best Test F1 throughout: 0.8929
+Loading best model for final evaluation...: 0.9095
+Best Test F1 after loading saved model: 0.8881
+Run: 2
+Best Test F1 throughout: 0.9024
+Loading best model for final evaluation...: 0.9214
+Best Test F1 after loading saved model: 0.8976
+Run: 3
+Best Test F1 throughout: 0.8881
+Loading best model for final evaluation...: 0.9095
+Best Test F1 after loading saved model: 0.8833
+Run: 4
+Best Test F1 throughout: 0.8952
+Loading best model for final evaluation...: 0.9214
+Best Test F1 after loading saved model: 0.8905
+Mean Std of Test F1 Score: 0.8881 +/- 0.0058
+------------------------end------------------------
+------------------------homophily:0.6------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 36750], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9190
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9190
+Run: 2
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9190
+Run: 3
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9190
+Run: 4
+Best Test F1 throughout: 0.9190
+Loading best model for final evaluation...: 0.9333
+Best Test F1 after loading saved model: 0.9190
+Mean Std of Test F1 Score: 0.9190 +/- 0.0000
+------------------------end------------------------
+------------------------homophily:0.7------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 31500], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+------------------------end------------------------
+------------------------homophily:0.8------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 26250], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+------------------------end------------------------
+------------------------homophily:0.9------------------------
+1.0
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+N  2708  E  10556  d  3.8980797636632203 0.825157880783081 0.8099659085273743 0.7657181620597839 -0.06587088108062744 d=10.0000 Hn=0.0000 He=0.0000 Hin=0.0000 a=nan c= [0, 1, 2, 3, 4, 5, 6] [180, 180, 180, 180, 180, 180, 180] #c=0.2000 Synethtic
+Data(x=[1050, 8710], edge_index=[2, 21000], y=[1050], num_nodes=1050, train_mask=[1050], val_mask=[1050], test_mask=[1050])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 1
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 2
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 3
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Run: 4
+Best Test F1 throughout: 0.9214
+Loading best model for final evaluation...: 0.9357
+Best Test F1 after loading saved model: 0.9214
+Mean Std of Test F1 Score: 0.9214 +/- 0.0000
+------------------------end------------------------

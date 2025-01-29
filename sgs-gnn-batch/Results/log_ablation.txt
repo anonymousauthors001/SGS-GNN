@@ -1,0 +1,1887 @@
+learned
+---------SmallCora--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0141
+Iteration:  470
+Best Test F1 throughout: 0.7640
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7490
+Run: 1
+Mean epoch time of run 0.0124
+Iteration:  375
+Best Test F1 throughout: 0.7500
+Loading best model for final evaluation at val: 0.7400
+Best Test F1 after loading saved model: 0.7380
+Run: 2
+Mean epoch time of run 0.0126
+Iteration:  484
+Best Test F1 throughout: 0.7590
+Loading best model for final evaluation at val: 0.7520
+Best Test F1 after loading saved model: 0.7460
+Run: 3
+Mean epoch time of run 0.0131
+Iteration:  416
+Best Test F1 throughout: 0.7580
+Loading best model for final evaluation at val: 0.7440
+Best Test F1 after loading saved model: 0.7530
+Run: 4
+Mean epoch time of run 0.0125
+Iteration:  500
+Best Test F1 throughout: 0.7600
+Loading best model for final evaluation at val: 0.7440
+Best Test F1 after loading saved model: 0.7410
+---------------Stats-----------
+Mean training epoch runtime: 0.0129
+Mean Std of Best Test we could do F1 Score: 0.7582 +/- 0.0046
+Mean Std of Test at best Val F1 Score: 0.7476 +/- 0.0050
+Mean Std of Loaded best Val model Test F1 Score: 0.7454 +/- 0.0054
+Mean convergence number: 449.0000 +/- 46.5446, [470, 375, 484, 416, 500]
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0135
+Iteration:  500
+Best Test F1 throughout: 0.7690
+Loading best model for final evaluation at val: 0.7660
+Best Test F1 after loading saved model: 0.7520
+Run: 1
+Mean epoch time of run 0.0128
+Iteration:  500
+Best Test F1 throughout: 0.7590
+Loading best model for final evaluation at val: 0.7580
+Best Test F1 after loading saved model: 0.7420
+Run: 2
+Mean epoch time of run 0.0129
+Iteration:  500
+Best Test F1 throughout: 0.7670
+Loading best model for final evaluation at val: 0.7540
+Best Test F1 after loading saved model: 0.7480
+Run: 3
+Mean epoch time of run 0.0133
+Iteration:  500
+Best Test F1 throughout: 0.7720
+Loading best model for final evaluation at val: 0.7620
+Best Test F1 after loading saved model: 0.7630
+Run: 4
+Mean epoch time of run 0.0127
+Iteration:  500
+Best Test F1 throughout: 0.7620
+Loading best model for final evaluation at val: 0.7540
+Best Test F1 after loading saved model: 0.7520
+---------------Stats-----------
+Mean training epoch runtime: 0.0130
+Mean Std of Best Test we could do F1 Score: 0.7658 +/- 0.0047
+Mean Std of Test at best Val F1 Score: 0.7538 +/- 0.0076
+Mean Std of Loaded best Val model Test F1 Score: 0.7514 +/- 0.0069
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GCN------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0113
+Iteration:  500
+Best Test F1 throughout: 0.7650
+Loading best model for final evaluation at val: 0.7560
+Best Test F1 after loading saved model: 0.7540
+Run: 1
+Mean epoch time of run 0.0111
+Iteration:  500
+Best Test F1 throughout: 0.7600
+Loading best model for final evaluation at val: 0.7380
+Best Test F1 after loading saved model: 0.7450
+Run: 2
+Mean epoch time of run 0.0104
+Iteration:  500
+Best Test F1 throughout: 0.7620
+Loading best model for final evaluation at val: 0.7600
+Best Test F1 after loading saved model: 0.7620
+Run: 3
+Mean epoch time of run 0.0103
+Iteration:  500
+Best Test F1 throughout: 0.7600
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7340
+Run: 4
+Mean epoch time of run 0.0110
+Iteration:  500
+Best Test F1 throughout: 0.7430
+Loading best model for final evaluation at val: 0.7400
+Best Test F1 after loading saved model: 0.7210
+---------------Stats-----------
+Mean training epoch runtime: 0.0108
+Mean Std of Best Test we could do F1 Score: 0.7580 +/- 0.0077
+Mean Std of Test at best Val F1 Score: 0.7438 +/- 0.0095
+Mean Std of Loaded best Val model Test F1 Score: 0.7432 +/- 0.0145
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0116
+Iteration:  500
+Best Test F1 throughout: 0.7840
+Loading best model for final evaluation at val: 0.7660
+Best Test F1 after loading saved model: 0.7580
+Run: 1
+Mean epoch time of run 0.0113
+Iteration:  500
+Best Test F1 throughout: 0.7660
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7490
+Run: 2
+Mean epoch time of run 0.0114
+Iteration:  500
+Best Test F1 throughout: 0.7710
+Loading best model for final evaluation at val: 0.7580
+Best Test F1 after loading saved model: 0.7620
+Run: 3
+Mean epoch time of run 0.0107
+Iteration:  500
+Best Test F1 throughout: 0.7750
+Loading best model for final evaluation at val: 0.7700
+Best Test F1 after loading saved model: 0.7480
+Run: 4
+Mean epoch time of run 0.0105
+Iteration:  500
+Best Test F1 throughout: 0.7790
+Loading best model for final evaluation at val: 0.7720
+Best Test F1 after loading saved model: 0.7640
+---------------Stats-----------
+Mean training epoch runtime: 0.0111
+Mean Std of Best Test we could do F1 Score: 0.7750 +/- 0.0062
+Mean Std of Test at best Val F1 Score: 0.7644 +/- 0.0051
+Mean Std of Loaded best Val model Test F1 Score: 0.7562 +/- 0.0066
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GSAGE------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0115
+Iteration:  318
+Best Test F1 throughout: 0.7560
+Loading best model for final evaluation at val: 0.7380
+Best Test F1 after loading saved model: 0.7460
+Run: 1
+Mean epoch time of run 0.0106
+Iteration:  389
+Best Test F1 throughout: 0.7540
+Loading best model for final evaluation at val: 0.7420
+Best Test F1 after loading saved model: 0.7380
+Run: 2
+Mean epoch time of run 0.0106
+Iteration:  500
+Best Test F1 throughout: 0.7640
+Loading best model for final evaluation at val: 0.7520
+Best Test F1 after loading saved model: 0.7620
+Run: 3
+Mean epoch time of run 0.0114
+Iteration:  464
+Best Test F1 throughout: 0.7540
+Loading best model for final evaluation at val: 0.7360
+Best Test F1 after loading saved model: 0.7480
+Run: 4
+Mean epoch time of run 0.0110
+Iteration:  325
+Best Test F1 throughout: 0.7630
+Loading best model for final evaluation at val: 0.7300
+Best Test F1 after loading saved model: 0.7620
+---------------Stats-----------
+Mean training epoch runtime: 0.0110
+Mean Std of Best Test we could do F1 Score: 0.7582 +/- 0.0044
+Mean Std of Test at best Val F1 Score: 0.7472 +/- 0.0106
+Mean Std of Loaded best Val model Test F1 Score: 0.7512 +/- 0.0094
+Mean convergence number: 399.2000 +/- 72.8873, [318, 389, 500, 464, 325]
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0124
+Iteration:  500
+Best Test F1 throughout: 0.7740
+Loading best model for final evaluation at val: 0.7540
+Best Test F1 after loading saved model: 0.7520
+Run: 1
+Mean epoch time of run 0.0113
+Iteration:  500
+Best Test F1 throughout: 0.7660
+Loading best model for final evaluation at val: 0.7640
+Best Test F1 after loading saved model: 0.7540
+Run: 2
+Mean epoch time of run 0.0115
+Iteration:  500
+Best Test F1 throughout: 0.7830
+Loading best model for final evaluation at val: 0.7580
+Best Test F1 after loading saved model: 0.7770
+Run: 3
+Mean epoch time of run 0.0109
+Iteration:  238
+Best Test F1 throughout: 0.7710
+Loading best model for final evaluation at val: 0.7520
+Best Test F1 after loading saved model: 0.7660
+Run: 4
+Mean epoch time of run 0.0116
+Iteration:  500
+Best Test F1 throughout: 0.7800
+Loading best model for final evaluation at val: 0.7560
+Best Test F1 after loading saved model: 0.7680
+---------------Stats-----------
+Mean training epoch runtime: 0.0115
+Mean Std of Best Test we could do F1 Score: 0.7748 +/- 0.0061
+Mean Std of Test at best Val F1 Score: 0.7636 +/- 0.0082
+Mean Std of Loaded best Val model Test F1 Score: 0.7634 +/- 0.0093
+Mean convergence number: 447.6000 +/- 104.8000, [500, 500, 500, 238, 500]
+-------------------------------
+------GNN----GAT------
+----EdgeGNN---MLP------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0137
+Iteration:  500
+Best Test F1 throughout: 0.8000
+Loading best model for final evaluation at val: 0.7660
+Best Test F1 after loading saved model: 0.7790
+Run: 1
+Mean epoch time of run 0.0128
+Iteration:  500
+Best Test F1 throughout: 0.7720
+Loading best model for final evaluation at val: 0.7540
+Best Test F1 after loading saved model: 0.7590
+Run: 2
+Mean epoch time of run 0.0129
+Iteration:  500
+Best Test F1 throughout: 0.7760
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7420
+Run: 3
+Mean epoch time of run 0.0131
+Iteration:  500
+Best Test F1 throughout: 0.7870
+Loading best model for final evaluation at val: 0.7560
+Best Test F1 after loading saved model: 0.7750
+Run: 4
+Mean epoch time of run 0.0130
+Iteration:  500
+Best Test F1 throughout: 0.7510
+Loading best model for final evaluation at val: 0.7320
+Best Test F1 after loading saved model: 0.7330
+---------------Stats-----------
+Mean training epoch runtime: 0.0131
+Mean Std of Best Test we could do F1 Score: 0.7772 +/- 0.0163
+Mean Std of Test at best Val F1 Score: 0.7602 +/- 0.0186
+Mean Std of Loaded best Val model Test F1 Score: 0.7576 +/- 0.0180
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0138
+Iteration:  500
+Best Test F1 throughout: 0.7950
+Loading best model for final evaluation at val: 0.7760
+Best Test F1 after loading saved model: 0.7900
+Run: 1
+Mean epoch time of run 0.0128
+Iteration:  500
+Best Test F1 throughout: 0.7000
+Loading best model for final evaluation at val: 0.6720
+Best Test F1 after loading saved model: 0.6910
+Run: 2
+Mean epoch time of run 0.0128
+Iteration:  500
+Best Test F1 throughout: 0.7650
+Loading best model for final evaluation at val: 0.7540
+Best Test F1 after loading saved model: 0.7360
+Run: 3
+Mean epoch time of run 0.0127
+Iteration:  500
+Best Test F1 throughout: 0.7770
+Loading best model for final evaluation at val: 0.7520
+Best Test F1 after loading saved model: 0.7480
+Run: 4
+Mean epoch time of run 0.0127
+Iteration:  500
+Best Test F1 throughout: 0.7520
+Loading best model for final evaluation at val: 0.7240
+Best Test F1 after loading saved model: 0.7350
+---------------Stats-----------
+Mean training epoch runtime: 0.0130
+Mean Std of Best Test we could do F1 Score: 0.7578 +/- 0.0322
+Mean Std of Test at best Val F1 Score: 0.7416 +/- 0.0301
+Mean Std of Loaded best Val model Test F1 Score: 0.7400 +/- 0.0316
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GCN------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0115
+Iteration:  500
+Best Test F1 throughout: 0.7830
+Loading best model for final evaluation at val: 0.7720
+Best Test F1 after loading saved model: 0.7830
+Run: 1
+Mean epoch time of run 0.0106
+Iteration:  500
+Best Test F1 throughout: 0.7750
+Loading best model for final evaluation at val: 0.7640
+Best Test F1 after loading saved model: 0.7520
+Run: 2
+Mean epoch time of run 0.0107
+Iteration:  500
+Best Test F1 throughout: 0.7720
+Loading best model for final evaluation at val: 0.7460
+Best Test F1 after loading saved model: 0.7560
+Run: 3
+Mean epoch time of run 0.0120
+Iteration:  500
+Best Test F1 throughout: 0.7920
+Loading best model for final evaluation at val: 0.7740
+Best Test F1 after loading saved model: 0.7730
+Run: 4
+Mean epoch time of run 0.0115
+Iteration:  500
+Best Test F1 throughout: 0.7870
+Loading best model for final evaluation at val: 0.7740
+Best Test F1 after loading saved model: 0.7780
+---------------Stats-----------
+Mean training epoch runtime: 0.0113
+Mean Std of Best Test we could do F1 Score: 0.7818 +/- 0.0074
+Mean Std of Test at best Val F1 Score: 0.7668 +/- 0.0117
+Mean Std of Loaded best Val model Test F1 Score: 0.7684 +/- 0.0122
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0124
+Iteration:  500
+Best Test F1 throughout: 0.7900
+Loading best model for final evaluation at val: 0.7680
+Best Test F1 after loading saved model: 0.7840
+Run: 1
+Mean epoch time of run 0.0112
+Iteration:  500
+Best Test F1 throughout: 0.7750
+Loading best model for final evaluation at val: 0.7700
+Best Test F1 after loading saved model: 0.7750
+Run: 2
+Mean epoch time of run 0.0123
+Iteration:  500
+Best Test F1 throughout: 0.7820
+Loading best model for final evaluation at val: 0.7600
+Best Test F1 after loading saved model: 0.7640
+Run: 3
+Mean epoch time of run 0.0114
+Iteration:  500
+Best Test F1 throughout: 0.7150
+Loading best model for final evaluation at val: 0.6760
+Best Test F1 after loading saved model: 0.7090
+Run: 4
+Mean epoch time of run 0.0110
+Iteration:  500
+Best Test F1 throughout: 0.7850
+Loading best model for final evaluation at val: 0.7620
+Best Test F1 after loading saved model: 0.7610
+---------------Stats-----------
+Mean training epoch runtime: 0.0117
+Mean Std of Best Test we could do F1 Score: 0.7694 +/- 0.0276
+Mean Std of Test at best Val F1 Score: 0.7506 +/- 0.0221
+Mean Std of Loaded best Val model Test F1 Score: 0.7586 +/- 0.0261
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GSAGE------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0115
+Iteration:  500
+Best Test F1 throughout: 0.7850
+Loading best model for final evaluation at val: 0.7640
+Best Test F1 after loading saved model: 0.7710
+Run: 1
+Mean epoch time of run 0.0113
+Iteration:  500
+Best Test F1 throughout: 0.7650
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7520
+Run: 2
+Mean epoch time of run 0.0111
+Iteration:  500
+Best Test F1 throughout: 0.7790
+Loading best model for final evaluation at val: 0.7400
+Best Test F1 after loading saved model: 0.7720
+Run: 3
+Mean epoch time of run 0.0109
+Iteration:  500
+Best Test F1 throughout: 0.7870
+Loading best model for final evaluation at val: 0.7560
+Best Test F1 after loading saved model: 0.7570
+Run: 4
+Mean epoch time of run 0.0105
+Iteration:  500
+Best Test F1 throughout: 0.7830
+Loading best model for final evaluation at val: 0.7640
+Best Test F1 after loading saved model: 0.7730
+---------------Stats-----------
+Mean training epoch runtime: 0.0111
+Mean Std of Best Test we could do F1 Score: 0.7798 +/- 0.0079
+Mean Std of Test at best Val F1 Score: 0.7674 +/- 0.0129
+Mean Std of Loaded best Val model Test F1 Score: 0.7650 +/- 0.0087
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0128
+Iteration:  500
+Best Test F1 throughout: 0.7370
+Loading best model for final evaluation at val: 0.7040
+Best Test F1 after loading saved model: 0.7280
+Run: 1
+Mean epoch time of run 0.0110
+Iteration:  500
+Best Test F1 throughout: 0.7290
+Loading best model for final evaluation at val: 0.7020
+Best Test F1 after loading saved model: 0.7080
+Run: 2
+Mean epoch time of run 0.0121
+Iteration:  500
+Best Test F1 throughout: 0.7720
+Loading best model for final evaluation at val: 0.7300
+Best Test F1 after loading saved model: 0.7480
+Run: 3
+Mean epoch time of run 0.0121
+Iteration:  500
+Best Test F1 throughout: 0.7710
+Loading best model for final evaluation at val: 0.7340
+Best Test F1 after loading saved model: 0.7590
+Run: 4
+Mean epoch time of run 0.0109
+Iteration:  500
+Best Test F1 throughout: 0.7780
+Loading best model for final evaluation at val: 0.7560
+Best Test F1 after loading saved model: 0.7670
+---------------Stats-----------
+Mean training epoch runtime: 0.0118
+Mean Std of Best Test we could do F1 Score: 0.7574 +/- 0.0202
+Mean Std of Test at best Val F1 Score: 0.7476 +/- 0.0205
+Mean Std of Loaded best Val model Test F1 Score: 0.7420 +/- 0.0215
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+---------end--------------
+---------Cora--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2433
+Iteration:  500
+Best Test F1 throughout: 0.6418
+Loading best model for final evaluation at val: 0.6396
+Best Test F1 after loading saved model: 0.6380
+Run: 1
+Mean epoch time of run 0.2430
+Iteration:  500
+Best Test F1 throughout: 0.6420
+Loading best model for final evaluation at val: 0.6399
+Best Test F1 after loading saved model: 0.6411
+Run: 2
+Mean epoch time of run 0.2428
+Iteration:  500
+Best Test F1 throughout: 0.6380
+Loading best model for final evaluation at val: 0.6384
+Best Test F1 after loading saved model: 0.6353
+Run: 3
+Mean epoch time of run 0.2410
+Iteration:  500
+Best Test F1 throughout: 0.6452
+Loading best model for final evaluation at val: 0.6432
+Best Test F1 after loading saved model: 0.6440
+Run: 4
+Mean epoch time of run 0.2428
+Iteration:  500
+Best Test F1 throughout: 0.6365
+Loading best model for final evaluation at val: 0.6353
+Best Test F1 after loading saved model: 0.6322
+---------------Stats-----------
+Mean training epoch runtime: 0.2426
+Mean Std of Best Test we could do F1 Score: 0.6407 +/- 0.0031
+Mean Std of Test at best Val F1 Score: 0.6385 +/- 0.0029
+Mean Std of Loaded best Val model Test F1 Score: 0.6381 +/- 0.0041
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2451
+Iteration:  500
+Best Test F1 throughout: 0.6518
+Loading best model for final evaluation at val: 0.6523
+Best Test F1 after loading saved model: 0.6462
+Run: 1
+Mean epoch time of run 0.2429
+Iteration:  500
+Best Test F1 throughout: 0.6586
+Loading best model for final evaluation at val: 0.6521
+Best Test F1 after loading saved model: 0.6504
+Run: 2
+Mean epoch time of run 0.2428
+Iteration:  500
+Best Test F1 throughout: 0.6528
+Loading best model for final evaluation at val: 0.6538
+Best Test F1 after loading saved model: 0.6483
+Run: 3
+Mean epoch time of run 0.2431
+Iteration:  500
+Best Test F1 throughout: 0.6529
+Loading best model for final evaluation at val: 0.6526
+Best Test F1 after loading saved model: 0.6454
+Run: 4
+Mean epoch time of run 0.2442
+Iteration:  500
+Best Test F1 throughout: 0.6505
+Loading best model for final evaluation at val: 0.6504
+Best Test F1 after loading saved model: 0.6436
+---------------Stats-----------
+Mean training epoch runtime: 0.2436
+Mean Std of Best Test we could do F1 Score: 0.6533 +/- 0.0028
+Mean Std of Test at best Val F1 Score: 0.6473 +/- 0.0039
+Mean Std of Loaded best Val model Test F1 Score: 0.6468 +/- 0.0024
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GCN------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0695
+Iteration:  500
+Best Test F1 throughout: 0.6575
+Loading best model for final evaluation at val: 0.6553
+Best Test F1 after loading saved model: 0.6556
+Run: 1
+Mean epoch time of run 0.0688
+Iteration:  500
+Best Test F1 throughout: 0.6550
+Loading best model for final evaluation at val: 0.6529
+Best Test F1 after loading saved model: 0.6529
+Run: 2
+Mean epoch time of run 0.0686
+Iteration:  500
+Best Test F1 throughout: 0.6572
+Loading best model for final evaluation at val: 0.6557
+Best Test F1 after loading saved model: 0.6528
+Run: 3
+Mean epoch time of run 0.0688
+Iteration:  500
+Best Test F1 throughout: 0.6582
+Loading best model for final evaluation at val: 0.6540
+Best Test F1 after loading saved model: 0.6538
+Run: 4
+Mean epoch time of run 0.0687
+Iteration:  500
+Best Test F1 throughout: 0.6548
+Loading best model for final evaluation at val: 0.6540
+Best Test F1 after loading saved model: 0.6516
+---------------Stats-----------
+Mean training epoch runtime: 0.0689
+Mean Std of Best Test we could do F1 Score: 0.6566 +/- 0.0014
+Mean Std of Test at best Val F1 Score: 0.6545 +/- 0.0028
+Mean Std of Loaded best Val model Test F1 Score: 0.6533 +/- 0.0013
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0706
+Iteration:  500
+Best Test F1 throughout: 0.6665
+Loading best model for final evaluation at val: 0.6619
+Best Test F1 after loading saved model: 0.6586
+Run: 1
+Mean epoch time of run 0.0695
+Iteration:  500
+Best Test F1 throughout: 0.6620
+Loading best model for final evaluation at val: 0.6583
+Best Test F1 after loading saved model: 0.6606
+Run: 2
+Mean epoch time of run 0.0692
+Iteration:  500
+Best Test F1 throughout: 0.6630
+Loading best model for final evaluation at val: 0.6600
+Best Test F1 after loading saved model: 0.6591
+Run: 3
+Mean epoch time of run 0.0695
+Iteration:  500
+Best Test F1 throughout: 0.6618
+Loading best model for final evaluation at val: 0.6580
+Best Test F1 after loading saved model: 0.6576
+Run: 4
+Mean epoch time of run 0.0692
+Iteration:  500
+Best Test F1 throughout: 0.6598
+Loading best model for final evaluation at val: 0.6606
+Best Test F1 after loading saved model: 0.6545
+---------------Stats-----------
+Mean training epoch runtime: 0.0696
+Mean Std of Best Test we could do F1 Score: 0.6626 +/- 0.0022
+Mean Std of Test at best Val F1 Score: 0.6571 +/- 0.0024
+Mean Std of Loaded best Val model Test F1 Score: 0.6581 +/- 0.0021
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GSAGE------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0930
+Iteration:  500
+Best Test F1 throughout: 0.6384
+Loading best model for final evaluation at val: 0.6338
+Best Test F1 after loading saved model: 0.6374
+Run: 1
+Mean epoch time of run 0.0921
+Iteration:  500
+Best Test F1 throughout: 0.6367
+Loading best model for final evaluation at val: 0.6358
+Best Test F1 after loading saved model: 0.6365
+Run: 2
+Mean epoch time of run 0.0916
+Iteration:  500
+Best Test F1 throughout: 0.6372
+Loading best model for final evaluation at val: 0.6345
+Best Test F1 after loading saved model: 0.6324
+Run: 3
+Mean epoch time of run 0.0920
+Iteration:  500
+Best Test F1 throughout: 0.6370
+Loading best model for final evaluation at val: 0.6365
+Best Test F1 after loading saved model: 0.6367
+Run: 4
+Mean epoch time of run 0.0910
+Iteration:  500
+Best Test F1 throughout: 0.6358
+Loading best model for final evaluation at val: 0.6353
+Best Test F1 after loading saved model: 0.6354
+---------------Stats-----------
+Mean training epoch runtime: 0.0919
+Mean Std of Best Test we could do F1 Score: 0.6370 +/- 0.0009
+Mean Std of Test at best Val F1 Score: 0.6346 +/- 0.0015
+Mean Std of Loaded best Val model Test F1 Score: 0.6357 +/- 0.0018
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0943
+Iteration:  500
+Best Test F1 throughout: 0.6518
+Loading best model for final evaluation at val: 0.6491
+Best Test F1 after loading saved model: 0.6490
+Run: 1
+Mean epoch time of run 0.0934
+Iteration:  500
+Best Test F1 throughout: 0.6492
+Loading best model for final evaluation at val: 0.6467
+Best Test F1 after loading saved model: 0.6430
+Run: 2
+Mean epoch time of run 0.0936
+Iteration:  500
+Best Test F1 throughout: 0.6509
+Loading best model for final evaluation at val: 0.6510
+Best Test F1 after loading saved model: 0.6498
+Run: 3
+Mean epoch time of run 0.0935
+Iteration:  500
+Best Test F1 throughout: 0.6522
+Loading best model for final evaluation at val: 0.6496
+Best Test F1 after loading saved model: 0.6462
+Run: 4
+Mean epoch time of run 0.0926
+Iteration:  500
+Best Test F1 throughout: 0.6521
+Loading best model for final evaluation at val: 0.6510
+Best Test F1 after loading saved model: 0.6505
+---------------Stats-----------
+Mean training epoch runtime: 0.0935
+Mean Std of Best Test we could do F1 Score: 0.6512 +/- 0.0011
+Mean Std of Test at best Val F1 Score: 0.6477 +/- 0.0008
+Mean Std of Loaded best Val model Test F1 Score: 0.6477 +/- 0.0028
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+------GNN----GAT------
+----EdgeGNN---MLP------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2400
+Iteration:  500
+Best Test F1 throughout: 0.6633
+Loading best model for final evaluation at val: 0.6674
+Best Test F1 after loading saved model: 0.6585
+Run: 1
+Mean epoch time of run 0.2383
+Iteration:  500
+Best Test F1 throughout: 0.6646
+Loading best model for final evaluation at val: 0.6639
+Best Test F1 after loading saved model: 0.6589
+Run: 2
+Mean epoch time of run 0.2370
+Iteration:  500
+Best Test F1 throughout: 0.6642
+Loading best model for final evaluation at val: 0.6634
+Best Test F1 after loading saved model: 0.6601
+Run: 3
+Mean epoch time of run 0.2387
+Iteration:  500
+Best Test F1 throughout: 0.6649
+Loading best model for final evaluation at val: 0.6621
+Best Test F1 after loading saved model: 0.6541
+Run: 4
+Mean epoch time of run 0.2382
+Iteration:  500
+Best Test F1 throughout: 0.6629
+Loading best model for final evaluation at val: 0.6602
+Best Test F1 after loading saved model: 0.6588
+---------------Stats-----------
+Mean training epoch runtime: 0.2384
+Mean Std of Best Test we could do F1 Score: 0.6640 +/- 0.0008
+Mean Std of Test at best Val F1 Score: 0.6597 +/- 0.0016
+Mean Std of Loaded best Val model Test F1 Score: 0.6581 +/- 0.0021
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2422
+Iteration:  500
+Best Test F1 throughout: 0.6622
+Loading best model for final evaluation at val: 0.6665
+Best Test F1 after loading saved model: 0.6586
+Run: 1
+Mean epoch time of run 0.2404
+Iteration:  500
+Best Test F1 throughout: 0.6648
+Loading best model for final evaluation at val: 0.6636
+Best Test F1 after loading saved model: 0.6601
+Run: 2
+Mean epoch time of run 0.2385
+Iteration:  500
+Best Test F1 throughout: 0.6662
+Loading best model for final evaluation at val: 0.6658
+Best Test F1 after loading saved model: 0.6601
+Run: 3
+Mean epoch time of run 0.2399
+Iteration:  500
+Best Test F1 throughout: 0.6636
+Loading best model for final evaluation at val: 0.6636
+Best Test F1 after loading saved model: 0.6588
+Run: 4
+Mean epoch time of run 0.2394
+Iteration:  500
+Best Test F1 throughout: 0.6662
+Loading best model for final evaluation at val: 0.6653
+Best Test F1 after loading saved model: 0.6595
+---------------Stats-----------
+Mean training epoch runtime: 0.2401
+Mean Std of Best Test we could do F1 Score: 0.6646 +/- 0.0016
+Mean Std of Test at best Val F1 Score: 0.6608 +/- 0.0023
+Mean Std of Loaded best Val model Test F1 Score: 0.6594 +/- 0.0007
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GCN------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0696
+Iteration:  500
+Best Test F1 throughout: 0.6646
+Loading best model for final evaluation at val: 0.6645
+Best Test F1 after loading saved model: 0.6561
+Run: 1
+Mean epoch time of run 0.0687
+Iteration:  500
+Best Test F1 throughout: 0.6634
+Loading best model for final evaluation at val: 0.6674
+Best Test F1 after loading saved model: 0.6586
+Run: 2
+Mean epoch time of run 0.0686
+Iteration:  500
+Best Test F1 throughout: 0.6595
+Loading best model for final evaluation at val: 0.6624
+Best Test F1 after loading saved model: 0.6577
+Run: 3
+Mean epoch time of run 0.0691
+Iteration:  500
+Best Test F1 throughout: 0.6649
+Loading best model for final evaluation at val: 0.6672
+Best Test F1 after loading saved model: 0.6614
+Run: 4
+Mean epoch time of run 0.0691
+Iteration:  500
+Best Test F1 throughout: 0.6639
+Loading best model for final evaluation at val: 0.6650
+Best Test F1 after loading saved model: 0.6624
+---------------Stats-----------
+Mean training epoch runtime: 0.0690
+Mean Std of Best Test we could do F1 Score: 0.6633 +/- 0.0020
+Mean Std of Test at best Val F1 Score: 0.6593 +/- 0.0005
+Mean Std of Loaded best Val model Test F1 Score: 0.6593 +/- 0.0023
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0718
+Iteration:  500
+Best Test F1 throughout: 0.6666
+Loading best model for final evaluation at val: 0.6626
+Best Test F1 after loading saved model: 0.6586
+Run: 1
+Mean epoch time of run 0.0702
+Iteration:  500
+Best Test F1 throughout: 0.6649
+Loading best model for final evaluation at val: 0.6696
+Best Test F1 after loading saved model: 0.6598
+Run: 2
+Mean epoch time of run 0.0705
+Iteration:  500
+Best Test F1 throughout: 0.6612
+Loading best model for final evaluation at val: 0.6633
+Best Test F1 after loading saved model: 0.6562
+Run: 3
+Mean epoch time of run 0.0703
+Iteration:  500
+Best Test F1 throughout: 0.6634
+Loading best model for final evaluation at val: 0.6653
+Best Test F1 after loading saved model: 0.6586
+Run: 4
+Mean epoch time of run 0.0703
+Iteration:  500
+Best Test F1 throughout: 0.6633
+Loading best model for final evaluation at val: 0.6630
+Best Test F1 after loading saved model: 0.6567
+---------------Stats-----------
+Mean training epoch runtime: 0.0706
+Mean Std of Best Test we could do F1 Score: 0.6639 +/- 0.0018
+Mean Std of Test at best Val F1 Score: 0.6599 +/- 0.0016
+Mean Std of Loaded best Val model Test F1 Score: 0.6580 +/- 0.0013
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GSAGE------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0927
+Iteration:  500
+Best Test F1 throughout: 0.6649
+Loading best model for final evaluation at val: 0.6649
+Best Test F1 after loading saved model: 0.6542
+Run: 1
+Mean epoch time of run 0.0919
+Iteration:  500
+Best Test F1 throughout: 0.6614
+Loading best model for final evaluation at val: 0.6624
+Best Test F1 after loading saved model: 0.6575
+Run: 2
+Mean epoch time of run 0.0920
+Iteration:  500
+Best Test F1 throughout: 0.6608
+Loading best model for final evaluation at val: 0.6601
+Best Test F1 after loading saved model: 0.6542
+Run: 3
+Mean epoch time of run 0.0922
+Iteration:  500
+Best Test F1 throughout: 0.6661
+Loading best model for final evaluation at val: 0.6626
+Best Test F1 after loading saved model: 0.6529
+Run: 4
+Mean epoch time of run 0.0921
+Iteration:  500
+Best Test F1 throughout: 0.6658
+Loading best model for final evaluation at val: 0.6628
+Best Test F1 after loading saved model: 0.6627
+---------------Stats-----------
+Mean training epoch runtime: 0.0922
+Mean Std of Best Test we could do F1 Score: 0.6638 +/- 0.0023
+Mean Std of Test at best Val F1 Score: 0.6597 +/- 0.0016
+Mean Std of Loaded best Val model Test F1 Score: 0.6563 +/- 0.0035
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0942
+Iteration:  500
+Best Test F1 throughout: 0.6661
+Loading best model for final evaluation at val: 0.6652
+Best Test F1 after loading saved model: 0.6641
+Run: 1
+Mean epoch time of run 0.0927
+Iteration:  500
+Best Test F1 throughout: 0.6634
+Loading best model for final evaluation at val: 0.6653
+Best Test F1 after loading saved model: 0.6613
+Run: 2
+Mean epoch time of run 0.0930
+Iteration:  500
+Best Test F1 throughout: 0.6595
+Loading best model for final evaluation at val: 0.6620
+Best Test F1 after loading saved model: 0.6526
+Run: 3
+Mean epoch time of run 0.0926
+Iteration:  500
+Best Test F1 throughout: 0.6663
+Loading best model for final evaluation at val: 0.6640
+Best Test F1 after loading saved model: 0.6581
+Run: 4
+Mean epoch time of run 0.0923
+Iteration:  500
+Best Test F1 throughout: 0.6653
+Loading best model for final evaluation at val: 0.6631
+Best Test F1 after loading saved model: 0.6651
+---------------Stats-----------
+Mean training epoch runtime: 0.0930
+Mean Std of Best Test we could do F1 Score: 0.6641 +/- 0.0025
+Mean Std of Test at best Val F1 Score: 0.6601 +/- 0.0034
+Mean Std of Loaded best Val model Test F1 Score: 0.6602 +/- 0.0045
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+---------end--------------
+---------johnshopkins55--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2325
+Iteration:  500
+Best Test F1 throughout: 0.6699
+Loading best model for final evaluation at val: 0.6863
+Best Test F1 after loading saved model: 0.6670
+Run: 1
+Mean epoch time of run 0.2275
+Iteration:  500
+Best Test F1 throughout: 0.6737
+Loading best model for final evaluation at val: 0.6911
+Best Test F1 after loading saved model: 0.6622
+Run: 2
+Mean epoch time of run 0.2282
+Iteration:  500
+Best Test F1 throughout: 0.6651
+Loading best model for final evaluation at val: 0.6921
+Best Test F1 after loading saved model: 0.6660
+Run: 3
+Mean epoch time of run 0.2286
+Iteration:  500
+Best Test F1 throughout: 0.6535
+Loading best model for final evaluation at val: 0.6902
+Best Test F1 after loading saved model: 0.6544
+Run: 4
+Mean epoch time of run 0.2285
+Iteration:  500
+Best Test F1 throughout: 0.6815
+Loading best model for final evaluation at val: 0.6902
+Best Test F1 after loading saved model: 0.6737
+---------------Stats-----------
+Mean training epoch runtime: 0.2291
+Mean Std of Best Test we could do F1 Score: 0.6687 +/- 0.0093
+Mean Std of Test at best Val F1 Score: 0.6622 +/- 0.0093
+Mean Std of Loaded best Val model Test F1 Score: 0.6647 +/- 0.0063
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2307
+Iteration:  500
+Best Test F1 throughout: 0.6988
+Loading best model for final evaluation at val: 0.7181
+Best Test F1 after loading saved model: 0.6882
+Run: 1
+Mean epoch time of run 0.2295
+Iteration:  500
+Best Test F1 throughout: 0.6921
+Loading best model for final evaluation at val: 0.7249
+Best Test F1 after loading saved model: 0.6844
+Run: 2
+Mean epoch time of run 0.2232
+Iteration:  500
+Best Test F1 throughout: 0.6931
+Loading best model for final evaluation at val: 0.7181
+Best Test F1 after loading saved model: 0.6882
+Run: 3
+Mean epoch time of run 0.2287
+Iteration:  500
+Best Test F1 throughout: 0.6786
+Loading best model for final evaluation at val: 0.7153
+Best Test F1 after loading saved model: 0.6873
+Run: 4
+Mean epoch time of run 0.2295
+Iteration:  500
+Best Test F1 throughout: 0.6998
+Loading best model for final evaluation at val: 0.7153
+Best Test F1 after loading saved model: 0.6795
+---------------Stats-----------
+Mean training epoch runtime: 0.2283
+Mean Std of Best Test we could do F1 Score: 0.6925 +/- 0.0076
+Mean Std of Test at best Val F1 Score: 0.6801 +/- 0.0050
+Mean Std of Loaded best Val model Test F1 Score: 0.6855 +/- 0.0033
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GCN------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0778
+Iteration:  500
+Best Test F1 throughout: 0.7095
+Loading best model for final evaluation at val: 0.7307
+Best Test F1 after loading saved model: 0.6873
+Run: 1
+Mean epoch time of run 0.0757
+Iteration:  500
+Best Test F1 throughout: 0.7095
+Loading best model for final evaluation at val: 0.7346
+Best Test F1 after loading saved model: 0.6998
+Run: 2
+Mean epoch time of run 0.0766
+Iteration:  500
+Best Test F1 throughout: 0.7114
+Loading best model for final evaluation at val: 0.7336
+Best Test F1 after loading saved model: 0.7037
+Run: 3
+Mean epoch time of run 0.0760
+Iteration:  500
+Best Test F1 throughout: 0.7066
+Loading best model for final evaluation at val: 0.7336
+Best Test F1 after loading saved model: 0.6979
+Run: 4
+Mean epoch time of run 0.0769
+Iteration:  500
+Best Test F1 throughout: 0.7162
+Loading best model for final evaluation at val: 0.7336
+Best Test F1 after loading saved model: 0.7008
+---------------Stats-----------
+Mean training epoch runtime: 0.0766
+Mean Std of Best Test we could do F1 Score: 0.7106 +/- 0.0032
+Mean Std of Test at best Val F1 Score: 0.6965 +/- 0.0063
+Mean Std of Loaded best Val model Test F1 Score: 0.6979 +/- 0.0056
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0783
+Iteration:  500
+Best Test F1 throughout: 0.7066
+Loading best model for final evaluation at val: 0.7307
+Best Test F1 after loading saved model: 0.6863
+Run: 1
+Mean epoch time of run 0.0774
+Iteration:  500
+Best Test F1 throughout: 0.7114
+Loading best model for final evaluation at val: 0.7326
+Best Test F1 after loading saved model: 0.6815
+Run: 2
+Mean epoch time of run 0.0773
+Iteration:  500
+Best Test F1 throughout: 0.7075
+Loading best model for final evaluation at val: 0.7336
+Best Test F1 after loading saved model: 0.6959
+Run: 3
+Mean epoch time of run 0.0769
+Iteration:  500
+Best Test F1 throughout: 0.7075
+Loading best model for final evaluation at val: 0.7278
+Best Test F1 after loading saved model: 0.6931
+Run: 4
+Mean epoch time of run 0.0765
+Iteration:  500
+Best Test F1 throughout: 0.7066
+Loading best model for final evaluation at val: 0.7288
+Best Test F1 after loading saved model: 0.6882
+---------------Stats-----------
+Mean training epoch runtime: 0.0773
+Mean Std of Best Test we could do F1 Score: 0.7079 +/- 0.0018
+Mean Std of Test at best Val F1 Score: 0.6909 +/- 0.0038
+Mean Std of Loaded best Val model Test F1 Score: 0.6890 +/- 0.0051
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GSAGE------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0809
+Iteration:  500
+Best Test F1 throughout: 0.6670
+Loading best model for final evaluation at val: 0.6969
+Best Test F1 after loading saved model: 0.6515
+Run: 1
+Mean epoch time of run 0.0803
+Iteration:  500
+Best Test F1 throughout: 0.6834
+Loading best model for final evaluation at val: 0.6853
+Best Test F1 after loading saved model: 0.6786
+Run: 2
+Mean epoch time of run 0.0798
+Iteration:  500
+Best Test F1 throughout: 0.6689
+Loading best model for final evaluation at val: 0.6979
+Best Test F1 after loading saved model: 0.6641
+Run: 3
+Mean epoch time of run 0.0805
+Iteration:  500
+Best Test F1 throughout: 0.6863
+Loading best model for final evaluation at val: 0.6766
+Best Test F1 after loading saved model: 0.6747
+Run: 4
+Mean epoch time of run 0.0792
+Iteration:  500
+Best Test F1 throughout: 0.6708
+Loading best model for final evaluation at val: 0.6805
+Best Test F1 after loading saved model: 0.6612
+---------------Stats-----------
+Mean training epoch runtime: 0.0801
+Mean Std of Best Test we could do F1 Score: 0.6753 +/- 0.0080
+Mean Std of Test at best Val F1 Score: 0.6705 +/- 0.0103
+Mean Std of Loaded best Val model Test F1 Score: 0.6660 +/- 0.0097
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0803
+Iteration:  500
+Best Test F1 throughout: 0.6988
+Loading best model for final evaluation at val: 0.7104
+Best Test F1 after loading saved model: 0.6873
+Run: 1
+Mean epoch time of run 0.0805
+Iteration:  500
+Best Test F1 throughout: 0.6795
+Loading best model for final evaluation at val: 0.7230
+Best Test F1 after loading saved model: 0.6718
+Run: 2
+Mean epoch time of run 0.0805
+Iteration:  500
+Best Test F1 throughout: 0.6853
+Loading best model for final evaluation at val: 0.7191
+Best Test F1 after loading saved model: 0.6853
+Run: 3
+Mean epoch time of run 0.0804
+Iteration:  500
+Best Test F1 throughout: 0.6834
+Loading best model for final evaluation at val: 0.7162
+Best Test F1 after loading saved model: 0.6805
+Run: 4
+Mean epoch time of run 0.0806
+Iteration:  500
+Best Test F1 throughout: 0.6844
+Loading best model for final evaluation at val: 0.7210
+Best Test F1 after loading saved model: 0.6844
+---------------Stats-----------
+Mean training epoch runtime: 0.0804
+Mean Std of Best Test we could do F1 Score: 0.6863 +/- 0.0066
+Mean Std of Test at best Val F1 Score: 0.6790 +/- 0.0071
+Mean Std of Loaded best Val model Test F1 Score: 0.6819 +/- 0.0055
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+------GNN----GAT------
+----EdgeGNN---MLP------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2274
+Iteration:  500
+Best Test F1 throughout: 0.6844
+Loading best model for final evaluation at val: 0.7075
+Best Test F1 after loading saved model: 0.6680
+Run: 1
+Mean epoch time of run 0.2246
+Iteration:  500
+Best Test F1 throughout: 0.6699
+Loading best model for final evaluation at val: 0.7027
+Best Test F1 after loading saved model: 0.6612
+Run: 2
+Mean epoch time of run 0.2253
+Iteration:  500
+Best Test F1 throughout: 0.6776
+Loading best model for final evaluation at val: 0.7104
+Best Test F1 after loading saved model: 0.6737
+Run: 3
+Mean epoch time of run 0.2257
+Iteration:  500
+Best Test F1 throughout: 0.6737
+Loading best model for final evaluation at val: 0.7143
+Best Test F1 after loading saved model: 0.6631
+Run: 4
+Mean epoch time of run 0.2276
+Iteration:  500
+Best Test F1 throughout: 0.6902
+Loading best model for final evaluation at val: 0.6969
+Best Test F1 after loading saved model: 0.6728
+---------------Stats-----------
+Mean training epoch runtime: 0.2261
+Mean Std of Best Test we could do F1 Score: 0.6792 +/- 0.0073
+Mean Std of Test at best Val F1 Score: 0.6647 +/- 0.0092
+Mean Std of Loaded best Val model Test F1 Score: 0.6678 +/- 0.0050
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2254
+Iteration:  500
+Best Test F1 throughout: 0.6815
+Loading best model for final evaluation at val: 0.7220
+Best Test F1 after loading saved model: 0.6602
+Run: 1
+Mean epoch time of run 0.2237
+Iteration:  500
+Best Test F1 throughout: 0.6786
+Loading best model for final evaluation at val: 0.7191
+Best Test F1 after loading saved model: 0.6583
+Run: 2
+Mean epoch time of run 0.2286
+Iteration:  500
+Best Test F1 throughout: 0.6776
+Loading best model for final evaluation at val: 0.7075
+Best Test F1 after loading saved model: 0.6641
+Run: 3
+Mean epoch time of run 0.2303
+Iteration:  500
+Best Test F1 throughout: 0.6863
+Loading best model for final evaluation at val: 0.7153
+Best Test F1 after loading saved model: 0.6718
+Run: 4
+Mean epoch time of run 0.2194
+Iteration:  500
+Best Test F1 throughout: 0.6844
+Loading best model for final evaluation at val: 0.7143
+Best Test F1 after loading saved model: 0.6535
+---------------Stats-----------
+Mean training epoch runtime: 0.2255
+Mean Std of Best Test we could do F1 Score: 0.6817 +/- 0.0033
+Mean Std of Test at best Val F1 Score: 0.6616 +/- 0.0113
+Mean Std of Loaded best Val model Test F1 Score: 0.6616 +/- 0.0062
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GCN------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0757
+Iteration:  500
+Best Test F1 throughout: 0.7085
+Loading best model for final evaluation at val: 0.7442
+Best Test F1 after loading saved model: 0.6873
+Run: 1
+Mean epoch time of run 0.0760
+Iteration:  500
+Best Test F1 throughout: 0.7210
+Loading best model for final evaluation at val: 0.7413
+Best Test F1 after loading saved model: 0.7085
+Run: 2
+Mean epoch time of run 0.0748
+Iteration:  500
+Best Test F1 throughout: 0.7249
+Loading best model for final evaluation at val: 0.7432
+Best Test F1 after loading saved model: 0.6988
+Run: 3
+Mean epoch time of run 0.0750
+Iteration:  500
+Best Test F1 throughout: 0.7201
+Loading best model for final evaluation at val: 0.7471
+Best Test F1 after loading saved model: 0.6921
+Run: 4
+Mean epoch time of run 0.0747
+Iteration:  500
+Best Test F1 throughout: 0.7239
+Loading best model for final evaluation at val: 0.7423
+Best Test F1 after loading saved model: 0.7017
+---------------Stats-----------
+Mean training epoch runtime: 0.0752
+Mean Std of Best Test we could do F1 Score: 0.7197 +/- 0.0059
+Mean Std of Test at best Val F1 Score: 0.7008 +/- 0.0040
+Mean Std of Loaded best Val model Test F1 Score: 0.6977 +/- 0.0074
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0766
+Iteration:  500
+Best Test F1 throughout: 0.7066
+Loading best model for final evaluation at val: 0.7539
+Best Test F1 after loading saved model: 0.6728
+Run: 1
+Mean epoch time of run 0.0760
+Iteration:  500
+Best Test F1 throughout: 0.6931
+Loading best model for final evaluation at val: 0.7249
+Best Test F1 after loading saved model: 0.6863
+Run: 2
+Mean epoch time of run 0.0752
+Iteration:  500
+Best Test F1 throughout: 0.7201
+Loading best model for final evaluation at val: 0.7375
+Best Test F1 after loading saved model: 0.6998
+Run: 3
+Mean epoch time of run 0.0749
+Iteration:  500
+Best Test F1 throughout: 0.7162
+Loading best model for final evaluation at val: 0.7413
+Best Test F1 after loading saved model: 0.6882
+Run: 4
+Mean epoch time of run 0.0761
+Iteration:  500
+Best Test F1 throughout: 0.7143
+Loading best model for final evaluation at val: 0.7365
+Best Test F1 after loading saved model: 0.6902
+---------------Stats-----------
+Mean training epoch runtime: 0.0758
+Mean Std of Best Test we could do F1 Score: 0.7100 +/- 0.0096
+Mean Std of Test at best Val F1 Score: 0.6902 +/- 0.0084
+Mean Std of Loaded best Val model Test F1 Score: 0.6875 +/- 0.0087
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+----EdgeGNN---GSAGE------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0800
+Iteration:  500
+Best Test F1 throughout: 0.6786
+Loading best model for final evaluation at val: 0.7095
+Best Test F1 after loading saved model: 0.6680
+Run: 1
+Mean epoch time of run 0.0784
+Iteration:  500
+Best Test F1 throughout: 0.7230
+Loading best model for final evaluation at val: 0.7133
+Best Test F1 after loading saved model: 0.6757
+Run: 2
+Mean epoch time of run 0.0777
+Iteration:  500
+Best Test F1 throughout: 0.6834
+Loading best model for final evaluation at val: 0.7095
+Best Test F1 after loading saved model: 0.6651
+Run: 3
+Mean epoch time of run 0.0783
+Iteration:  500
+Best Test F1 throughout: 0.6892
+Loading best model for final evaluation at val: 0.7153
+Best Test F1 after loading saved model: 0.6776
+Run: 4
+Mean epoch time of run 0.0783
+Iteration:  500
+Best Test F1 throughout: 0.6902
+Loading best model for final evaluation at val: 0.6940
+Best Test F1 after loading saved model: 0.6670
+---------------Stats-----------
+Mean training epoch runtime: 0.0785
+Mean Std of Best Test we could do F1 Score: 0.6929 +/- 0.0156
+Mean Std of Test at best Val F1 Score: 0.6724 +/- 0.0039
+Mean Std of Loaded best Val model Test F1 Score: 0.6707 +/- 0.0050
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0809
+Iteration:  500
+Best Test F1 throughout: 0.6844
+Loading best model for final evaluation at val: 0.7191
+Best Test F1 after loading saved model: 0.6622
+Run: 1
+Mean epoch time of run 0.0786
+Iteration:  500
+Best Test F1 throughout: 0.6902
+Loading best model for final evaluation at val: 0.7143
+Best Test F1 after loading saved model: 0.6795
+Run: 2
+Mean epoch time of run 0.0787
+Iteration:  500
+Best Test F1 throughout: 0.6911
+Loading best model for final evaluation at val: 0.7162
+Best Test F1 after loading saved model: 0.6622
+Run: 3
+Mean epoch time of run 0.0773
+Iteration:  500
+Best Test F1 throughout: 0.6882
+Loading best model for final evaluation at val: 0.7114
+Best Test F1 after loading saved model: 0.6651
+Run: 4
+Mean epoch time of run 0.0783
+Iteration:  500
+Best Test F1 throughout: 0.6873
+Loading best model for final evaluation at val: 0.7210
+Best Test F1 after loading saved model: 0.6805
+---------------Stats-----------
+Mean training epoch runtime: 0.0788
+Mean Std of Best Test we could do F1 Score: 0.6882 +/- 0.0024
+Mean Std of Test at best Val F1 Score: 0.6674 +/- 0.0085
+Mean Std of Loaded best Val model Test F1 Score: 0.6699 +/- 0.0083
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+-------------------------------
+---------end--------------
+Current date and time: Sun Jan 26 19:27:58 EST 2025
+learned
+---------SmallCora--------------
+------GNN----MLP------
+----EdgeGNN---GCN------
+---------end--------------
+---------Cora--------------
+------GNN----MLP------
+----EdgeGNN---GCN------
+---------end--------------
+---------johnshopkins55--------------
+------GNN----MLP------
+----EdgeGNN---GCN------
+Current date and time: Sun Jan 26 19:28:52 EST 2025
+learned
+---------SmallCora--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0097
+Iteration:  476
+EdgeMLP updated 476/476
+Best Test F1 throughout: 0.7500
+Loading best model for final evaluation at val: 0.7240
+Best Test F1 after loading saved model: 0.7390
+Run: 1
+Mean epoch time of run 0.0094
+Iteration:  267
+EdgeMLP updated 267/267
+Best Test F1 throughout: 0.7340
+Loading best model for final evaluation at val: 0.7160
+Best Test F1 after loading saved model: 0.7230
+Run: 2
+Mean epoch time of run 0.0096
+Iteration:  492
+EdgeMLP updated 492/492
+Best Test F1 throughout: 0.7350
+Loading best model for final evaluation at val: 0.7380
+Best Test F1 after loading saved model: 0.7220
+Run: 3
+Mean epoch time of run 0.0094
+Iteration:  392
+EdgeMLP updated 392/392
+Best Test F1 throughout: 0.7400
+Loading best model for final evaluation at val: 0.7220
+Best Test F1 after loading saved model: 0.7260
+Run: 4
+Mean epoch time of run 0.0094
+Iteration:  346
+EdgeMLP updated 346/346
+Best Test F1 throughout: 0.7310
+Loading best model for final evaluation at val: 0.7220
+Best Test F1 after loading saved model: 0.7170
+---------------Stats-----------
+Mean training epoch runtime: 0.0095
+Mean convergence number: 394.6000 +/- 83.3825, [476, 267, 492, 392, 346]
+EdgeMLP updated/Total GNN updates 395.0/395.0
+Mean Std of Best Test we could do F1 Score: 0.7380 +/- 0.0067
+Mean Std of Test at best Val F1 Score: 0.7268 +/- 0.0073
+Mean Std of Loaded best Val model Test F1 Score: 0.7254 +/- 0.0074
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0117
+Iteration:  321
+EdgeMLP updated 321/321
+Best Test F1 throughout: 0.7480
+Loading best model for final evaluation at val: 0.7340
+Best Test F1 after loading saved model: 0.7400
+Run: 1
+Mean epoch time of run 0.0103
+Iteration:  313
+EdgeMLP updated 313/313
+Best Test F1 throughout: 0.7470
+Loading best model for final evaluation at val: 0.7360
+Best Test F1 after loading saved model: 0.7320
+Run: 2
+Mean epoch time of run 0.0104
+Iteration:  433
+EdgeMLP updated 433/433
+Best Test F1 throughout: 0.7480
+Loading best model for final evaluation at val: 0.7360
+Best Test F1 after loading saved model: 0.7380
+Run: 3
+Mean epoch time of run 0.0105
+Iteration:  382
+EdgeMLP updated 382/382
+Best Test F1 throughout: 0.7500
+Loading best model for final evaluation at val: 0.7400
+Best Test F1 after loading saved model: 0.7380
+Run: 4
+Mean epoch time of run 0.0102
+Iteration:  365
+EdgeMLP updated 365/365
+Best Test F1 throughout: 0.7510
+Loading best model for final evaluation at val: 0.7400
+Best Test F1 after loading saved model: 0.7360
+---------------Stats-----------
+Mean training epoch runtime: 0.0106
+Mean convergence number: 362.8000 +/- 43.6550, [321, 313, 433, 382, 365]
+EdgeMLP updated/Total GNN updates 363.0/363.0
+Mean Std of Best Test we could do F1 Score: 0.7488 +/- 0.0015
+Mean Std of Test at best Val F1 Score: 0.7372 +/- 0.0043
+Mean Std of Loaded best Val model Test F1 Score: 0.7368 +/- 0.0027
+-------------------------------
+SmallCora
+Cora()
+Data(x=[2708, 1433], edge_index=[2, 10556], y=[2708], train_mask=[2708], val_mask=[2708], test_mask=[2708])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.0115
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.7570
+Loading best model for final evaluation at val: 0.7440
+Best Test F1 after loading saved model: 0.7430
+Run: 1
+Mean epoch time of run 0.0113
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.7610
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7470
+Run: 2
+Mean epoch time of run 0.0113
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.7560
+Loading best model for final evaluation at val: 0.7360
+Best Test F1 after loading saved model: 0.7400
+Run: 3
+Mean epoch time of run 0.0115
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.7610
+Loading best model for final evaluation at val: 0.7540
+Best Test F1 after loading saved model: 0.7320
+Run: 4
+Mean epoch time of run 0.0115
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.7560
+Loading best model for final evaluation at val: 0.7500
+Best Test F1 after loading saved model: 0.7350
+---------------Stats-----------
+Mean training epoch runtime: 0.0114
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+EdgeMLP updated/Total GNN updates 500.0/500.0
+Mean Std of Best Test we could do F1 Score: 0.7582 +/- 0.0023
+Mean Std of Test at best Val F1 Score: 0.7458 +/- 0.0061
+Mean Std of Loaded best Val model Test F1 Score: 0.7394 +/- 0.0054
+-------------------------------
+---------end--------------
+---------Cora--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2306
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.6205
+Loading best model for final evaluation at val: 0.6209
+Best Test F1 after loading saved model: 0.6186
+Run: 1
+Mean epoch time of run 0.2288
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.6224
+Loading best model for final evaluation at val: 0.6236
+Best Test F1 after loading saved model: 0.6175
+Run: 2
+Mean epoch time of run 0.2289
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.6204
+Loading best model for final evaluation at val: 0.6232
+Best Test F1 after loading saved model: 0.6188
+Run: 3
+Mean epoch time of run 0.2285
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.6215
+Loading best model for final evaluation at val: 0.6237
+Best Test F1 after loading saved model: 0.6163
+Run: 4
+Mean epoch time of run 0.2285
+Iteration:  500
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.6151
+Loading best model for final evaluation at val: 0.6201
+Best Test F1 after loading saved model: 0.6149
+---------------Stats-----------
+Mean training epoch runtime: 0.2291
+Mean convergence number: 500.0000 +/- 0.0000, [500, 500, 500, 500, 500]
+EdgeMLP updated/Total GNN updates 500.0/500.0
+Mean Std of Best Test we could do F1 Score: 0.6200 +/- 0.0026
+Mean Std of Test at best Val F1 Score: 0.6172 +/- 0.0020
+Mean Std of Loaded best Val model Test F1 Score: 0.6172 +/- 0.0015
+-------------------------------
+Current date and time: Sun Jan 26 21:54:38 EST 2025
+learned
+---------Cora--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2348
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6190
+Loading best model for final evaluation at val: 0.6213
+Best Test F1 after loading saved model: 0.6182
+Run: 1
+Mean epoch time of run 0.2301
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6197
+Loading best model for final evaluation at val: 0.6223
+Best Test F1 after loading saved model: 0.6168
+Run: 2
+Mean epoch time of run 0.2301
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6192
+Loading best model for final evaluation at val: 0.6244
+Best Test F1 after loading saved model: 0.6163
+Run: 3
+Mean epoch time of run 0.2305
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6144
+Loading best model for final evaluation at val: 0.6202
+Best Test F1 after loading saved model: 0.6133
+Run: 4
+Mean epoch time of run 0.2306
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6168
+Loading best model for final evaluation at val: 0.6221
+Best Test F1 after loading saved model: 0.6129
+---------------Stats-----------
+Mean training epoch runtime: 0.2312
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+EdgeMLP updated/Total GNN updates 250.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.6178 +/- 0.0020
+Mean Std of Test at best Val F1 Score: 0.6152 +/- 0.0018
+Mean Std of Loaded best Val model Test F1 Score: 0.6155 +/- 0.0021
+-------------------------------
+Cora
+CoraFull()
+Data(x=[19793, 8710], edge_index=[2, 126842], y=[19793])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2355
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6431
+Loading best model for final evaluation at val: 0.6375
+Best Test F1 after loading saved model: 0.6383
+Run: 1
+Mean epoch time of run 0.2324
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6409
+Loading best model for final evaluation at val: 0.6394
+Best Test F1 after loading saved model: 0.6402
+Run: 2
+Mean epoch time of run 0.2321
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6396
+Loading best model for final evaluation at val: 0.6376
+Best Test F1 after loading saved model: 0.6369
+Run: 3
+Mean epoch time of run 0.2323
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6402
+Loading best model for final evaluation at val: 0.6403
+Best Test F1 after loading saved model: 0.6409
+Run: 4
+Mean epoch time of run 0.2322
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6358
+Loading best model for final evaluation at val: 0.6345
+Best Test F1 after loading saved model: 0.6313
+---------------Stats-----------
+Mean training epoch runtime: 0.2329
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+EdgeMLP updated/Total GNN updates 250.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.6399 +/- 0.0024
+Mean Std of Test at best Val F1 Score: 0.6377 +/- 0.0025
+Mean Std of Loaded best Val model Test F1 Score: 0.6375 +/- 0.0034
+-------------------------------
+---------end--------------
+---------johnshopkins55--------------
+------GNN----GCN------
+----EdgeGNN---MLP------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2288
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6525
+Loading best model for final evaluation at val: 0.6824
+Best Test F1 after loading saved model: 0.6429
+Run: 1
+Mean epoch time of run 0.2270
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6390
+Loading best model for final evaluation at val: 0.6612
+Best Test F1 after loading saved model: 0.6332
+Run: 2
+Mean epoch time of run 0.2264
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6660
+Loading best model for final evaluation at val: 0.6844
+Best Test F1 after loading saved model: 0.6544
+Run: 3
+Mean epoch time of run 0.2269
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6776
+Loading best model for final evaluation at val: 0.6921
+Best Test F1 after loading saved model: 0.6641
+Run: 4
+Mean epoch time of run 0.2268
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6708
+Loading best model for final evaluation at val: 0.6766
+Best Test F1 after loading saved model: 0.6467
+---------------Stats-----------
+Mean training epoch runtime: 0.2272
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+EdgeMLP updated/Total GNN updates 250.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.6612 +/- 0.0138
+Mean Std of Test at best Val F1 Score: 0.6514 +/- 0.0093
+Mean Std of Loaded best Val model Test F1 Score: 0.6483 +/- 0.0105
+-------------------------------
+johnshopkins55
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+Mean epoch time of run 0.2313
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6786
+Loading best model for final evaluation at val: 0.7008
+Best Test F1 after loading saved model: 0.6708
+Run: 1
+Mean epoch time of run 0.2294
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6718
+Loading best model for final evaluation at val: 0.6737
+Best Test F1 after loading saved model: 0.6680
+Run: 2
+Mean epoch time of run 0.2293
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6680
+Loading best model for final evaluation at val: 0.6786
+Best Test F1 after loading saved model: 0.6515
+Run: 3
+Mean epoch time of run 0.2294
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6496
+Loading best model for final evaluation at val: 0.6844
+Best Test F1 after loading saved model: 0.6467
+Run: 4
+Mean epoch time of run 0.2291
+Iteration:  250
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.6786
+Loading best model for final evaluation at val: 0.6844
+Best Test F1 after loading saved model: 0.6718
+---------------Stats-----------
+Mean training epoch runtime: 0.2297
+Mean convergence number: 250.0000 +/- 0.0000, [250, 250, 250, 250, 250]
+EdgeMLP updated/Total GNN updates 250.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.6693 +/- 0.0107
+Mean Std of Test at best Val F1 Score: 0.6581 +/- 0.0111
+Mean Std of Loaded best Val model Test F1 Score: 0.6618 +/- 0.0105
+-------------------------------
+---------end--------------

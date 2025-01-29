@@ -1,0 +1,2131 @@
+-------Perepochruntime------
+learned
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+----------Conditional------------
+-----------WithoutConditional--------
+-------Perepochruntime------
+learned
+-----------GCN---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.4046511650085449
+Run: 0
+Mean epoch time of run 0.7801
+Iteration:  20
+Best Test F1 throughout: 0.6830
+Loading best model for final evaluation at val: 0.7010
+Best Test F1 after loading saved model: 0.6790
+---------------Stats-----------
+Mean training epoch runtime: 0.7801
+Mean Std of Best Test we could do F1 Score: 0.6830 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6790 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6790 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.1565704345703125
+Run: 0
+Mean epoch time of run 0.7340
+Iteration:  20
+Best Test F1 throughout: 0.6857
+Loading best model for final evaluation at val: 0.7031
+Best Test F1 after loading saved model: 0.6833
+---------------Stats-----------
+Mean training epoch runtime: 0.7340
+Mean Std of Best Test we could do F1 Score: 0.6857 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6833 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6833 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.20189404487609863
+Run: 0
+Mean epoch time of run 0.3429
+Iteration:  20
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.3429
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.023772001266479492
+Run: 0
+Mean epoch time of run 0.4185
+Iteration:  20
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.4185
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.47122645378112793
+Run: 0
+Mean epoch time of run 1.1348
+Iteration:  20
+Best Test F1 throughout: 0.7999
+Loading best model for final evaluation at val: 0.7992
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 1.1348
+Mean Std of Best Test we could do F1 Score: 0.7999 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7999 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7999 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.13692951202392578
+Run: 0
+Mean epoch time of run 0.9258
+Iteration:  20
+Best Test F1 throughout: 0.7999
+Loading best model for final evaluation at val: 0.7992
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 0.9258
+Mean Std of Best Test we could do F1 Score: 0.7999 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7999 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7999 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 3.1070313453674316
+Run: 0
+Mean epoch time of run 15.7093
+Iteration:  20
+Best Test F1 throughout: 0.5938
+Loading best model for final evaluation at val: 0.5944
+Best Test F1 after loading saved model: 0.5934
+---------------Stats-----------
+Mean training epoch runtime: 15.7093
+Mean Std of Best Test we could do F1 Score: 0.5938 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.5938 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.5934 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.6693079471588135
+Run: 0
+Mean epoch time of run 16.4196
+Iteration:  20
+Best Test F1 throughout: 0.5930
+Loading best model for final evaluation at val: 0.5936
+Best Test F1 after loading saved model: 0.5934
+---------------Stats-----------
+Mean training epoch runtime: 16.4196
+Mean Std of Best Test we could do F1 Score: 0.5930 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.5930 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.5934 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.47684168815612793
+Run: 0
+Mean epoch time of run 0.9699
+Iteration:  20
+Best Test F1 throughout: 0.3594
+Loading best model for final evaluation at val: 0.3563
+Best Test F1 after loading saved model: 0.3597
+---------------Stats-----------
+Mean training epoch runtime: 0.9699
+Mean Std of Best Test we could do F1 Score: 0.3594 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3594 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3597 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.16604232788085938
+Run: 0
+Mean epoch time of run 1.0817
+Iteration:  20
+Best Test F1 throughout: 0.3662
+Loading best model for final evaluation at val: 0.3648
+Best Test F1 after loading saved model: 0.3665
+---------------Stats-----------
+Mean training epoch runtime: 1.0817
+Mean Std of Best Test we could do F1 Score: 0.3662 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3662 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3665 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 7.074082374572754
+Run: 0
+Mean epoch time of run 15.3350
+Iteration:  20
+Best Test F1 throughout: 0.3465
+Loading best model for final evaluation at val: 0.3470
+Best Test F1 after loading saved model: 0.3465
+---------------Stats-----------
+Mean training epoch runtime: 15.3350
+Mean Std of Best Test we could do F1 Score: 0.3465 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3465 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3465 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 6.215136528015137
+Run: 0
+Mean epoch time of run 14.8609
+Iteration:  20
+Best Test F1 throughout: 0.3457
+Loading best model for final evaluation at val: 0.3458
+Best Test F1 after loading saved model: 0.3460
+---------------Stats-----------
+Mean training epoch runtime: 14.8609
+Mean Std of Best Test we could do F1 Score: 0.3457 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3457 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3460 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 4.499342679977417
+Run: 0
+Mean epoch time of run 21.7105
+Iteration:  20
+Best Test F1 throughout: 0.9172
+Loading best model for final evaluation at val: 0.9188
+Best Test F1 after loading saved model: 0.9156
+---------------Stats-----------
+Mean training epoch runtime: 21.7105
+Mean Std of Best Test we could do F1 Score: 0.9172 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.9158 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9156 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 3.04811429977417
+Run: 0
+Mean epoch time of run 21.7342
+Iteration:  20
+Best Test F1 throughout: 0.9212
+Loading best model for final evaluation at val: 0.9221
+Best Test F1 after loading saved model: 0.9211
+---------------Stats-----------
+Mean training epoch runtime: 21.7342
+Mean Std of Best Test we could do F1 Score: 0.9212 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.9212 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9211 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+ogbn-proteins
+Using METIS with num_parts: 159 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.828533172607422
+Run: 0
+Mean epoch time of run 13.3828
+Iteration:  20
+Best Test F1 throughout: 0.9315
+Loading best model for final evaluation at val: 0.9279
+Best Test F1 after loading saved model: 0.9315
+---------------Stats-----------
+Mean training epoch runtime: 13.3828
+Mean Std of Best Test we could do F1 Score: 0.9315 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.9315 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9315 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+ogbn-proteins
+Using METIS with num_parts: 159 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.0605261325836182
+Run: 0
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.3145735263824463
+Run: 0
+Mean epoch time of run 0.7722
+Iteration:  20
+Best Test F1 throughout: 0.6217
+Loading best model for final evaluation at val: 0.6208
+Best Test F1 after loading saved model: 0.6099
+---------------Stats-----------
+Mean training epoch runtime: 0.7722
+Mean Std of Best Test we could do F1 Score: 0.6217 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6158 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6099 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.1500537395477295
+Run: 0
+Mean epoch time of run 0.7818
+Iteration:  20
+Best Test F1 throughout: 0.6308
+Loading best model for final evaluation at val: 0.6533
+Best Test F1 after loading saved model: 0.6340
+---------------Stats-----------
+Mean training epoch runtime: 0.7818
+Mean Std of Best Test we could do F1 Score: 0.6308 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6308 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6340 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.21146631240844727
+Run: 0
+Mean epoch time of run 0.3528
+Iteration:  20
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.3528
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.021834850311279297
+Run: 0
+Mean epoch time of run 0.4025
+Iteration:  20
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.4025
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.42294931411743164
+Run: 0
+Mean epoch time of run 1.0991
+Iteration:  20
+Best Test F1 throughout: 0.7999
+Loading best model for final evaluation at val: 0.7992
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 1.0991
+Mean Std of Best Test we could do F1 Score: 0.7999 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7999 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7999 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.09584784507751465
+Run: 0
+Mean epoch time of run 0.8823
+Iteration:  20
+Best Test F1 throughout: 0.7999
+Loading best model for final evaluation at val: 0.7992
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 0.8823
+Mean Std of Best Test we could do F1 Score: 0.7999 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7999 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7999 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 3.738173246383667
+Run: 0
+Mean epoch time of run 15.3707
+Iteration:  20
+Best Test F1 throughout: 0.5889
+Loading best model for final evaluation at val: 0.5900
+Best Test F1 after loading saved model: 0.5882
+---------------Stats-----------
+Mean training epoch runtime: 15.3707
+Mean Std of Best Test we could do F1 Score: 0.5889 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.5889 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.5882 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.620098352432251
+Run: 0
+Mean epoch time of run 16.2147
+Iteration:  20
+Best Test F1 throughout: 0.5896
+Loading best model for final evaluation at val: 0.5909
+Best Test F1 after loading saved model: 0.5891
+---------------Stats-----------
+Mean training epoch runtime: 16.2147
+Mean Std of Best Test we could do F1 Score: 0.5896 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.5896 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.5891 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.5721924304962158
+Run: 0
+Mean epoch time of run 0.9706
+Iteration:  20
+Best Test F1 throughout: 0.3587
+Loading best model for final evaluation at val: 0.3567
+Best Test F1 after loading saved model: 0.3588
+---------------Stats-----------
+Mean training epoch runtime: 0.9706
+Mean Std of Best Test we could do F1 Score: 0.3587 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3587 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3588 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.161285400390625
+Run: 0
+Mean epoch time of run 1.0469
+Iteration:  20
+Best Test F1 throughout: 0.3654
+Loading best model for final evaluation at val: 0.3653
+Best Test F1 after loading saved model: 0.3663
+---------------Stats-----------
+Mean training epoch runtime: 1.0469
+Mean Std of Best Test we could do F1 Score: 0.3654 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3654 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3663 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 7.566135406494141
+Run: 0
+Mean epoch time of run 15.3838
+Iteration:  20
+Best Test F1 throughout: 0.3501
+Loading best model for final evaluation at val: 0.3501
+Best Test F1 after loading saved model: 0.3501
+---------------Stats-----------
+Mean training epoch runtime: 15.3838
+Mean Std of Best Test we could do F1 Score: 0.3501 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3501 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3501 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+-----------WithoutConditional--------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 6.213286638259888
+Run: 0
+Mean epoch time of run 14.5917
+Iteration:  20
+Best Test F1 throughout: 0.3496
+Loading best model for final evaluation at val: 0.3496
+Best Test F1 after loading saved model: 0.3496
+---------------Stats-----------
+Mean training epoch runtime: 14.5917
+Mean Std of Best Test we could do F1 Score: 0.3496 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3496 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3496 +/- 0.0000
+Mean convergence number: 20.0000 +/- 0.0000, [20]
+-------------------------------
+----------Conditional------------
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 06:02:53 EST 2025
+-----------MLP---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.15587806701660156
+Run: 0
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.04843449592590332
+Run: 0
+Mean epoch time of run 1.2848
+Iteration:  100
+Best Test F1 throughout: 0.6702
+Loading best model for final evaluation at val: 0.6785
+Best Test F1 after loading saved model: 0.6600
+---------------Stats-----------
+Mean training epoch runtime: 1.2848
+Mean Std of Best Test we could do F1 Score: 0.6702 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6608 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6600 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.14517641067504883
+Run: 0
+Mean epoch time of run 0.2370
+Iteration:  100
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7839
+Best Test F1 after loading saved model: 0.7810
+---------------Stats-----------
+Mean training epoch runtime: 0.2370
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7810 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7810 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.009415864944458008
+Run: 0
+Mean epoch time of run 0.3193
+Iteration:  100
+Best Test F1 throughout: 0.7840
+Loading best model for final evaluation at val: 0.7863
+Best Test F1 after loading saved model: 0.7830
+---------------Stats-----------
+Mean training epoch runtime: 0.3193
+Mean Std of Best Test we could do F1 Score: 0.7840 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7837 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7830 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.3270127773284912
+Run: 0
+Mean epoch time of run 0.7245
+Iteration:  100
+Best Test F1 throughout: 0.8180
+Loading best model for final evaluation at val: 0.8169
+Best Test F1 after loading saved model: 0.8163
+---------------Stats-----------
+Mean training epoch runtime: 0.7245
+Mean Std of Best Test we could do F1 Score: 0.8180 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.8167 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8163 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 06:28:32 EST 2025
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.04913139343261719
+Run: 0
+Mean epoch time of run 0.3719
+Iteration:  100
+Best Test F1 throughout: 0.6900
+Loading best model for final evaluation at val: 0.6994
+Best Test F1 after loading saved model: 0.6811
+---------------Stats-----------
+Mean training epoch runtime: 0.3719
+Mean Std of Best Test we could do F1 Score: 0.6900 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6814 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6811 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.048874616622924805
+Run: 0
+Mean epoch time of run 0.3751
+Iteration:  100
+Best Test F1 throughout: 0.6669
+Loading best model for final evaluation at val: 0.6785
+Best Test F1 after loading saved model: 0.6576
+---------------Stats-----------
+Mean training epoch runtime: 0.3751
+Mean Std of Best Test we could do F1 Score: 0.6669 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6592 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6576 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.009990453720092773
+Run: 0
+Mean epoch time of run 0.1544
+Iteration:  100
+Best Test F1 throughout: 0.7820
+Loading best model for final evaluation at val: 0.7843
+Best Test F1 after loading saved model: 0.7803
+---------------Stats-----------
+Mean training epoch runtime: 0.1544
+Mean Std of Best Test we could do F1 Score: 0.7820 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7806 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7803 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.008048534393310547
+Run: 0
+Mean epoch time of run 0.1763
+Iteration:  100
+Best Test F1 throughout: 0.7844
+Loading best model for final evaluation at val: 0.7833
+Best Test F1 after loading saved model: 0.7844
+---------------Stats-----------
+Mean training epoch runtime: 0.1763
+Mean Std of Best Test we could do F1 Score: 0.7844 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7840 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7844 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.04828619956970215
+Run: 0
+Mean epoch time of run 0.4366
+Iteration:  100
+Best Test F1 throughout: 0.8261
+Loading best model for final evaluation at val: 0.8249
+Best Test F1 after loading saved model: 0.8260
+---------------Stats-----------
+Mean training epoch runtime: 0.4366
+Mean Std of Best Test we could do F1 Score: 0.8261 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.8260 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8260 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.0511629581451416
+Run: 0
+Mean epoch time of run 0.3874
+Iteration:  100
+Best Test F1 throughout: 0.8291
+Loading best model for final evaluation at val: 0.8282
+Best Test F1 after loading saved model: 0.8291
+---------------Stats-----------
+Mean training epoch runtime: 0.3874
+Mean Std of Best Test we could do F1 Score: 0.8291 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.8291 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8291 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.729212999343872
+Run: 0
+Mean epoch time of run 7.0988
+Iteration:  100
+Best Test F1 throughout: 0.6134
+Loading best model for final evaluation at val: 0.6161
+Best Test F1 after loading saved model: 0.6129
+---------------Stats-----------
+Mean training epoch runtime: 7.0988
+Mean Std of Best Test we could do F1 Score: 0.6134 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6134 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6129 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.7997515201568604
+Run: 0
+Mean epoch time of run 6.7675
+Iteration:  100
+Best Test F1 throughout: 0.6236
+Loading best model for final evaluation at val: 0.6239
+Best Test F1 after loading saved model: 0.6231
+---------------Stats-----------
+Mean training epoch runtime: 6.7675
+Mean Std of Best Test we could do F1 Score: 0.6236 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6232 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6231 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.5388383865356445
+Run: 0
+Mean epoch time of run 0.4767
+Iteration:  100
+Best Test F1 throughout: 0.3833
+Loading best model for final evaluation at val: 0.3779
+Best Test F1 after loading saved model: 0.3804
+---------------Stats-----------
+Mean training epoch runtime: 0.4767
+Mean Std of Best Test we could do F1 Score: 0.3833 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3811 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3804 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.08825945854187012
+Run: 0
+Mean epoch time of run 0.4807
+Iteration:  100
+Best Test F1 throughout: 0.3834
+Loading best model for final evaluation at val: 0.3788
+Best Test F1 after loading saved model: 0.3826
+---------------Stats-----------
+Mean training epoch runtime: 0.4807
+Mean Std of Best Test we could do F1 Score: 0.3834 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3830 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3826 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 3.9092752933502197
+Run: 0
+Mean epoch time of run 7.1529
+Iteration:  100
+Best Test F1 throughout: 0.3579
+Loading best model for final evaluation at val: 0.3573
+Best Test F1 after loading saved model: 0.3578
+---------------Stats-----------
+Mean training epoch runtime: 7.1529
+Mean Std of Best Test we could do F1 Score: 0.3579 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3579 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3578 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 3.26082706451416
+Run: 0
+Mean epoch time of run 6.2713
+Iteration:  100
+Best Test F1 throughout: 0.3572
+Loading best model for final evaluation at val: 0.3565
+Best Test F1 after loading saved model: 0.3572
+---------------Stats-----------
+Mean training epoch runtime: 6.2713
+Mean Std of Best Test we could do F1 Score: 0.3572 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3572 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3572 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.3676655292510986
+Run: 0
+Mean epoch time of run 8.1478
+Iteration:  100
+Best Test F1 throughout: 0.9202
+Loading best model for final evaluation at val: 0.9222
+Best Test F1 after loading saved model: 0.9204
+---------------Stats-----------
+Mean training epoch runtime: 8.1478
+Mean Std of Best Test we could do F1 Score: 0.9202 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.9202 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9204 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+-----------WithoutConditional--------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.6048767566680908
+Run: 0
+Mean epoch time of run 7.9125
+Iteration:  100
+Best Test F1 throughout: 0.9205
+Loading best model for final evaluation at val: 0.9231
+Best Test F1 after loading saved model: 0.9197
+---------------Stats-----------
+Mean training epoch runtime: 7.9125
+Mean Std of Best Test we could do F1 Score: 0.9205 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.9200 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9197 +/- 0.0000
+Mean convergence number: 100.0000 +/- 0.0000, [100]
+-------------------------------
+----------Conditional------------
+ogbn-proteins
+Using METIS with num_parts: 159 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.6275722980499268
+Run: 0
+-----------WithoutConditional--------
+ogbn-proteins
+Using METIS with num_parts: 159 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.37654900550842285
+Run: 0
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 14:21:03 EST 2025
+---regulazier1only-----
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.1571667194366455
+Run: 0
+Mean epoch time of run 0.3814
+Iteration:  50
+EdgeMLP updated 174/200
+Best Test F1 throughout: 0.6999
+Loading best model for final evaluation at val: 0.7042
+Best Test F1 after loading saved model: 0.6959
+---------------Stats-----------
+Mean training epoch runtime: 0.3814
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 174.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.6999 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6983 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6959 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.05917239189147949
+Run: 0
+Mean epoch time of run 0.3670
+Iteration:  50
+EdgeMLP updated 200/200
+Best Test F1 throughout: 0.6943
+Loading best model for final evaluation at val: 0.6980
+Best Test F1 after loading saved model: 0.6908
+---------------Stats-----------
+Mean training epoch runtime: 0.3670
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 200.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.6943 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6919 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6908 +/- 0.0000
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.1080167293548584
+Run: 0
+Mean epoch time of run 0.1736
+Iteration:  50
+EdgeMLP updated 28/150
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.1736
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 28.0/150.0
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.008003473281860352
+Run: 0
+Mean epoch time of run 0.1736
+Iteration:  50
+EdgeMLP updated 150/150
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.1736
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 150.0/150.0
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.26325440406799316
+Run: 0
+Mean epoch time of run 0.4820
+Iteration:  50
+EdgeMLP updated 124/200
+Best Test F1 throughout: 0.8172
+Loading best model for final evaluation at val: 0.8157
+Best Test F1 after loading saved model: 0.8173
+---------------Stats-----------
+Mean training epoch runtime: 0.4820
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 124.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.8172 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.8169 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8173 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.06482362747192383
+Run: 0
+Mean epoch time of run 0.3988
+Iteration:  50
+EdgeMLP updated 200/200
+Best Test F1 throughout: 0.8323
+Loading best model for final evaluation at val: 0.8331
+Best Test F1 after loading saved model: 0.8322
+---------------Stats-----------
+Mean training epoch runtime: 0.3988
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 200.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.8323 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.8323 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8322 +/- 0.0000
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.076967716217041
+Run: 0
+Mean epoch time of run 7.0136
+Iteration:  50
+EdgeMLP updated 2883/4500
+Best Test F1 throughout: 0.6189
+Loading best model for final evaluation at val: 0.6198
+Best Test F1 after loading saved model: 0.6181
+---------------Stats-----------
+Mean training epoch runtime: 7.0136
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 2883.0/4500.0
+Mean Std of Best Test we could do F1 Score: 0.6189 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6189 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6181 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.1581075191497803
+Run: 0
+Mean epoch time of run 6.6640
+Iteration:  50
+EdgeMLP updated 4350/4500
+Best Test F1 throughout: 0.6160
+Loading best model for final evaluation at val: 0.6174
+Best Test F1 after loading saved model: 0.6155
+---------------Stats-----------
+Mean training epoch runtime: 6.6640
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 4350.0/4500.0
+Mean Std of Best Test we could do F1 Score: 0.6160 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6160 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6155 +/- 0.0000
+-------------------------------
+----------Conditional------------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.32949066162109375
+Run: 0
+Mean epoch time of run 0.4392
+Iteration:  50
+EdgeMLP updated 54/250
+Best Test F1 throughout: 0.3618
+Loading best model for final evaluation at val: 0.3595
+Best Test F1 after loading saved model: 0.3615
+---------------Stats-----------
+Mean training epoch runtime: 0.4392
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 54.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.3618 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3616 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3615 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.08779215812683105
+Run: 0
+Mean epoch time of run 0.4603
+Iteration:  50
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.3622
+Loading best model for final evaluation at val: 0.3603
+Best Test F1 after loading saved model: 0.3628
+---------------Stats-----------
+Mean training epoch runtime: 0.4603
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 250.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.3622 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3618 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3628 +/- 0.0000
+-------------------------------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 4.895729303359985
+Run: 0
+Mean epoch time of run 7.0082
+Iteration:  50
+EdgeMLP updated 2152/2800
+Best Test F1 throughout: 0.3446
+Loading best model for final evaluation at val: 0.3445
+Best Test F1 after loading saved model: 0.3446
+---------------Stats-----------
+Mean training epoch runtime: 7.0082
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 2152.0/2800.0
+Mean Std of Best Test we could do F1 Score: 0.3446 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3446 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3446 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 15:24:39 EST 2025
+---bothregulazier-----
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.36891865730285645
+Run: 0
+Mean epoch time of run 0.3816
+Iteration:  50
+EdgeMLP updated 127/200
+Best Test F1 throughout: 0.6736
+Loading best model for final evaluation at val: 0.6902
+Best Test F1 after loading saved model: 0.6774
+---------------Stats-----------
+Mean training epoch runtime: 0.3816
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 127.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.6736 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6734 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6774 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.050511837005615234
+Run: 0
+Mean epoch time of run 0.3719
+Iteration:  50
+EdgeMLP updated 200/200
+Best Test F1 throughout: 0.6785
+Loading best model for final evaluation at val: 0.6905
+Best Test F1 after loading saved model: 0.6771
+---------------Stats-----------
+Mean training epoch runtime: 0.3719
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 200.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.6785 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.6785 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6771 +/- 0.0000
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.18781256675720215
+Run: 0
+Mean epoch time of run 0.1626
+Iteration:  50
+EdgeMLP updated 29/150
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7819
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.1626
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 29.0/150.0
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.008133888244628906
+Run: 0
+Mean epoch time of run 0.1812
+Iteration:  50
+EdgeMLP updated 150/150
+Best Test F1 throughout: 0.7816
+Loading best model for final evaluation at val: 0.7826
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.1812
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 150.0/150.0
+Mean Std of Best Test we could do F1 Score: 0.7816 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.7816 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+-------------------------------
+----------Conditional------------
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 15:37:19 EST 2025
+---bothregulazier-----
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.169511079788208
+Run: 0
+Mean epoch time of run 0.3862
+Iteration:  50
+EdgeMLP updated 130/200
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6771
+---------------Stats-----------
+Mean training epoch runtime: 0.3862
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 130.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6771 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.05584239959716797
+Run: 0
+Mean epoch time of run 0.3718
+Iteration:  50
+EdgeMLP updated 200/200
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6811
+---------------Stats-----------
+Mean training epoch runtime: 0.3718
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 200.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6811 +/- 0.0000
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.16904044151306152
+Run: 0
+Mean epoch time of run 0.1700
+Iteration:  50
+EdgeMLP updated 36/150
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7820
+---------------Stats-----------
+Mean training epoch runtime: 0.1700
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 36.0/150.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7820 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.010646820068359375
+Run: 0
+Mean epoch time of run 0.1880
+Iteration:  50
+EdgeMLP updated 150/150
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7816
+---------------Stats-----------
+Mean training epoch runtime: 0.1880
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 150.0/150.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0000
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.26647329330444336
+Run: 0
+Mean epoch time of run 0.4701
+Iteration:  50
+EdgeMLP updated 93/200
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7998
+---------------Stats-----------
+Mean training epoch runtime: 0.4701
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 93.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7998 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.07368159294128418
+Run: 0
+Mean epoch time of run 0.4265
+Iteration:  50
+EdgeMLP updated 200/200
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7998
+---------------Stats-----------
+Mean training epoch runtime: 0.4265
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 200.0/200.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7998 +/- 0.0000
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.3288350105285645
+Run: 0
+Mean epoch time of run 6.8095
+Iteration:  50
+EdgeMLP updated 2462/4500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.5586
+---------------Stats-----------
+Mean training epoch runtime: 6.8095
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 2462.0/4500.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.5586 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.8214952945709229
+Run: 0
+Mean epoch time of run 6.5638
+Iteration:  50
+EdgeMLP updated 4350/4500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.5662
+---------------Stats-----------
+Mean training epoch runtime: 6.5638
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 4350.0/4500.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.5662 +/- 0.0000
+-------------------------------
+----------Conditional------------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.393540620803833
+Run: 0
+Mean epoch time of run 0.4581
+Iteration:  50
+EdgeMLP updated 65/250
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3621
+---------------Stats-----------
+Mean training epoch runtime: 0.4581
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 65.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3621 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.08559370040893555
+Run: 0
+Mean epoch time of run 0.4578
+Iteration:  50
+EdgeMLP updated 250/250
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3639
+---------------Stats-----------
+Mean training epoch runtime: 0.4578
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 250.0/250.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3639 +/- 0.0000
+-------------------------------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 3.892587661743164
+Run: 0
+Mean epoch time of run 6.9707
+Iteration:  50
+EdgeMLP updated 2251/2800
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3393
+---------------Stats-----------
+Mean training epoch runtime: 6.9707
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 2251.0/2800.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3393 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 4.15099573135376
+Run: 0
+Mean epoch time of run 5.8336
+Iteration:  50
+EdgeMLP updated 2750/2800
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3384
+---------------Stats-----------
+Mean training epoch runtime: 5.8336
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 2750.0/2800.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3384 +/- 0.0000
+-------------------------------
+----------Conditional------------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.9679782390594482
+Run: 0
+Mean epoch time of run 8.5095
+Iteration:  50
+EdgeMLP updated 4638/11500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9159
+---------------Stats-----------
+Mean training epoch runtime: 8.5095
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 4638.0/11500.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9159 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.5738847255706787
+Run: 0
+Mean epoch time of run 8.8238
+Iteration:  50
+EdgeMLP updated 5950/11500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9155
+---------------Stats-----------
+Mean training epoch runtime: 8.8238
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 5950.0/11500.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9155 +/- 0.0000
+-------------------------------
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 16:30:01 EST 2025
+---regulazier1only-----
+-----------GSAGE---------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 5.3376359939575195
+Run: 0
+Mean epoch time of run 7.0761
+Iteration:  50
+EdgeMLP updated 2150/2800
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3425
+---------------Stats-----------
+Mean training epoch runtime: 7.0761
+Mean convergence number: 50.0000 +/- 0.0000, [50]
+EdgeMLP updated/Total GNN updates 2150.0/2800.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3425 +/- 0.0000
+-------------------------------
+-----------WithoutConditional--------
+
+
+------------------------------xxxxxxxxxxxx------------------------------
+
+-------Perepochruntime------
+learned
+Current date and time: Sun Jan 26 16:38:59 EST 2025
+---regulazier1only-----
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.5160865783691406
+Run: 0
+Mean epoch time of run 0.3806
+Iteration:  100
+EdgeMLP updated 365/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6935
+Run: 1
+Mean epoch time of run 0.3804
+Iteration:  100
+EdgeMLP updated 377/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6916
+Run: 2
+Mean epoch time of run 0.3776
+Iteration:  100
+EdgeMLP updated 379/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6886
+---------------Stats-----------
+Mean training epoch runtime: 0.3795
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 374.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6912 +/- 0.0020
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.05079293251037598
+Run: 0
+Mean epoch time of run 0.3663
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6905
+Run: 1
+Mean epoch time of run 0.3610
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6911
+Run: 2
+Mean epoch time of run 0.3604
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6889
+---------------Stats-----------
+Mean training epoch runtime: 0.3625
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 400.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6902 +/- 0.0009
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.1115729808807373
+Run: 0
+Mean epoch time of run 0.1694
+Iteration:  100
+EdgeMLP updated 110/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7806
+Run: 1
+Mean epoch time of run 0.1574
+Iteration:  100
+EdgeMLP updated 117/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7796
+Run: 2
+Mean epoch time of run 0.1621
+Iteration:  100
+EdgeMLP updated 149/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7837
+---------------Stats-----------
+Mean training epoch runtime: 0.1630
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 125.0/300.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7813 +/- 0.0017
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.009573221206665039
+Run: 0
+Mean epoch time of run 0.1764
+Iteration:  100
+EdgeMLP updated 300/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7803
+Run: 1
+Mean epoch time of run 0.1743
+Iteration:  100
+EdgeMLP updated 300/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7803
+Run: 2
+Mean epoch time of run 0.1721
+Iteration:  100
+EdgeMLP updated 300/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7830
+---------------Stats-----------
+Mean training epoch runtime: 0.1743
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 300.0/300.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7812 +/- 0.0013
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.31495189666748047
+Run: 0
+Mean epoch time of run 0.4902
+Iteration:  100
+EdgeMLP updated 217/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+Run: 1
+Mean epoch time of run 0.4793
+Iteration:  100
+EdgeMLP updated 201/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.8023
+Run: 2
+Mean epoch time of run 0.4702
+Iteration:  100
+EdgeMLP updated 102/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 0.4799
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 173.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8007 +/- 0.0011
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.05344033241271973
+Run: 0
+Mean epoch time of run 0.3904
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+Run: 1
+Mean epoch time of run 0.3830
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7981
+Run: 2
+Mean epoch time of run 0.3916
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7997
+---------------Stats-----------
+Mean training epoch runtime: 0.3884
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 400.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7992 +/- 0.0008
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.667175531387329
+Run: 0
+Mean epoch time of run 6.5445
+Iteration:  100
+EdgeMLP updated 6668/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6210
+Run: 1
+Mean epoch time of run 6.4871
+Iteration:  100
+EdgeMLP updated 6961/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6216
+Run: 2
+Mean epoch time of run 6.4339
+Iteration:  100
+EdgeMLP updated 6689/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6234
+---------------Stats-----------
+Mean training epoch runtime: 6.4885
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 6773.0/9000.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6220 +/- 0.0010
+-------------------------------
+-----------WithoutConditional--------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.07004451751709
+Run: 0
+Mean epoch time of run 6.8241
+Iteration:  100
+EdgeMLP updated 8700/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6161
+Run: 1
+Mean epoch time of run 6.8328
+Iteration:  100
+EdgeMLP updated 8700/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6214
+Run: 2
+Mean epoch time of run 6.7383
+Iteration:  100
+EdgeMLP updated 8700/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6239
+---------------Stats-----------
+Mean training epoch runtime: 6.7984
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 8700.0/9000.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6205 +/- 0.0033
+-------------------------------
+----------Conditional------------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.3561992645263672
+Run: 0
+Mean epoch time of run 0.4553
+Iteration:  100
+EdgeMLP updated 125/500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3703
+Run: 1
+Mean epoch time of run 0.4620
+Iteration:  100
+EdgeMLP updated 112/500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3680
+Run: 2
+Mean epoch time of run 0.4566
+Iteration:  100
+EdgeMLP updated 105/500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3710
+---------------Stats-----------
+Mean training epoch runtime: 0.4580
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 114.0/500.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3698 +/- 0.0013
+-------------------------------
+-----------WithoutConditional--------
+arxiv-year
+Using METIS with num_parts: 5 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.09694886207580566
+Run: 0
+Mean epoch time of run 0.4684
+Iteration:  100
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3693
+Run: 1
+Mean epoch time of run 0.4494
+Iteration:  100
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3690
+Run: 2
+Mean epoch time of run 0.4536
+Iteration:  100
+EdgeMLP updated 500/500
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3715
+---------------Stats-----------
+Mean training epoch runtime: 0.4571
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 500.0/500.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3699 +/- 0.0011
+-------------------------------
+----------Conditional------------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 6.021162748336792
+Run: 0
+Mean epoch time of run 6.9812
+Iteration:  100
+EdgeMLP updated 4636/5600
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3516
+Run: 1
+Mean epoch time of run 7.1913
+Iteration:  100
+EdgeMLP updated 4689/5600
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3488
+Run: 2
+Mean epoch time of run 7.1984
+Iteration:  100
+EdgeMLP updated 4807/5600
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3479
+---------------Stats-----------
+Mean training epoch runtime: 7.1236
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 4711.0/5600.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3495 +/- 0.0016
+-------------------------------
+-----------WithoutConditional--------
+snap-patents
+Using METIS with num_parts: 56 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 6.591208457946777
+Run: 0
+Mean epoch time of run 6.2918
+Iteration:  100
+EdgeMLP updated 5500/5600
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3505
+Run: 1
+Mean epoch time of run 6.3468
+Iteration:  100
+EdgeMLP updated 5500/5600
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3484
+Run: 2
+Mean epoch time of run 6.4025
+Iteration:  100
+EdgeMLP updated 5500/5600
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.3469
+---------------Stats-----------
+Mean training epoch runtime: 6.3470
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 5500.0/5600.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3486 +/- 0.0015
+-------------------------------
+----------Conditional------------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 2.430166006088257
+Run: 0
+Mean epoch time of run 8.2938
+Iteration:  100
+EdgeMLP updated 10031/23000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9142
+Run: 1
+Mean epoch time of run 8.2918
+Iteration:  100
+EdgeMLP updated 10050/23000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9145
+Run: 2
+Mean epoch time of run 8.3025
+Iteration:  100
+EdgeMLP updated 10135/23000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9141
+---------------Stats-----------
+Mean training epoch runtime: 8.2960
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 10072.0/23000.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9143 +/- 0.0002
+-------------------------------
+-----------WithoutConditional--------
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.6592767238616943
+Run: 0
+Mean epoch time of run 8.1962
+Iteration:  100
+EdgeMLP updated 11900/23000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9142
+Run: 1
+Mean epoch time of run 8.0355
+Iteration:  100
+EdgeMLP updated 11900/23000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9138
+Run: 2
+Mean epoch time of run 8.0358
+Iteration:  100
+EdgeMLP updated 11900/23000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.9154
+---------------Stats-----------
+Mean training epoch runtime: 8.0892
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 11900.0/23000.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.9145 +/- 0.0007
+-------------------------------
+---bothregulazier-----
+-----------GSAGE---------
+----------Conditional------------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.17405390739440918
+Run: 0
+Mean epoch time of run 0.4020
+Iteration:  100
+EdgeMLP updated 330/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6873
+Run: 1
+Mean epoch time of run 0.3857
+Iteration:  100
+EdgeMLP updated 375/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6873
+Run: 2
+Mean epoch time of run 0.3845
+Iteration:  100
+EdgeMLP updated 370/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6790
+---------------Stats-----------
+Mean training epoch runtime: 0.3907
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 358.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6845 +/- 0.0039
+-------------------------------
+-----------WithoutConditional--------
+cornell5
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.05113959312438965
+Run: 0
+Mean epoch time of run 0.3653
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6857
+Run: 1
+Mean epoch time of run 0.3629
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6827
+Run: 2
+Mean epoch time of run 0.3612
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6862
+---------------Stats-----------
+Mean training epoch runtime: 0.3631
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 400.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6849 +/- 0.0015
+-------------------------------
+----------Conditional------------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.1261441707611084
+Run: 0
+Mean epoch time of run 0.1666
+Iteration:  100
+EdgeMLP updated 120/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7806
+Run: 1
+Mean epoch time of run 0.1643
+Iteration:  100
+EdgeMLP updated 123/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7803
+Run: 2
+Mean epoch time of run 0.1622
+Iteration:  100
+EdgeMLP updated 131/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7840
+---------------Stats-----------
+Mean training epoch runtime: 0.1644
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 125.0/300.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7816 +/- 0.0017
+-------------------------------
+-----------WithoutConditional--------
+Tolokers
+Using METIS with num_parts: 3 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.009362220764160156
+Run: 0
+Mean epoch time of run 0.1733
+Iteration:  100
+EdgeMLP updated 300/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7820
+Run: 1
+Mean epoch time of run 0.1694
+Iteration:  100
+EdgeMLP updated 300/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7786
+Run: 2
+Mean epoch time of run 0.1781
+Iteration:  100
+EdgeMLP updated 300/300
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7813
+---------------Stats-----------
+Mean training epoch runtime: 0.1736
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 300.0/300.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7806 +/- 0.0015
+-------------------------------
+----------Conditional------------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.22548270225524902
+Run: 0
+Mean epoch time of run 0.4716
+Iteration:  100
+EdgeMLP updated 189/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.8036
+Run: 1
+Mean epoch time of run 0.4679
+Iteration:  100
+EdgeMLP updated 187/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.8015
+Run: 2
+Mean epoch time of run 0.4382
+Iteration:  100
+EdgeMLP updated 43/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 0.4593
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 140.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8017 +/- 0.0015
+-------------------------------
+-----------WithoutConditional--------
+genius
+Using METIS with num_parts: 4 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.05213475227355957
+Run: 0
+Mean epoch time of run 0.4108
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+Run: 1
+Mean epoch time of run 0.4131
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+Run: 2
+Mean epoch time of run 0.4122
+Iteration:  100
+EdgeMLP updated 400/400
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.7999
+---------------Stats-----------
+Mean training epoch runtime: 0.4120
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 400.0/400.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.7999 +/- 0.0000
+-------------------------------
+----------Conditional------------
+pokec
+Using METIS with num_parts: 90 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 1.9563229084014893
+Run: 0
+Mean epoch time of run 7.4869
+Iteration:  100
+EdgeMLP updated 5759/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6148
+Run: 1
+Mean epoch time of run 7.6247
+Iteration:  100
+EdgeMLP updated 6019/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6167
+Run: 2
+Mean epoch time of run 7.7242
+Iteration:  100
+EdgeMLP updated 5998/9000
+Best Test F1 throughout: 0.0000
+Loading best model for final evaluation at val: 0.0000
+Best Test F1 after loading saved model: 0.6163
+---------------Stats-----------
+Mean training epoch runtime: 7.6119
+Mean convergence number: 100.0000 +/- 0.0000, [100, 100, 100]
+EdgeMLP updated/Total GNN updates 5925.0/9000.0
+Mean Std of Best Test we could do F1 Score: 0.0000 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.0000 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.6159 +/- 0.0008
+-------------------------------
+-----------WithoutConditional--------
