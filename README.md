@@ -1,4 +1,4 @@
-# SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks
+# SGS-GNN: A Supervised Graph Sparsifier for Graph Neural Networks
 
 SGS-GNN is a novel supervised graph sparsification algorithm that learns the sampling probability distribution of edges and samples sparse subgraphs of a user-specified size to reduce the memory required by GNNs for inference tasks on large graphs.
 
