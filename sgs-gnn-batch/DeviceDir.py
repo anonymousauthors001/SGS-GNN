@@ -6,14 +6,7 @@ import os
 
 def get_directory(log = False):
 
-    if os.uname()[1].find('gilbreth')==0: ##if not darwin(mac/locallaptop)
-        DIR='/scratch/gilbreth/das90/Dataset/'
-    elif os.uname()[1].find('unimodular')==0:
-        DIR='/scratch2/das90/Dataset/'
-    elif os.uname()[1].find('Siddharthas')==0:
-        DIR='/Users/siddharthashankardas/Purdue/Dataset/'  
-    else:
-        DIR='./Dataset/'
+    DIR='./Dataset/'
 
     Path(DIR).mkdir(parents=True, exist_ok=True)
 

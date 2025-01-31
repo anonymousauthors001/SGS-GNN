@@ -13,6 +13,7 @@ from torch_geometric.utils import to_undirected
 from ipynb.fs.full.EffectiveResistanceWeights import EffectiveRessistance
 import os
 import scipy.sparse as sp
+import torch.nn.functional as F
 
 from sklearn.decomposition import TruncatedSVD
 
@@ -150,7 +151,8 @@ def add_degree(data):
     deg_out = 1. / adj.storage.rowcount()
     prob = (1. / deg_in[row]) + (1. / deg_out[col])
     prob = 1. / (prob + 1e-10)
-    data.prob = prob 
+    prob = F.softmax(prob/100, dim=0)
+    data.prob = prob
 
 
 def add_ER(data, DIR, dataset_name, recompute = False):
