@@ -151,7 +151,8 @@ def add_degree(data):
     deg_out = 1. / adj.storage.rowcount()
     prob = (1. / deg_in[row]) + (1. / deg_out[col])
     prob = 1. / (prob + 1e-10)
-    prob = F.softmax(prob/100, dim=0)
+    #prob = F.softmax(prob/100, dim=0)
+    prob = F.softmax(prob*len(prob)**-0.5,dim=0) #normalize (low variance)
     data.prob = prob
 
 
@@ -166,7 +167,8 @@ def add_ER(data, DIR, dataset_name, recompute = False):
         er = EffectiveRessistance(data, eps=0.1, lmbda=0.1)
         weight  = er.er_weight()
         torch.save(weight, E_filename)
-        
+
+    weight = F.softmax(weight*len(weight)**-0.5,dim=0) #normalize (low variance)
     
     data.prob = weight
 
