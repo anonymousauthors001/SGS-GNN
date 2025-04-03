@@ -82,16 +82,16 @@ def evaluate(model, cluster_loader, device, q=500, mode=None):
 import os
 
 def get_loader(data, DATASET_NAME, sample_percent=0.20):
-    use_metis = data.edge_index.shape[1]>=500000 # or data.num_nodes >= 20000
+    use_metis = data.edge_index.shape[1]>=100000 # or data.num_nodes >= 20000
 
-    use_metis = True
+    # use_metis = True
 
     if use_metis:
-        num_edges_per_partition = 500000
+        num_edges_per_partition = 100000
         num_parts = int(np.ceil(data.edge_index.shape[1] / num_edges_per_partition))    
         
-    #     num_parts = 12
-    #     num_edges_per_partition = int(data.edge_index.shape[1] / num_parts)
+        # num_parts = 256
+        # num_edges_per_partition = int(data.edge_index.shape[1] / num_parts)
 
         sample_size = int(num_edges_per_partition * sample_percent)
         print("Using METIS with num_parts:", num_parts, "avg edges per partition:", num_edges_per_partition, "sample size:", sample_size)
@@ -378,9 +378,12 @@ if __name__ == '__main__':
     
     best_test_f1 = []
 
-    for i in range(5):
+    for i in range(10):
+
+        print("="*50,"run", "="*50, i)
+
         test_f1 = run(args)
         best_test_f1.append(test_f1)
     
-    print(f'Mean std f1 {np.mean(best_test_f1)*100:.2f} +/- {np.std(best_test_f1)*100:.2f}')
+    print(f'Mean std f1 {np.mean(best_test_f1)*100:.2f} ± {np.std(best_test_f1)*100:.2f}')
 
