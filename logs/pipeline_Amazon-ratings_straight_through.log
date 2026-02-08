@@ -1,0 +1,26 @@
+Amazon-ratings
+HeterophilousGraphDataset(name=amazon_ratings)
+Data(x=[24492, 300], edge_index=[2, 93050], y=[24492], train_mask=[24492, 10], val_mask=[24492, 10], test_mask=[24492, 10])
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+[gpu-profile] epoch=0 peak_epoch_mb=1597.24 edge_mlp_pre: peak_inc_mb=231.39 (14.49% of epoch_peak, 1.02% of device) alloc_after_mb=147.59 calls=1 | edge_score: peak_inc_mb=994.41 (62.26% of epoch_peak, 4.40% of device) alloc_after_mb=1285.74 calls=1 | gnn_forward: peak_inc_mb=168.77 (10.57% of epoch_peak, 0.75% of device) alloc_after_mb=1465.10 calls=2 | backward: peak_inc_mb=19.23 (1.20% of epoch_peak, 0.09% of device) alloc_after_mb=136.79 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2244.0
+[gpu-profile] epoch=1 peak_epoch_mb=1602.58 edge_mlp_pre: peak_inc_mb=223.41 (13.94% of epoch_peak, 0.99% of device) alloc_after_mb=161.06 calls=1 | edge_score: peak_inc_mb=994.32 (62.05% of epoch_peak, 4.40% of device) alloc_after_mb=1299.21 calls=1 | gnn_forward: peak_inc_mb=168.77 (10.53% of epoch_peak, 0.75% of device) alloc_after_mb=1478.57 calls=2 | backward: peak_inc_mb=11.10 (0.69% of epoch_peak, 0.05% of device) alloc_after_mb=142.07 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2248.0
+[gpu-profile] epoch=2 peak_epoch_mb=1602.58 edge_mlp_pre: peak_inc_mb=223.41 (13.94% of epoch_peak, 0.99% of device) alloc_after_mb=161.06 calls=1 | edge_score: peak_inc_mb=994.32 (62.05% of epoch_peak, 4.40% of device) alloc_after_mb=1299.21 calls=1 | gnn_forward: peak_inc_mb=168.77 (10.53% of epoch_peak, 0.75% of device) alloc_after_mb=1478.57 calls=2 | backward: peak_inc_mb=11.10 (0.69% of epoch_peak, 0.05% of device) alloc_after_mb=142.07 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2248.0
+Mean epoch time of run 0.1801
+Iteration:  3
+EdgeMLP updated 3/3
+Best Test F1 throughout: 0.3564
+Loading best model for final evaluation at val: 0.3552
+Best Test F1 after loading saved model: 0.3551
+[stats] pipeline=straight_through run=0 train_time_sec=0.5404 peak_gpu_mem_mb=1602.58 best_val_f1=0.3551 best_test_f1=0.3551
+---------------Stats-----------
+Mean training epoch runtime: 0.1801
+Mean convergence number: 3.0000 +/- 0.0000, [3]
+EdgeMLP updated/Total GNN updates 3.0/3.0
+Mean Std of Best Test we could do F1 Score: 0.3564 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3564 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3551 +/- 0.0000
+-------------------------------

@@ -1,0 +1,27 @@
+Reddit
+Reddit()
+Data(x=[232965, 602], edge_index=[2, 114615892], y=[232965], train_mask=[232965], val_mask=[232965], test_mask=[232965])
+Using METIS with num_parts: 230 avg edges per partition: 500000 sample size: 100000
+METIS Partition time: 0.5849361419677734
+Run: 0
+[gpu-profile] epoch=0 peak_epoch_mb=6341.04 edge_mlp_pre: peak_inc_mb=210.76 (3.32% of epoch_peak, 0.93% of device) alloc_after_mb=4476.29 calls=119 | edge_score: peak_inc_mb=2064.99 (32.57% of epoch_peak, 9.13% of device) alloc_after_mb=6134.58 calls=119 | gnn_forward: peak_inc_mb=200.08 (3.16% of epoch_peak, 0.88% of device) alloc_after_mb=6262.27 calls=349 | backward: peak_inc_mb=90.26 (1.42% of epoch_peak, 0.40% of device) alloc_after_mb=4467.67 calls=230
+[mem] allocated_mb=25.8 reserved_mb=14250.0
+[gpu-profile] epoch=1 peak_epoch_mb=6738.00 edge_mlp_pre: peak_inc_mb=202.72 (3.01% of epoch_peak, 0.90% of device) alloc_after_mb=4472.79 calls=119 | edge_score: peak_inc_mb=1308.87 (19.43% of epoch_peak, 5.79% of device) alloc_after_mb=6530.58 calls=119 | gnn_forward: peak_inc_mb=200.15 (2.97% of epoch_peak, 0.89% of device) alloc_after_mb=6660.17 calls=349 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=4466.42 calls=230
+[mem] allocated_mb=25.8 reserved_mb=14250.0
+[gpu-profile] epoch=2 peak_epoch_mb=6688.42 edge_mlp_pre: peak_inc_mb=204.31 (3.05% of epoch_peak, 0.90% of device) alloc_after_mb=3941.05 calls=119 | edge_score: peak_inc_mb=1245.11 (18.62% of epoch_peak, 5.51% of device) alloc_after_mb=6480.03 calls=119 | gnn_forward: peak_inc_mb=201.53 (3.01% of epoch_peak, 0.89% of device) alloc_after_mb=6609.48 calls=349 | backward: peak_inc_mb=210.32 (3.14% of epoch_peak, 0.93% of device) alloc_after_mb=3930.18 calls=230
+[mem] allocated_mb=25.8 reserved_mb=15618.0
+Mean epoch time of run 11.3680
+Iteration:  3
+EdgeMLP updated 156/690
+Best Test F1 throughout: 0.8819
+Loading best model for final evaluation at val: 0.8862
+Best Test F1 after loading saved model: 0.8818
+[stats] pipeline=straight_through run=0 train_time_sec=34.1039 peak_gpu_mem_mb=6738.00 best_val_f1=0.8864 best_test_f1=0.8818
+---------------Stats-----------
+Mean training epoch runtime: 11.3680
+Mean convergence number: 3.0000 +/- 0.0000, [3]
+EdgeMLP updated/Total GNN updates 156.0/690.0
+Mean Std of Best Test we could do F1 Score: 0.8819 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.8819 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.8818 +/- 0.0000
+-------------------------------

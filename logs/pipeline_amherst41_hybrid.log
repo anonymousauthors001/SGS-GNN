@@ -1,0 +1,25 @@
+amherst41
+Graph has fewer than 500000 nodes; don't do graph partition
+Run: 0
+[hybrid] checkpoint=on
+[gpu-profile] epoch=0 peak_epoch_mb=1147.74 edge_mlp_pre: peak_inc_mb=93.83 (8.18% of epoch_peak, 0.42% of device) alloc_after_mb=35.33 calls=1 | edge_score: peak_inc_mb=1034.23 (90.11% of epoch_peak, 4.58% of device) alloc_after_mb=36.03 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=90.60 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=93.51 calls=1
+[mem] allocated_mb=36.5 reserved_mb=1378.0
+[gpu-profile] epoch=1 peak_epoch_mb=1158.21 edge_mlp_pre: peak_inc_mb=85.41 (7.37% of epoch_peak, 0.38% of device) alloc_after_mb=45.80 calls=1 | edge_score: peak_inc_mb=1034.52 (89.32% of epoch_peak, 4.58% of device) alloc_after_mb=46.49 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=100.10 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=95.70 calls=1
+[mem] allocated_mb=37.3 reserved_mb=1558.0
+[gpu-profile] epoch=2 peak_epoch_mb=1358.54 edge_mlp_pre: peak_inc_mb=85.41 (6.29% of epoch_peak, 0.38% of device) alloc_after_mb=45.80 calls=1 | edge_score: peak_inc_mb=1034.52 (76.15% of epoch_peak, 4.58% of device) alloc_after_mb=46.49 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=100.10 calls=2 | backward: peak_inc_mb=200.34 (14.75% of epoch_peak, 0.89% of device) alloc_after_mb=49.65 calls=1
+[mem] allocated_mb=46.8 reserved_mb=1916.0
+Mean epoch time of run 0.1533
+Iteration:  3
+EdgeMLP updated 1/3
+Best Test F1 throughout: 0.4407
+Loading best model for final evaluation at val: 0.4609
+Best Test F1 after loading saved model: 0.4407
+[stats] pipeline=hybrid run=0 train_time_sec=0.4598 peak_gpu_mem_mb=1358.54 best_val_f1=0.4564 best_test_f1=0.4407
+---------------Stats-----------
+Mean training epoch runtime: 0.1533
+Mean convergence number: 3.0000 +/- 0.0000, [3]
+EdgeMLP updated/Total GNN updates 1.0/3.0
+Mean Std of Best Test we could do F1 Score: 0.4407 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.4407 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.4407 +/- 0.0000
+-------------------------------

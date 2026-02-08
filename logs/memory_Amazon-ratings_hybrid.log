@@ -1,0 +1,41 @@
+Amazon-ratings
+HeterophilousGraphDataset(name=amazon_ratings)
+Data(x=[24492, 300], edge_index=[2, 93050], y=[24492], train_mask=[24492, 10], val_mask=[24492, 10], test_mask=[24492, 10])
+Graph has fewer than 1000000 nodes; don't do graph partition
+Run: 0
+[hybrid] checkpoint=on
+[gpu-profile] epoch=0 peak_epoch_mb=1546.07 edge_mlp_pre: peak_inc_mb=231.39 (14.97% of epoch_peak, 1.02% of device) alloc_after_mb=147.59 calls=1 | edge_score: peak_inc_mb=992.99 (64.23% of epoch_peak, 4.40% of device) alloc_after_mb=148.30 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=326.87 calls=2 | backward: peak_inc_mb=261.04 (16.88% of epoch_peak, 1.16% of device) alloc_after_mb=136.93 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2154.0
+[gpu-profile] epoch=1 peak_epoch_mb=1551.33 edge_mlp_pre: peak_inc_mb=223.33 (14.40% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (64.00% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=252.92 (16.30% of epoch_peak, 1.12% of device) alloc_after_mb=142.21 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2158.0
+[gpu-profile] epoch=2 peak_epoch_mb=1551.33 edge_mlp_pre: peak_inc_mb=223.33 (14.40% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (64.00% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=252.91 (16.30% of epoch_peak, 1.12% of device) alloc_after_mb=142.21 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2158.0
+[gpu-profile] epoch=3 peak_epoch_mb=1298.41 edge_mlp_pre: peak_inc_mb=223.33 (17.20% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (76.47% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=284.72 calls=1
+[mem] allocated_mb=79.7 reserved_mb=2158.0
+[gpu-profile] epoch=4 peak_epoch_mb=1298.41 edge_mlp_pre: peak_inc_mb=223.33 (17.20% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (76.47% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=284.72 calls=1
+[mem] allocated_mb=79.7 reserved_mb=2158.0
+[gpu-profile] epoch=5 peak_epoch_mb=1298.41 edge_mlp_pre: peak_inc_mb=223.33 (17.20% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (76.47% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=284.72 calls=1
+[mem] allocated_mb=79.7 reserved_mb=2158.0
+[gpu-profile] epoch=6 peak_epoch_mb=1298.41 edge_mlp_pre: peak_inc_mb=223.33 (17.20% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (76.47% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=284.72 calls=1
+[mem] allocated_mb=79.7 reserved_mb=2158.0
+[gpu-profile] epoch=7 peak_epoch_mb=1551.33 edge_mlp_pre: peak_inc_mb=223.33 (14.40% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (64.00% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=252.92 (16.30% of epoch_peak, 1.12% of device) alloc_after_mb=142.21 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2158.0
+[gpu-profile] epoch=8 peak_epoch_mb=1551.33 edge_mlp_pre: peak_inc_mb=223.33 (14.40% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (64.00% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=252.91 (16.30% of epoch_peak, 1.12% of device) alloc_after_mb=142.21 calls=1
+[mem] allocated_mb=81.0 reserved_mb=2158.0
+[gpu-profile] epoch=9 peak_epoch_mb=1298.41 edge_mlp_pre: peak_inc_mb=223.33 (17.20% of epoch_peak, 0.99% of device) alloc_after_mb=160.98 calls=1 | edge_score: peak_inc_mb=992.90 (76.47% of epoch_peak, 4.40% of device) alloc_after_mb=161.69 calls=1 | gnn_forward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=340.34 calls=2 | backward: peak_inc_mb=0.00 (0.00% of epoch_peak, 0.00% of device) alloc_after_mb=284.72 calls=1
+[mem] allocated_mb=79.7 reserved_mb=2158.0
+Mean epoch time of run 0.0854
+Iteration:  10
+EdgeMLP updated 5/10
+Best Test F1 throughout: 0.3784
+Loading best model for final evaluation at val: 0.3786
+Best Test F1 after loading saved model: 0.3794
+[stats] pipeline=hybrid run=0 train_time_sec=0.8545 peak_gpu_mem_mb=1551.33 best_val_f1=0.3787 best_test_f1=0.3794
+---------------Stats-----------
+Mean training epoch runtime: 0.0854
+Mean convergence number: 10.0000 +/- 0.0000, [10]
+EdgeMLP updated/Total GNN updates 5.0/10.0
+Mean Std of Best Test we could do F1 Score: 0.3784 +/- 0.0000
+Mean Std of Test at best Val F1 Score: 0.3784 +/- 0.0000
+Mean Std of Loaded best Val model Test F1 Score: 0.3794 +/- 0.0000
+-------------------------------
