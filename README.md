@@ -25,8 +25,7 @@ pip install -r requirements.txt
 
 ## Run 
 
-python main.py --dataset SmallCora --mode learned --runs 1 --epochs 250 --save_csv True --edge_mlp_type GCN --GNN GCN --log True --sparse_edge_mlp True --conditional True --reg1 True --reg2 True
-
+python main.py --dataset SmallCora --mode learned --runs 3 --epochs 250 --save_csv True --edge_mlp_type GCN --GNN GCN --log True --sparse_edge_mlp True --conditional True --reg1 True --reg2 True --hybrid_checkpoint --pipeline hybrid
 
 ## Demo run
 
